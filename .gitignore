@@ -1,0 +1,20 @@
+# Qt Creator
+*.pro.user*
+*.autosave
+*.qbs.user*
+CMakeLists.txt.user*
+
+# Build
+build/
+build-*/
+debug/
+release/
+Makefile*
+*.o
+*.obj
+*.exe
+*.moc
+moc_*
+ui_*.h
+qrc_*.cpp
+.qmake.stash
