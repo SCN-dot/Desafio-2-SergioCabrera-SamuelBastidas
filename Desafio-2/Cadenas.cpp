@@ -1,4 +1,5 @@
 #include "Cadenas.h"
+#include "MonitorRecursos.h"
 
 using namespace std;
 
@@ -136,9 +137,9 @@ char* Cadenas::extraerCampo(const char* linea, int& posicion, char separador, bo
     monitorGlobal.registrarIteraciones(n);
 
     if (!hastaElFinal && linea[fin] == separador) {
-        posicion = fin + 1;     // salta el separador
+        posicion = fin + 1;
     } else {
-        posicion = fin;         // fin de la linea
+        posicion = fin;
     }
     return campo;
 }
@@ -154,7 +155,7 @@ bool Cadenas::aEntero(const char* texto, long& resultado) {
         i = 1;
     }
     if (texto[i] == '\0') {
-        return false;           // solo el signo
+        return false;
     }
     long valor = 0;
     while (texto[i] != '\0') {
@@ -162,10 +163,20 @@ bool Cadenas::aEntero(const char* texto, long& resultado) {
         if (texto[i] < '0' || texto[i] > '9') {
             return false;
         }
-        valor = valor * 10 + (long)(texto[i] - '0');
+
+        long digito = (long)(texto[i] - '0');
+
+        if (valor > (2147483647L - digito) / 10L) {
+            return false;
+        }
+        valor = valor * 10L + digito;
         i = i + 1;
     }
-    resultado = negativo ? -valor : valor;
+
+    if (negativo) {
+        resultado = -valor;
+    } else {
+        resultado = valor;
+    }
     return true;
 }
-

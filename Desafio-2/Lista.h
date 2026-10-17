@@ -4,12 +4,15 @@
 #include "MonitorRecursos.h"
 
 template <typename T>
+class Lista;
+
+template <typename T>
 class Nodo {
 private:
     T dato;
     Nodo<T>* siguiente;
 
-    template <typename U> friend class Lista;
+    friend class Lista<T>;
 
 public:
     Nodo(const T& val) : dato(val), siguiente(nullptr) {}
@@ -22,10 +25,6 @@ public:
         return dato;
     }
 
-    void establecerDato(const T& val) {
-        dato = val;
-    }
-
     Nodo<T>* obtenerSiguiente() const {
         return siguiente;
     }
@@ -34,6 +33,9 @@ public:
         siguiente = sig;
     }
 };
+
+
+// CLASE LISTA<T> (Lista enlazada simple con puntero al ultimo nodo)
 
 template <typename T>
 class Lista {

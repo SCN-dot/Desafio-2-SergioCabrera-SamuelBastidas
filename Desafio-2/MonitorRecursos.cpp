@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Instancia global unica del monitor
 MonitorRecursos monitorGlobal;
 
 MonitorRecursos::MonitorRecursos() {
@@ -12,6 +13,7 @@ MonitorRecursos::MonitorRecursos() {
 }
 
 MonitorRecursos::~MonitorRecursos() {
+    // No posee memoria dinamica propia
 }
 
 void MonitorRecursos::registrarAsignacion(size_t bytes) {
@@ -57,8 +59,12 @@ size_t MonitorRecursos::obtenerMemoriaTotal(size_t bytesStack) const {
     return bytesAsignados + bytesStack;
 }
 
+void MonitorRecursos::auditarEstado() const {
+    auditarEstado(0);
+}
+
 void MonitorRecursos::auditarEstado(size_t bytesStack) const {
-    cout << "\n    CONSUMO DE RECURSOS    " << endl;
+    cout << "\n     CONSUMO DE RECURSOS     " << endl;
     cout << "Iteraciones requeridas        : " << totalIteraciones << endl;
     cout << "Usos de componentes externos  : " << llamadasExternas << endl;
     cout << "Memoria dinamica (heap)       : " << bytesAsignados << " bytes" << endl;
@@ -67,4 +73,3 @@ void MonitorRecursos::auditarEstado(size_t bytesStack) const {
     cout << "Bloques dinamicos activos     : " << asignacionesActivas << endl;
     cout << "\n" << endl;
 }
-

@@ -29,6 +29,7 @@ public:
 
     size_t obtenerMemoriaTotal(size_t bytesStack) const;
 
+    void auditarEstado() const;
     void auditarEstado(size_t bytesStack) const;
 };
 
