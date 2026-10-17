@@ -9,6 +9,7 @@ SOURCES += \
         Fecha.cpp \
         GrafoAmistad.cpp \
         MonitorRecursos.cpp \
+        RedSocial.cpp \
         main.cpp
 
 HEADERS += \
@@ -17,4 +18,5 @@ HEADERS += \
     Fecha.h \
     GrafoAmistad.h \
     Lista.h \
-    MonitorRecursos.h
+    MonitorRecursos.h \
+    RedSocial.h
