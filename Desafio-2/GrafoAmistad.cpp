@@ -3,7 +3,12 @@
 using namespace std;
 
 GrafoAmistad::GrafoAmistad(int cap) {
-    capacidad = (cap < 0) ? 0 : cap;
+    // Si la capacidad es negativa, la dejamos en 0 por proteccion
+    if (cap < 0) {
+        capacidad = 0;
+    } else {
+        capacidad = cap;
+    }
     numUsuarios = 0;
 
     matrizAdyacencia = new bool*[capacidad];
@@ -15,7 +20,7 @@ GrafoAmistad::GrafoAmistad(int cap) {
         for (int j = 0; j < capacidad; j++) {
             matrizAdyacencia[i][j] = false;
         }
-        monitorGlobal.registrarIteraciones(capacidad + 1);
+        monitorGlobal.registrarIteraciones(capacidad + 1);   // por fila, para no desbordar el int
     }
 }
 
@@ -39,6 +44,7 @@ void GrafoAmistad::incrementarUsuarios() {
 }
 
 void GrafoAmistad::agregarAmistad(int u, int v) {
+    monitorGlobal.registrarIteraciones(1);
     if (u < 0 || u >= numUsuarios || v < 0 || v >= numUsuarios || u == v) {
         return;
     }
@@ -103,4 +109,3 @@ int GrafoAmistad::obtenerCapacidad() const {
 int GrafoAmistad::obtenerNumUsuarios() const {
     return numUsuarios;
 }
-

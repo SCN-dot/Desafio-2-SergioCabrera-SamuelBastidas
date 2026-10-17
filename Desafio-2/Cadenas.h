@@ -1,11 +1,9 @@
 #ifndef CADENAS_H
 #define CADENAS_H
 
-#include "MonitorRecursos.h"
-
 class Cadenas {
 private:
-    Cadenas();
+    Cadenas();   // Clase utilitaria: no se instancia
 
 public:
     static int longitud(const char* texto);

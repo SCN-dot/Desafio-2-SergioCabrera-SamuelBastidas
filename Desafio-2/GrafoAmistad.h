@@ -13,7 +13,7 @@ private:
     GrafoAmistad& operator=(const GrafoAmistad& otro);
 
 public:
-    GrafoAmistad(int cap);
+    explicit GrafoAmistad(int cap);
     ~GrafoAmistad();
 
     void incrementarUsuarios();
