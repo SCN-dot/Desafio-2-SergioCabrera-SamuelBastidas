@@ -6,28 +6,30 @@
 class Foto {
 private:
     int idFoto;
-    char* rutaArchivo;      // Ruta absoluta en notacion Linux (memoria dinamica propia)
+    char* rutaArchivo;
     size_t tamanoBytes;
-    long fechaCaptura;      // AAAAMMDD
+    long fechaCaptura;
     int contadorLikes;
-    bool likeActivo;        // Solo de la sesion (no se guarda): permite alternar dar/quitar like
+    bool likeActivo;
 
 public:
-    Foto(int id, const char* ruta, size_t tam, long fecha, int likes);
-    Foto(const Foto& otra);                 // Copia profunda
-    Foto& operator=(const Foto& otra);      // Asignacion con copia profunda
+    Foto(const char* ruta, size_t tam, long fecha);
+    Foto(int id, const char* ruta, size_t tam, long fecha, int likes = 0);
+    Foto(const Foto& otra);
+    Foto& operator=(const Foto& otra);
     ~Foto();
 
     void darQuitarLike();
-    void reiniciarLike();                   // Al cerrar sesion: la marca de la sesion vuelve a false (no cambia el conteo)
+    void reiniciarLike();
 
     int obtenerId() const;
     const char* obtenerRuta() const;
+    char* obtenerRuta();
     size_t obtenerTamano() const;
     long obtenerFecha() const;
     int obtenerLikes() const;
 
-    void establecerLikes(int likes);
+    friend std::ostream& operator<<(std::ostream& salida, const Foto& f);
 };
 
-#endif // FOTO_H
+#endif

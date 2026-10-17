@@ -1,7 +1,10 @@
 #include "Mensaje.h"
 #include "Cadenas.h"
+#include "Fecha.h"
 
 using namespace std;
+
+
 
 Mensaje::Mensaje(int id, int emisor, int receptor, long fecha, bool yaLeido, const char* cont) {
     idMensaje = id;
@@ -75,4 +78,15 @@ long Mensaje::obtenerTimestamp() const {
 
 const char* Mensaje::obtenerContenido() const {
     return contenido;
+}
+
+bool Mensaje::operator<(const Mensaje& otro) const {
+    return timestamp < otro.timestamp;
+}
+
+ostream& operator<<(ostream& salida, const Mensaje& m) {
+    char* fecha = Fecha::aTexto(m.timestamp);
+    salida << "[" << fecha << "] " << m.contenido;
+    Cadenas::liberar(fecha);
+    return salida;
 }

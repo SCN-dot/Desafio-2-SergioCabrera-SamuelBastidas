@@ -3,16 +3,40 @@
 
 using namespace std;
 
+Foto::Foto(const char* ruta, size_t tam, long fecha) {
+    idFoto = 0;
+    tamanoBytes = tam;
+    fechaCaptura = fecha;
+    contadorLikes = 0;
+    likeActivo = false;
+
+    if (ruta != nullptr) {
+        rutaArchivo = Cadenas::duplicar(ruta);
+    } else {
+        rutaArchivo = Cadenas::duplicar("");
+    }
+}
+
 Foto::Foto(int id, const char* ruta, size_t tam, long fecha, int likes) {
     idFoto = id;
     tamanoBytes = tam;
     fechaCaptura = fecha;
-    contadorLikes = (likes < 0) ? 0 : likes;    // Defensa minima: nunca negativos
+
+    if (likes < 0) {
+        contadorLikes = 0;
+    } else {
+        contadorLikes = likes;
+    }
+
     likeActivo = false;
-    rutaArchivo = Cadenas::duplicar(ruta != nullptr ? ruta : "");
+
+    if (ruta != nullptr) {
+        rutaArchivo = Cadenas::duplicar(ruta);
+    } else {
+        rutaArchivo = Cadenas::duplicar("");
+    }
 }
 
-// Copia profunda: la ruta se duplica en memoria propia
 Foto::Foto(const Foto& otra) {
     idFoto = otra.idFoto;
     tamanoBytes = otra.tamanoBytes;
@@ -24,7 +48,6 @@ Foto::Foto(const Foto& otra) {
 
 Foto& Foto::operator=(const Foto& otra) {
     if (this != &otra) {
-        // Primero se duplica la nueva ruta y luego se libera la anterior
         char* nuevaRuta = Cadenas::duplicar(otra.rutaArchivo);
         Cadenas::liberar(rutaArchivo);
         rutaArchivo = nuevaRuta;
@@ -42,7 +65,6 @@ Foto::~Foto() {
     Cadenas::liberar(rutaArchivo);
 }
 
-// Alterna: si el usuario de la sesion no habia dado like lo suma; si ya lo habia dado lo quita
 void Foto::darQuitarLike() {
     if (!likeActivo) {
         contadorLikes = contadorLikes + 1;
@@ -55,7 +77,6 @@ void Foto::darQuitarLike() {
     }
 }
 
-// Al cerrar sesion el siguiente usuario empieza sin like activo (el conteo no cambia)
 void Foto::reiniciarLike() {
     likeActivo = false;
 }
@@ -65,6 +86,10 @@ int Foto::obtenerId() const {
 }
 
 const char* Foto::obtenerRuta() const {
+    return rutaArchivo;
+}
+
+char* Foto::obtenerRuta() {
     return rutaArchivo;
 }
 
@@ -80,6 +105,7 @@ int Foto::obtenerLikes() const {
     return contadorLikes;
 }
 
-void Foto::establecerLikes(int likes) {
-    contadorLikes = (likes < 0) ? 0 : likes;
+ostream& operator<<(ostream& salida, const Foto& f) {
+    salida << f.rutaArchivo << "  (likes: " << f.contadorLikes << ")";
+    return salida;
 }

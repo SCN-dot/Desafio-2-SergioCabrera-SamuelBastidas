@@ -5,19 +5,19 @@
 
 class Mensaje {
 public:
-    static const int LONGITUD_MAXIMA = 512;     // Caracteres maximos del contenido
+    static const int LONGITUD_MAXIMA = 512;
 
 private:
     int idMensaje;
-    int idEmisor;           // Se guardan ids (no nombres) para no duplicar cadenas por mensaje
+    int idEmisor;
     int idReceptor;
     char* contenido;
-    long timestamp;         // Fecha de envio AAAAMMDD
+    long timestamp;
     bool leido;
 
 public:
     Mensaje(int id, int emisor, int receptor, long fecha, bool yaLeido, const char* cont);
-    Mensaje(const Mensaje& otro);               // Copia profunda
+    Mensaje(const Mensaje& otro);
     Mensaje& operator=(const Mensaje& otro);
     ~Mensaje();
 
@@ -29,6 +29,9 @@ public:
     int obtenerIdReceptor() const;
     long obtenerTimestamp() const;
     const char* obtenerContenido() const;
+
+    bool operator<(const Mensaje& otro) const;
+    friend std::ostream& operator<<(std::ostream& salida, const Mensaje& m);
 };
 
-#endif // MENSAJE_H
+#endif

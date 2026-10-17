@@ -1,13 +1,14 @@
 #include "SolicitudAmistad.h"
 
-using namespace std;
-
-SolicitudAmistad::SolicitudAmistad(int id, int emisor, int receptor, int estadoInicial) {
+SolicitudAmistad::SolicitudAmistad(int id, int emisorId, int receptorId, int estadoInicial) {
     idSolicitud = id;
-    idEmisor = emisor;
-    idReceptor = receptor;
-    // Defensa minima: un estado fuera de 0..2 se trata como pendiente
-    estado = (estadoInicial >= 0 && estadoInicial <= 2) ? estadoInicial : 0;
+    idEmisor = emisorId;
+    idReceptor = receptorId;
+    if (estadoInicial >= PENDIENTE && estadoInicial <= RECHAZADA) {
+        estado = estadoInicial;
+    } else {
+        estado = PENDIENTE;
+    }
 }
 
 SolicitudAmistad::SolicitudAmistad(const SolicitudAmistad& otra) {
@@ -28,19 +29,17 @@ SolicitudAmistad& SolicitudAmistad::operator=(const SolicitudAmistad& otra) {
 }
 
 SolicitudAmistad::~SolicitudAmistad() {
-    // No posee memoria dinamica propia
 }
 
-// Solo una solicitud pendiente puede cambiar de estado; una ya resuelta no se altera
 void SolicitudAmistad::aceptar() {
-    if (estado == 0) {
-        estado = 1;
+    if (estado == PENDIENTE) {
+        estado = ACEPTADA;
     }
 }
 
 void SolicitudAmistad::rechazar() {
-    if (estado == 0) {
-        estado = 2;
+    if (estado == PENDIENTE) {
+        estado = RECHAZADA;
     }
 }
 

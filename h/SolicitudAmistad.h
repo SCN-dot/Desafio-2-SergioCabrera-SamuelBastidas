@@ -4,11 +4,16 @@
 #include "MonitorRecursos.h"
 
 class SolicitudAmistad {
+public:
+    static const int PENDIENTE = 0;
+    static const int ACEPTADA = 1;
+    static const int RECHAZADA = 2;
+
 private:
     int idSolicitud;
     int idEmisor;
     int idReceptor;
-    int estado;             // 0: Pendiente, 1: Aceptada, 2: Rechazada
+    int estado;
 
 public:
     SolicitudAmistad(int id, int emisor, int receptor, int estadoInicial);
@@ -25,4 +30,4 @@ public:
     int obtenerEstado() const;
 };
 
-#endif // SOLICITUDAMISTAD_H
+#endif
