@@ -1,0 +1,2070 @@
+ID_Mensaje|ID_Emisor|ID_Receptor|Fecha_Envio|Leido|Contenido
+0|258|51|2026-05-20|0|Todo excelente user_0051! Probando listas enlazadas y grafos.
+1|787|51|2026-05-20|0|Todo excelente user_0051! Probando listas enlazadas y grafos.
+2|54|53|2026-10-10|0|Todo excelente user_0053! Probando listas enlazadas y grafos.
+3|53|54|2024-02-29|1|Hola user_0054, como vas con el Desafio 2 de C++?
+4|57|55|2026-10-10|0|Todo excelente user_0055! Probando listas enlazadas y grafos.
+5|55|57|2025-12-31|1|Hola user_0057, como vas con el Desafio 2 de C++?
+6|993|58|2026-10-10|0|Todo excelente user_0058! Probando listas enlazadas y grafos.
+7|951|61|2026-01-01|0|Todo excelente user_0061! Probando listas enlazadas y grafos.
+8|133|70|2026-05-20|0|Todo excelente user_0070! Probando listas enlazadas y grafos.
+9|727|70|2026-05-20|0|Todo excelente user_0070! Probando listas enlazadas y grafos.
+10|771|71|2026-01-01|0|Todo excelente user_0071! Probando listas enlazadas y grafos.
+11|651|71|2026-10-10|0|Todo excelente user_0071! Probando listas enlazadas y grafos.
+12|905|71|2026-10-10|0|Todo excelente user_0071! Probando listas enlazadas y grafos.
+13|567|73|2026-05-20|0|Todo excelente user_0073! Probando listas enlazadas y grafos.
+14|169|74|2026-05-20|0|Todo excelente user_0074! Probando listas enlazadas y grafos.
+15|178|77|2026-01-01|0|Todo excelente user_0077! Probando listas enlazadas y grafos.
+16|873|77|2026-01-01|0|Todo excelente user_0077! Probando listas enlazadas y grafos.
+17|926|79|2026-10-10|0|Todo excelente user_0079! Probando listas enlazadas y grafos.
+18|535|81|2026-10-14|0|Todo excelente user_0081! Probando listas enlazadas y grafos.
+19|58|83|2024-02-29|1|Hola user_0083, saludo unidireccional desde user_0058.
+20|475|83|2026-10-10|0|Todo excelente user_0083! Probando listas enlazadas y grafos.
+21|962|85|2026-05-20|0|Todo excelente user_0085! Probando listas enlazadas y grafos.
+22|914|86|2026-10-14|0|Todo excelente user_0086! Probando listas enlazadas y grafos.
+23|651|87|2026-01-01|0|Todo excelente user_0087! Probando listas enlazadas y grafos.
+24|530|87|2026-10-10|0|Todo excelente user_0087! Probando listas enlazadas y grafos.
+25|986|89|2026-01-01|0|Todo excelente user_0089! Probando listas enlazadas y grafos.
+26|757|90|2026-10-14|0|Todo excelente user_0090! Probando listas enlazadas y grafos.
+27|963|91|2026-01-01|0|Todo excelente user_0091! Probando listas enlazadas y grafos.
+28|421|93|2026-01-01|0|Todo excelente user_0093! Probando listas enlazadas y grafos.
+29|57|94|2026-01-01|1|Hola user_0094, saludo unidireccional desde user_0057.
+30|279|94|2026-01-01|0|Todo excelente user_0094! Probando listas enlazadas y grafos.
+31|398|94|2026-01-01|0|Todo excelente user_0094! Probando listas enlazadas y grafos.
+32|178|94|2026-05-20|0|Todo excelente user_0094! Probando listas enlazadas y grafos.
+33|279|95|2026-10-14|0|Todo excelente user_0095! Probando listas enlazadas y grafos.
+34|58|99|2025-01-15|0|Hola user_0099, saludo unidireccional desde user_0058.
+35|715|105|2026-01-01|0|Todo excelente user_0105! Probando listas enlazadas y grafos.
+36|59|106|2026-10-14|0|Hola user_0106, saludo unidireccional desde user_0059.
+37|726|109|2026-10-14|0|Todo excelente user_0109! Probando listas enlazadas y grafos.
+38|802|109|2026-10-14|0|Todo excelente user_0109! Probando listas enlazadas y grafos.
+39|890|110|2026-01-01|0|Todo excelente user_0110! Probando listas enlazadas y grafos.
+40|991|110|2026-05-20|0|Todo excelente user_0110! Probando listas enlazadas y grafos.
+41|371|111|2026-10-14|0|Todo excelente user_0111! Probando listas enlazadas y grafos.
+42|901|111|2026-10-14|0|Todo excelente user_0111! Probando listas enlazadas y grafos.
+43|979|113|2026-01-01|0|Todo excelente user_0113! Probando listas enlazadas y grafos.
+44|179|114|2026-01-01|0|Todo excelente user_0114! Probando listas enlazadas y grafos.
+45|183|114|2026-01-01|0|Todo excelente user_0114! Probando listas enlazadas y grafos.
+46|78|115|2025-06-30|0|Hola user_0115, saludo unidireccional desde user_0078.
+47|269|119|2026-05-20|0|Todo excelente user_0119! Probando listas enlazadas y grafos.
+48|291|119|2026-05-20|0|Todo excelente user_0119! Probando listas enlazadas y grafos.
+49|582|121|2026-05-20|0|Todo excelente user_0121! Probando listas enlazadas y grafos.
+50|485|123|2026-01-01|0|Todo excelente user_0123! Probando listas enlazadas y grafos.
+51|918|125|2026-05-20|0|Todo excelente user_0125! Probando listas enlazadas y grafos.
+52|962|125|2026-05-20|0|Todo excelente user_0125! Probando listas enlazadas y grafos.
+53|622|126|2026-10-14|0|Todo excelente user_0126! Probando listas enlazadas y grafos.
+54|653|130|2026-05-20|0|Todo excelente user_0130! Probando listas enlazadas y grafos.
+55|362|130|2026-10-14|0|Todo excelente user_0130! Probando listas enlazadas y grafos.
+56|802|131|2026-10-14|0|Todo excelente user_0131! Probando listas enlazadas y grafos.
+57|70|133|2025-12-31|1|Hola user_0133, como vas con el Desafio 2 de C++?
+58|825|133|2026-10-10|0|Todo excelente user_0133! Probando listas enlazadas y grafos.
+59|367|134|2026-10-10|0|Todo excelente user_0134! Probando listas enlazadas y grafos.
+60|395|134|2026-10-10|0|Todo excelente user_0134! Probando listas enlazadas y grafos.
+61|829|135|2026-10-10|0|Todo excelente user_0135! Probando listas enlazadas y grafos.
+62|865|138|2026-05-20|0|Todo excelente user_0138! Probando listas enlazadas y grafos.
+63|683|139|2026-01-01|0|Todo excelente user_0139! Probando listas enlazadas y grafos.
+64|234|142|2026-10-10|0|Todo excelente user_0142! Probando listas enlazadas y grafos.
+65|311|143|2026-05-20|0|Todo excelente user_0143! Probando listas enlazadas y grafos.
+66|69|146|2025-01-15|1|Hola user_0146, saludo unidireccional desde user_0069.
+67|381|147|2026-10-14|0|Todo excelente user_0147! Probando listas enlazadas y grafos.
+68|167|149|2026-01-01|0|Todo excelente user_0149! Probando listas enlazadas y grafos.
+69|554|149|2026-01-01|0|Todo excelente user_0149! Probando listas enlazadas y grafos.
+70|375|149|2026-10-10|0|Todo excelente user_0149! Probando listas enlazadas y grafos.
+71|674|153|2026-05-20|0|Todo excelente user_0153! Probando listas enlazadas y grafos.
+72|701|153|2026-10-10|0|Todo excelente user_0153! Probando listas enlazadas y grafos.
+73|97|154|2025-01-15|1|Hola user_0154, saludo unidireccional desde user_0097.
+74|971|154|2026-05-20|0|Todo excelente user_0154! Probando listas enlazadas y grafos.
+75|55|158|2026-10-10|0|Hola user_0158, saludo unidireccional desde user_0055.
+76|346|158|2026-10-14|0|Todo excelente user_0158! Probando listas enlazadas y grafos.
+77|193|159|2026-10-14|0|Todo excelente user_0159! Probando listas enlazadas y grafos.
+78|943|161|2026-05-20|0|Todo excelente user_0161! Probando listas enlazadas y grafos.
+79|663|161|2026-10-10|0|Todo excelente user_0161! Probando listas enlazadas y grafos.
+80|54|162|2026-05-20|0|Hola user_0162, saludo unidireccional desde user_0054.
+81|845|162|2026-05-20|0|Todo excelente user_0162! Probando listas enlazadas y grafos.
+82|473|163|2026-10-10|0|Todo excelente user_0163! Probando listas enlazadas y grafos.
+83|866|165|2026-01-01|0|Todo excelente user_0165! Probando listas enlazadas y grafos.
+84|411|166|2026-10-14|0|Todo excelente user_0166! Probando listas enlazadas y grafos.
+85|149|167|2025-12-31|1|Hola user_0167, como vas con el Desafio 2 de C++?
+86|74|169|2025-01-15|1|Hola user_0169, como vas con el Desafio 2 de C++?
+87|810|169|2026-10-14|0|Todo excelente user_0169! Probando listas enlazadas y grafos.
+88|813|173|2026-01-01|0|Todo excelente user_0173! Probando listas enlazadas y grafos.
+89|993|173|2026-01-01|0|Todo excelente user_0173! Probando listas enlazadas y grafos.
+90|315|173|2026-05-20|0|Todo excelente user_0173! Probando listas enlazadas y grafos.
+91|715|175|2026-01-01|0|Todo excelente user_0175! Probando listas enlazadas y grafos.
+92|466|177|2026-05-20|0|Todo excelente user_0177! Probando listas enlazadas y grafos.
+93|393|177|2026-10-10|0|Todo excelente user_0177! Probando listas enlazadas y grafos.
+94|94|178|2025-06-30|1|Hola user_0178, como vas con el Desafio 2 de C++?
+95|77|178|2025-12-31|1|Hola user_0178, como vas con el Desafio 2 de C++?
+96|114|179|2024-02-29|1|Hola user_0179, como vas con el Desafio 2 de C++?
+97|619|179|2026-05-20|0|Todo excelente user_0179! Probando listas enlazadas y grafos.
+98|766|182|2026-01-01|0|Todo excelente user_0182! Probando listas enlazadas y grafos.
+99|925|182|2026-01-01|0|Todo excelente user_0182! Probando listas enlazadas y grafos.
+100|114|183|2025-06-30|1|Hola user_0183, como vas con el Desafio 2 de C++?
+101|294|185|2026-05-20|0|Todo excelente user_0185! Probando listas enlazadas y grafos.
+102|966|185|2026-10-14|0|Todo excelente user_0185! Probando listas enlazadas y grafos.
+103|642|187|2026-10-14|0|Todo excelente user_0187! Probando listas enlazadas y grafos.
+104|113|190|2024-02-29|0|Hola user_0190, saludo unidireccional desde user_0113.
+105|370|190|2026-10-14|0|Todo excelente user_0190! Probando listas enlazadas y grafos.
+106|523|191|2026-05-20|0|Todo excelente user_0191! Probando listas enlazadas y grafos.
+107|675|191|2026-05-20|0|Todo excelente user_0191! Probando listas enlazadas y grafos.
+108|351|191|2026-10-10|0|Todo excelente user_0191! Probando listas enlazadas y grafos.
+109|159|193|2025-12-31|1|Hola user_0193, como vas con el Desafio 2 de C++?
+110|841|194|2026-01-01|0|Todo excelente user_0194! Probando listas enlazadas y grafos.
+111|155|195|2026-01-01|1|Hola user_0195, saludo unidireccional desde user_0155.
+112|154|195|2026-05-20|0|Hola user_0195, saludo unidireccional desde user_0154.
+113|357|199|2026-10-14|0|Todo excelente user_0199! Probando listas enlazadas y grafos.
+114|954|201|2026-10-14|0|Todo excelente user_0201! Probando listas enlazadas y grafos.
+115|814|203|2026-10-14|0|Todo excelente user_0203! Probando listas enlazadas y grafos.
+116|735|205|2026-10-14|0|Todo excelente user_0205! Probando listas enlazadas y grafos.
+117|946|207|2026-10-10|0|Todo excelente user_0207! Probando listas enlazadas y grafos.
+118|563|209|2026-10-14|0|Todo excelente user_0209! Probando listas enlazadas y grafos.
+119|533|210|2026-01-01|0|Todo excelente user_0210! Probando listas enlazadas y grafos.
+120|250|213|2026-05-20|0|Todo excelente user_0213! Probando listas enlazadas y grafos.
+121|318|214|2026-10-14|0|Todo excelente user_0214! Probando listas enlazadas y grafos.
+122|86|215|2024-02-29|1|Hola user_0215, saludo unidireccional desde user_0086.
+123|391|215|2026-10-14|0|Todo excelente user_0215! Probando listas enlazadas y grafos.
+124|295|217|2026-05-20|0|Todo excelente user_0217! Probando listas enlazadas y grafos.
+125|623|219|2026-10-14|0|Todo excelente user_0219! Probando listas enlazadas y grafos.
+126|97|221|2026-10-14|1|Hola user_0221, saludo unidireccional desde user_0097.
+127|421|222|2026-05-20|0|Todo excelente user_0222! Probando listas enlazadas y grafos.
+128|154|222|2026-10-10|0|Hola user_0222, saludo unidireccional desde user_0154.
+129|887|223|2026-01-01|0|Todo excelente user_0223! Probando listas enlazadas y grafos.
+130|489|223|2026-10-10|0|Todo excelente user_0223! Probando listas enlazadas y grafos.
+131|853|225|2026-01-01|0|Todo excelente user_0225! Probando listas enlazadas y grafos.
+132|819|225|2026-05-20|0|Todo excelente user_0225! Probando listas enlazadas y grafos.
+133|581|226|2026-10-10|0|Todo excelente user_0226! Probando listas enlazadas y grafos.
+134|379|226|2026-10-14|0|Todo excelente user_0226! Probando listas enlazadas y grafos.
+135|90|227|2026-10-14|1|Hola user_0227, saludo unidireccional desde user_0090.
+136|973|230|2026-10-14|0|Todo excelente user_0230! Probando listas enlazadas y grafos.
+137|410|231|2026-10-10|0|Todo excelente user_0231! Probando listas enlazadas y grafos.
+138|142|234|2025-01-15|1|Hola user_0234, como vas con el Desafio 2 de C++?
+139|306|238|2026-05-20|0|Todo excelente user_0238! Probando listas enlazadas y grafos.
+140|829|241|2026-05-20|0|Todo excelente user_0241! Probando listas enlazadas y grafos.
+141|529|242|2026-10-10|0|Todo excelente user_0242! Probando listas enlazadas y grafos.
+142|577|242|2026-10-10|0|Todo excelente user_0242! Probando listas enlazadas y grafos.
+143|621|243|2026-01-01|0|Todo excelente user_0243! Probando listas enlazadas y grafos.
+144|805|245|2026-05-20|0|Todo excelente user_0245! Probando listas enlazadas y grafos.
+145|847|246|2026-10-10|0|Todo excelente user_0246! Probando listas enlazadas y grafos.
+146|122|247|2026-10-10|1|Hola user_0247, saludo unidireccional desde user_0122.
+147|445|249|2026-10-10|0|Todo excelente user_0249! Probando listas enlazadas y grafos.
+148|213|250|2025-06-30|1|Hola user_0250, como vas con el Desafio 2 de C++?
+149|121|253|2025-01-15|1|Hola user_0253, saludo unidireccional desde user_0121.
+150|163|254|2026-05-20|1|Hola user_0254, saludo unidireccional desde user_0163.
+151|478|254|2026-05-20|0|Todo excelente user_0254! Probando listas enlazadas y grafos.
+152|261|254|2026-10-14|0|Todo excelente user_0254! Probando listas enlazadas y grafos.
+153|201|255|2026-10-10|1|Hola user_0255, saludo unidireccional desde user_0201.
+154|783|257|2026-05-20|0|Todo excelente user_0257! Probando listas enlazadas y grafos.
+155|229|257|2026-10-10|1|Hola user_0257, saludo unidireccional desde user_0229.
+156|51|258|2025-12-31|1|Hola user_0258, como vas con el Desafio 2 de C++?
+157|958|258|2026-10-14|0|Todo excelente user_0258! Probando listas enlazadas y grafos.
+158|778|259|2026-10-14|0|Todo excelente user_0259! Probando listas enlazadas y grafos.
+159|254|261|2025-12-31|1|Hola user_0261, como vas con el Desafio 2 de C++?
+160|427|265|2026-10-10|0|Todo excelente user_0265! Probando listas enlazadas y grafos.
+161|126|267|2026-01-01|1|Hola user_0267, saludo unidireccional desde user_0126.
+162|282|267|2026-10-10|0|Todo excelente user_0267! Probando listas enlazadas y grafos.
+163|119|269|2024-02-29|1|Hola user_0269, como vas con el Desafio 2 de C++?
+164|890|269|2026-10-10|0|Todo excelente user_0269! Probando listas enlazadas y grafos.
+165|869|270|2026-01-01|0|Todo excelente user_0270! Probando listas enlazadas y grafos.
+166|921|270|2026-05-20|0|Todo excelente user_0270! Probando listas enlazadas y grafos.
+167|283|273|2026-10-14|0|Todo excelente user_0273! Probando listas enlazadas y grafos.
+168|98|274|2026-05-20|1|Hola user_0274, saludo unidireccional desde user_0098.
+169|481|277|2026-05-20|0|Todo excelente user_0277! Probando listas enlazadas y grafos.
+170|298|277|2026-10-14|0|Todo excelente user_0277! Probando listas enlazadas y grafos.
+171|275|278|2026-01-01|1|Hola user_0278, saludo unidireccional desde user_0275.
+172|95|279|2024-02-29|1|Hola user_0279, como vas con el Desafio 2 de C++?
+173|94|279|2025-12-31|1|Hola user_0279, como vas con el Desafio 2 de C++?
+174|267|282|2025-12-31|1|Hola user_0282, como vas con el Desafio 2 de C++?
+175|533|282|2026-10-10|0|Todo excelente user_0282! Probando listas enlazadas y grafos.
+176|94|282|2026-10-14|0|Hola user_0282, saludo unidireccional desde user_0094.
+177|117|282|2026-10-14|1|Hola user_0282, saludo unidireccional desde user_0117.
+178|273|283|2025-01-15|1|Hola user_0283, como vas con el Desafio 2 de C++?
+179|835|283|2026-01-01|0|Todo excelente user_0283! Probando listas enlazadas y grafos.
+180|649|286|2026-01-01|0|Todo excelente user_0286! Probando listas enlazadas y grafos.
+181|749|286|2026-10-10|0|Todo excelente user_0286! Probando listas enlazadas y grafos.
+182|87|287|2026-01-01|1|Hola user_0287, saludo unidireccional desde user_0087.
+183|705|287|2026-05-20|0|Todo excelente user_0287! Probando listas enlazadas y grafos.
+184|177|289|2025-01-15|0|Hola user_0289, saludo unidireccional desde user_0177.
+185|791|290|2026-01-01|0|Todo excelente user_0290! Probando listas enlazadas y grafos.
+186|229|290|2026-10-14|0|Hola user_0290, saludo unidireccional desde user_0229.
+187|119|291|2024-02-29|1|Hola user_0291, como vas con el Desafio 2 de C++?
+188|185|294|2025-01-15|1|Hola user_0294, como vas con el Desafio 2 de C++?
+189|217|295|2025-06-30|1|Hola user_0295, como vas con el Desafio 2 de C++?
+190|754|297|2026-05-20|0|Todo excelente user_0297! Probando listas enlazadas y grafos.
+191|277|298|2024-02-29|1|Hola user_0298, como vas con el Desafio 2 de C++?
+192|730|298|2026-10-10|0|Todo excelente user_0298! Probando listas enlazadas y grafos.
+193|194|299|2026-05-20|1|Hola user_0299, saludo unidireccional desde user_0194.
+194|906|299|2026-05-20|0|Todo excelente user_0299! Probando listas enlazadas y grafos.
+195|157|306|2024-02-29|0|Hola user_0306, saludo unidireccional desde user_0157.
+196|238|306|2024-02-29|1|Hola user_0306, como vas con el Desafio 2 de C++?
+197|313|307|2026-01-01|0|Todo excelente user_0307! Probando listas enlazadas y grafos.
+198|363|307|2026-10-10|0|Todo excelente user_0307! Probando listas enlazadas y grafos.
+199|475|309|2026-01-01|0|Todo excelente user_0309! Probando listas enlazadas y grafos.
+200|685|309|2026-10-14|0|Todo excelente user_0309! Probando listas enlazadas y grafos.
+201|947|310|2026-10-14|0|Todo excelente user_0310! Probando listas enlazadas y grafos.
+202|143|311|2025-06-30|1|Hola user_0311, como vas con el Desafio 2 de C++?
+203|307|313|2025-06-30|1|Hola user_0313, como vas con el Desafio 2 de C++?
+204|550|313|2026-05-20|0|Todo excelente user_0313! Probando listas enlazadas y grafos.
+205|173|315|2025-01-15|1|Hola user_0315, como vas con el Desafio 2 de C++?
+206|214|318|2025-06-30|1|Hola user_0318, como vas con el Desafio 2 de C++?
+207|642|318|2026-10-14|0|Todo excelente user_0318! Probando listas enlazadas y grafos.
+208|839|319|2026-10-10|0|Todo excelente user_0319! Probando listas enlazadas y grafos.
+209|233|321|2025-06-30|1|Hola user_0321, saludo unidireccional desde user_0233.
+210|359|321|2026-01-01|0|Todo excelente user_0321! Probando listas enlazadas y grafos.
+211|913|322|2026-01-01|0|Todo excelente user_0322! Probando listas enlazadas y grafos.
+212|975|322|2026-10-10|0|Todo excelente user_0322! Probando listas enlazadas y grafos.
+213|795|322|2026-10-14|0|Todo excelente user_0322! Probando listas enlazadas y grafos.
+214|222|323|2026-05-20|1|Hola user_0323, saludo unidireccional desde user_0222.
+215|233|329|2026-05-20|1|Hola user_0329, saludo unidireccional desde user_0233.
+216|449|330|2026-10-10|0|Todo excelente user_0330! Probando listas enlazadas y grafos.
+217|635|331|2026-10-10|0|Todo excelente user_0331! Probando listas enlazadas y grafos.
+218|930|334|2026-10-10|0|Todo excelente user_0334! Probando listas enlazadas y grafos.
+219|765|335|2026-05-20|0|Todo excelente user_0335! Probando listas enlazadas y grafos.
+220|169|337|2026-05-20|1|Hola user_0337, saludo unidireccional desde user_0169.
+221|651|337|2026-10-10|0|Todo excelente user_0337! Probando listas enlazadas y grafos.
+222|879|339|2026-01-01|0|Todo excelente user_0339! Probando listas enlazadas y grafos.
+223|857|339|2026-05-20|0|Todo excelente user_0339! Probando listas enlazadas y grafos.
+224|537|341|2026-10-14|0|Todo excelente user_0341! Probando listas enlazadas y grafos.
+225|143|342|2025-01-15|1|Hola user_0342, saludo unidireccional desde user_0143.
+226|303|342|2025-12-31|0|Hola user_0342, saludo unidireccional desde user_0303.
+227|158|346|2025-12-31|1|Hola user_0346, como vas con el Desafio 2 de C++?
+228|751|346|2026-10-14|0|Todo excelente user_0346! Probando listas enlazadas y grafos.
+229|67|347|2026-10-10|1|Hola user_0347, saludo unidireccional desde user_0067.
+230|683|347|2026-10-14|0|Todo excelente user_0347! Probando listas enlazadas y grafos.
+231|279|349|2026-01-01|1|Hola user_0349, saludo unidireccional desde user_0279.
+232|627|350|2026-10-10|0|Todo excelente user_0350! Probando listas enlazadas y grafos.
+233|191|351|2025-12-31|1|Hola user_0351, como vas con el Desafio 2 de C++?
+234|995|353|2026-05-20|0|Todo excelente user_0353! Probando listas enlazadas y grafos.
+235|598|353|2026-10-10|0|Todo excelente user_0353! Probando listas enlazadas y grafos.
+236|199|357|2025-06-30|1|Hola user_0357, como vas con el Desafio 2 de C++?
+237|114|358|2025-06-30|1|Hola user_0358, saludo unidireccional desde user_0114.
+238|321|359|2025-12-31|1|Hola user_0359, como vas con el Desafio 2 de C++?
+239|773|359|2026-01-01|0|Todo excelente user_0359! Probando listas enlazadas y grafos.
+240|111|361|2025-06-30|0|Hola user_0361, saludo unidireccional desde user_0111.
+241|130|362|2025-06-30|1|Hola user_0362, como vas con el Desafio 2 de C++?
+242|307|363|2024-02-29|1|Hola user_0363, como vas con el Desafio 2 de C++?
+243|275|365|2026-05-20|0|Hola user_0365, saludo unidireccional desde user_0275.
+244|323|365|2026-10-10|1|Hola user_0365, saludo unidireccional desde user_0323.
+245|549|366|2026-05-20|0|Todo excelente user_0366! Probando listas enlazadas y grafos.
+246|134|367|2025-06-30|1|Hola user_0367, como vas con el Desafio 2 de C++?
+247|190|370|2025-12-31|1|Hola user_0370, como vas con el Desafio 2 de C++?
+248|990|370|2026-10-14|0|Todo excelente user_0370! Probando listas enlazadas y grafos.
+249|111|371|2025-01-15|1|Hola user_0371, como vas con el Desafio 2 de C++?
+250|926|371|2026-01-01|0|Todo excelente user_0371! Probando listas enlazadas y grafos.
+251|535|374|2026-10-14|0|Todo excelente user_0374! Probando listas enlazadas y grafos.
+252|149|375|2025-12-31|1|Hola user_0375, como vas con el Desafio 2 de C++?
+253|563|377|2026-10-14|0|Todo excelente user_0377! Probando listas enlazadas y grafos.
+254|142|378|2026-10-14|1|Hola user_0378, saludo unidireccional desde user_0142.
+255|226|379|2025-12-31|1|Hola user_0379, como vas con el Desafio 2 de C++?
+256|697|379|2026-01-01|0|Todo excelente user_0379! Probando listas enlazadas y grafos.
+257|147|381|2025-06-30|1|Hola user_0381, como vas con el Desafio 2 de C++?
+258|573|381|2026-05-20|0|Todo excelente user_0381! Probando listas enlazadas y grafos.
+259|650|382|2026-01-01|0|Todo excelente user_0382! Probando listas enlazadas y grafos.
+260|145|383|2026-10-10|1|Hola user_0383, saludo unidireccional desde user_0145.
+261|294|386|2025-06-30|1|Hola user_0386, saludo unidireccional desde user_0294.
+262|194|386|2026-10-10|1|Hola user_0386, saludo unidireccional desde user_0194.
+263|203|389|2024-02-29|1|Hola user_0389, saludo unidireccional desde user_0203.
+264|718|389|2026-05-20|0|Todo excelente user_0389! Probando listas enlazadas y grafos.
+265|215|391|2025-01-15|1|Hola user_0391, como vas con el Desafio 2 de C++?
+266|177|393|2025-01-15|1|Hola user_0393, como vas con el Desafio 2 de C++?
+267|821|393|2026-01-01|0|Todo excelente user_0393! Probando listas enlazadas y grafos.
+268|921|393|2026-05-20|0|Todo excelente user_0393! Probando listas enlazadas y grafos.
+269|357|394|2025-12-31|1|Hola user_0394, saludo unidireccional desde user_0357.
+270|937|394|2026-10-10|0|Todo excelente user_0394! Probando listas enlazadas y grafos.
+271|134|395|2025-01-15|1|Hola user_0395, como vas con el Desafio 2 de C++?
+272|410|395|2026-01-01|0|Todo excelente user_0395! Probando listas enlazadas y grafos.
+273|94|398|2024-02-29|1|Hola user_0398, como vas con el Desafio 2 de C++?
+274|199|401|2024-02-29|0|Hola user_0401, saludo unidireccional desde user_0199.
+275|761|401|2026-01-01|0|Todo excelente user_0401! Probando listas enlazadas y grafos.
+276|693|401|2026-05-20|0|Todo excelente user_0401! Probando listas enlazadas y grafos.
+277|323|402|2025-01-15|0|Hola user_0402, saludo unidireccional desde user_0323.
+278|113|403|2026-01-01|0|Hola user_0403, saludo unidireccional desde user_0113.
+279|367|406|2026-05-20|0|Hola user_0406, saludo unidireccional desde user_0367.
+280|466|406|2026-05-20|0|Todo excelente user_0406! Probando listas enlazadas y grafos.
+281|391|406|2026-10-10|1|Hola user_0406, saludo unidireccional desde user_0391.
+282|231|410|2025-01-15|1|Hola user_0410, como vas con el Desafio 2 de C++?
+283|395|410|2025-12-31|1|Hola user_0410, como vas con el Desafio 2 de C++?
+284|921|410|2026-05-20|0|Todo excelente user_0410! Probando listas enlazadas y grafos.
+285|166|411|2024-02-29|1|Hola user_0411, como vas con el Desafio 2 de C++?
+286|237|414|2024-02-29|0|Hola user_0414, saludo unidireccional desde user_0237.
+287|50|415|2025-06-30|1|Hola user_0415, saludo unidireccional desde user_0050.
+288|541|415|2026-01-01|0|Todo excelente user_0415! Probando listas enlazadas y grafos.
+289|801|417|2026-05-20|0|Todo excelente user_0417! Probando listas enlazadas y grafos.
+290|93|421|2024-02-29|1|Hola user_0421, como vas con el Desafio 2 de C++?
+291|222|421|2025-06-30|1|Hola user_0421, como vas con el Desafio 2 de C++?
+292|102|422|2025-06-30|0|Hola user_0422, saludo unidireccional desde user_0102.
+293|186|422|2025-06-30|0|Hola user_0422, saludo unidireccional desde user_0186.
+294|393|422|2026-01-01|0|Hola user_0422, saludo unidireccional desde user_0393.
+295|354|423|2024-02-29|0|Hola user_0423, saludo unidireccional desde user_0354.
+296|619|423|2026-10-14|0|Todo excelente user_0423! Probando listas enlazadas y grafos.
+297|805|425|2026-05-20|0|Todo excelente user_0425! Probando listas enlazadas y grafos.
+298|265|427|2025-12-31|1|Hola user_0427, como vas con el Desafio 2 de C++?
+299|283|427|2025-12-31|0|Hola user_0427, saludo unidireccional desde user_0283.
+300|333|429|2025-01-15|0|Hola user_0429, saludo unidireccional desde user_0333.
+301|923|429|2026-10-14|0|Todo excelente user_0429! Probando listas enlazadas y grafos.
+302|807|430|2026-10-10|0|Todo excelente user_0430! Probando listas enlazadas y grafos.
+303|217|431|2025-01-15|0|Hola user_0431, saludo unidireccional desde user_0217.
+304|207|431|2026-10-10|1|Hola user_0431, saludo unidireccional desde user_0207.
+305|230|433|2026-05-20|0|Hola user_0433, saludo unidireccional desde user_0230.
+306|591|433|2026-10-14|0|Todo excelente user_0433! Probando listas enlazadas y grafos.
+307|307|434|2025-12-31|1|Hola user_0434, saludo unidireccional desde user_0307.
+308|361|435|2025-01-15|1|Hola user_0435, saludo unidireccional desde user_0361.
+309|222|437|2024-02-29|1|Hola user_0437, saludo unidireccional desde user_0222.
+310|815|437|2026-10-10|0|Todo excelente user_0437! Probando listas enlazadas y grafos.
+311|422|438|2025-06-30|0|Hola user_0438, saludo unidireccional desde user_0422.
+312|557|441|2026-01-01|0|Todo excelente user_0441! Probando listas enlazadas y grafos.
+313|179|442|2025-01-15|1|Hola user_0442, saludo unidireccional desde user_0179.
+314|809|442|2026-01-01|0|Todo excelente user_0442! Probando listas enlazadas y grafos.
+315|949|442|2026-05-20|0|Todo excelente user_0442! Probando listas enlazadas y grafos.
+316|750|442|2026-10-14|0|Todo excelente user_0442! Probando listas enlazadas y grafos.
+317|499|443|2026-10-10|0|Todo excelente user_0443! Probando listas enlazadas y grafos.
+318|249|445|2025-01-15|1|Hola user_0445, como vas con el Desafio 2 de C++?
+319|829|445|2026-01-01|0|Todo excelente user_0445! Probando listas enlazadas y grafos.
+320|241|446|2025-06-30|1|Hola user_0446, saludo unidireccional desde user_0241.
+321|206|446|2026-01-01|0|Hola user_0446, saludo unidireccional desde user_0206.
+322|319|446|2026-05-20|0|Hola user_0446, saludo unidireccional desde user_0319.
+323|835|446|2026-10-10|0|Todo excelente user_0446! Probando listas enlazadas y grafos.
+324|489|447|2026-10-10|0|Todo excelente user_0447! Probando listas enlazadas y grafos.
+325|330|449|2025-12-31|1|Hola user_0449, como vas con el Desafio 2 de C++?
+326|83|451|2024-02-29|0|Hola user_0451, saludo unidireccional desde user_0083.
+327|425|453|2025-01-15|0|Hola user_0453, saludo unidireccional desde user_0425.
+328|286|453|2026-10-10|0|Hola user_0453, saludo unidireccional desde user_0286.
+329|363|453|2026-10-10|1|Hola user_0453, saludo unidireccional desde user_0363.
+330|361|454|2025-06-30|0|Hola user_0454, saludo unidireccional desde user_0361.
+331|137|454|2026-01-01|0|Hola user_0454, saludo unidireccional desde user_0137.
+332|159|454|2026-10-10|1|Hola user_0454, saludo unidireccional desde user_0159.
+333|541|457|2026-10-10|0|Todo excelente user_0457! Probando listas enlazadas y grafos.
+334|379|457|2026-10-14|0|Hola user_0457, saludo unidireccional desde user_0379.
+335|430|461|2025-06-30|0|Hola user_0461, saludo unidireccional desde user_0430.
+336|443|463|2024-02-29|0|Hola user_0463, saludo unidireccional desde user_0443.
+337|158|463|2025-01-15|0|Hola user_0463, saludo unidireccional desde user_0158.
+338|385|465|2026-05-20|1|Hola user_0465, saludo unidireccional desde user_0385.
+339|153|466|2024-02-29|0|Hola user_0466, saludo unidireccional desde user_0153.
+340|406|466|2025-01-15|1|Hola user_0466, como vas con el Desafio 2 de C++?
+341|149|466|2025-06-30|0|Hola user_0466, saludo unidireccional desde user_0149.
+342|177|466|2025-12-31|1|Hola user_0466, como vas con el Desafio 2 de C++?
+343|150|467|2026-01-01|0|Hola user_0467, saludo unidireccional desde user_0150.
+344|909|467|2026-05-20|0|Todo excelente user_0467! Probando listas enlazadas y grafos.
+345|746|467|2026-10-10|0|Todo excelente user_0467! Probando listas enlazadas y grafos.
+346|478|470|2026-01-01|0|Todo excelente user_0470! Probando listas enlazadas y grafos.
+347|322|471|2025-01-15|0|Hola user_0471, saludo unidireccional desde user_0322.
+348|586|471|2026-01-01|0|Todo excelente user_0471! Probando listas enlazadas y grafos.
+349|163|473|2025-01-15|1|Hola user_0473, como vas con el Desafio 2 de C++?
+350|518|473|2026-05-20|0|Todo excelente user_0473! Probando listas enlazadas y grafos.
+351|575|474|2026-05-20|0|Todo excelente user_0474! Probando listas enlazadas y grafos.
+352|593|474|2026-05-20|0|Todo excelente user_0474! Probando listas enlazadas y grafos.
+353|83|475|2024-02-29|1|Hola user_0475, como vas con el Desafio 2 de C++?
+354|309|475|2024-02-29|1|Hola user_0475, como vas con el Desafio 2 de C++?
+355|443|475|2025-01-15|1|Hola user_0475, saludo unidireccional desde user_0443.
+356|101|475|2025-06-30|1|Hola user_0475, saludo unidireccional desde user_0101.
+357|254|478|2025-06-30|1|Hola user_0478, como vas con el Desafio 2 de C++?
+358|470|478|2025-12-31|1|Hola user_0478, como vas con el Desafio 2 de C++?
+359|414|478|2026-05-20|1|Hola user_0478, saludo unidireccional desde user_0414.
+360|774|478|2026-10-10|0|Todo excelente user_0478! Probando listas enlazadas y grafos.
+361|277|481|2025-12-31|1|Hola user_0481, como vas con el Desafio 2 de C++?
+362|859|481|2026-10-14|0|Todo excelente user_0481! Probando listas enlazadas y grafos.
+363|85|482|2026-10-10|1|Hola user_0482, saludo unidireccional desde user_0085.
+364|125|483|2026-05-20|1|Hola user_0483, saludo unidireccional desde user_0125.
+365|926|483|2026-10-10|0|Todo excelente user_0483! Probando listas enlazadas y grafos.
+366|186|485|2024-02-29|0|Hola user_0485, saludo unidireccional desde user_0186.
+367|123|485|2025-12-31|1|Hola user_0485, como vas con el Desafio 2 de C++?
+368|230|485|2026-10-14|1|Hola user_0485, saludo unidireccional desde user_0230.
+369|453|486|2026-05-20|0|Hola user_0486, saludo unidireccional desde user_0453.
+370|175|487|2025-06-30|1|Hola user_0487, saludo unidireccional desde user_0175.
+371|105|489|2025-06-30|0|Hola user_0489, saludo unidireccional desde user_0105.
+372|223|489|2025-06-30|1|Hola user_0489, como vas con el Desafio 2 de C++?
+373|447|489|2025-06-30|1|Hola user_0489, como vas con el Desafio 2 de C++?
+374|981|491|2026-10-14|0|Todo excelente user_0491! Probando listas enlazadas y grafos.
+375|443|499|2024-02-29|1|Hola user_0499, como vas con el Desafio 2 de C++?
+376|243|499|2025-01-15|1|Hola user_0499, saludo unidireccional desde user_0243.
+377|709|499|2026-10-14|0|Todo excelente user_0499! Probando listas enlazadas y grafos.
+378|135|501|2025-12-31|0|Hola user_0501, saludo unidireccional desde user_0135.
+379|606|503|2026-10-14|0|Todo excelente user_0503! Probando listas enlazadas y grafos.
+380|65|506|2026-01-01|0|Hola user_0506, saludo unidireccional desde user_0065.
+381|782|507|2026-10-10|0|Todo excelente user_0507! Probando listas enlazadas y grafos.
+382|338|509|2026-10-10|0|Hola user_0509, saludo unidireccional desde user_0338.
+383|742|510|2026-10-10|0|Todo excelente user_0510! Probando listas enlazadas y grafos.
+384|265|511|2025-06-30|0|Hola user_0511, saludo unidireccional desde user_0265.
+385|593|511|2026-10-14|0|Todo excelente user_0511! Probando listas enlazadas y grafos.
+386|175|514|2025-06-30|0|Hola user_0514, saludo unidireccional desde user_0175.
+387|850|514|2026-05-20|0|Todo excelente user_0514! Probando listas enlazadas y grafos.
+388|641|515|2026-10-10|0|Todo excelente user_0515! Probando listas enlazadas y grafos.
+389|991|515|2026-10-10|0|Todo excelente user_0515! Probando listas enlazadas y grafos.
+390|473|518|2025-06-30|1|Hola user_0518, como vas con el Desafio 2 de C++?
+391|135|519|2026-01-01|0|Hola user_0519, saludo unidireccional desde user_0135.
+392|946|521|2026-05-20|0|Todo excelente user_0521! Probando listas enlazadas y grafos.
+393|999|521|2026-10-14|0|Todo excelente user_0521! Probando listas enlazadas y grafos.
+394|191|523|2025-12-31|1|Hola user_0523, como vas con el Desafio 2 de C++?
+395|242|529|2025-06-30|1|Hola user_0529, como vas con el Desafio 2 de C++?
+396|850|529|2026-10-10|0|Todo excelente user_0529! Probando listas enlazadas y grafos.
+397|87|530|2025-01-15|1|Hola user_0530, como vas con el Desafio 2 de C++?
+398|61|531|2026-10-14|1|Hola user_0531, saludo unidireccional desde user_0061.
+399|210|533|2024-02-29|1|Hola user_0533, como vas con el Desafio 2 de C++?
+400|282|533|2025-12-31|1|Hola user_0533, como vas con el Desafio 2 de C++?
+401|241|535|2024-02-29|0|Hola user_0535, saludo unidireccional desde user_0241.
+402|374|535|2025-01-15|1|Hola user_0535, como vas con el Desafio 2 de C++?
+403|81|535|2025-12-31|1|Hola user_0535, como vas con el Desafio 2 de C++?
+404|341|537|2024-02-29|1|Hola user_0537, como vas con el Desafio 2 de C++?
+405|415|541|2025-01-15|1|Hola user_0541, como vas con el Desafio 2 de C++?
+406|457|541|2025-01-15|1|Hola user_0541, como vas con el Desafio 2 de C++?
+407|819|542|2026-10-10|0|Todo excelente user_0542! Probando listas enlazadas y grafos.
+408|770|543|2026-01-01|0|Todo excelente user_0543! Probando listas enlazadas y grafos.
+409|785|545|2026-05-20|0|Todo excelente user_0545! Probando listas enlazadas y grafos.
+410|214|546|2024-02-29|1|Hola user_0546, saludo unidireccional desde user_0214.
+411|82|546|2026-10-14|0|Hola user_0546, saludo unidireccional desde user_0082.
+412|366|549|2025-01-15|1|Hola user_0549, como vas con el Desafio 2 de C++?
+413|559|549|2026-01-01|0|Todo excelente user_0549! Probando listas enlazadas y grafos.
+414|675|549|2026-05-20|0|Todo excelente user_0549! Probando listas enlazadas y grafos.
+415|313|550|2025-12-31|1|Hola user_0550, como vas con el Desafio 2 de C++?
+416|911|550|2026-10-10|0|Todo excelente user_0550! Probando listas enlazadas y grafos.
+417|411|551|2026-01-01|0|Hola user_0551, saludo unidireccional desde user_0411.
+418|459|553|2025-01-15|1|Hola user_0553, saludo unidireccional desde user_0459.
+419|149|554|2024-02-29|1|Hola user_0554, como vas con el Desafio 2 de C++?
+420|171|554|2026-01-01|1|Hola user_0554, saludo unidireccional desde user_0171.
+421|574|555|2026-05-20|0|Todo excelente user_0555! Probando listas enlazadas y grafos.
+422|441|557|2024-02-29|1|Hola user_0557, como vas con el Desafio 2 de C++?
+423|177|557|2025-12-31|0|Hola user_0557, saludo unidireccional desde user_0177.
+424|549|559|2025-06-30|1|Hola user_0559, como vas con el Desafio 2 de C++?
+425|519|559|2025-12-31|0|Hola user_0559, saludo unidireccional desde user_0519.
+426|887|561|2026-01-01|0|Todo excelente user_0561! Probando listas enlazadas y grafos.
+427|335|562|2025-01-15|0|Hola user_0562, saludo unidireccional desde user_0335.
+428|309|562|2026-05-20|0|Hola user_0562, saludo unidireccional desde user_0309.
+429|209|563|2024-02-29|1|Hola user_0563, como vas con el Desafio 2 de C++?
+430|377|563|2024-02-29|1|Hola user_0563, como vas con el Desafio 2 de C++?
+431|734|565|2026-05-20|0|Todo excelente user_0565! Probando listas enlazadas y grafos.
+432|73|567|2025-12-31|1|Hola user_0567, como vas con el Desafio 2 de C++?
+433|927|567|2026-01-01|0|Todo excelente user_0567! Probando listas enlazadas y grafos.
+434|102|567|2026-10-14|0|Hola user_0567, saludo unidireccional desde user_0102.
+435|723|567|2026-10-14|0|Todo excelente user_0567! Probando listas enlazadas y grafos.
+436|105|569|2024-02-29|1|Hola user_0569, saludo unidireccional desde user_0105.
+437|407|570|2025-01-15|0|Hola user_0570, saludo unidireccional desde user_0407.
+438|961|570|2026-01-01|0|Todo excelente user_0570! Probando listas enlazadas y grafos.
+439|759|571|2026-01-01|0|Todo excelente user_0571! Probando listas enlazadas y grafos.
+440|381|573|2025-12-31|1|Hola user_0573, como vas con el Desafio 2 de C++?
+441|555|574|2025-12-31|1|Hola user_0574, como vas con el Desafio 2 de C++?
+442|474|575|2024-02-29|1|Hola user_0575, como vas con el Desafio 2 de C++?
+443|850|575|2026-10-14|0|Todo excelente user_0575! Probando listas enlazadas y grafos.
+444|242|577|2024-02-29|1|Hola user_0577, como vas con el Desafio 2 de C++?
+445|419|577|2025-12-31|0|Hola user_0577, saludo unidireccional desde user_0419.
+446|609|577|2026-10-14|0|Todo excelente user_0577! Probando listas enlazadas y grafos.
+447|714|578|2026-05-20|0|Todo excelente user_0578! Probando listas enlazadas y grafos.
+448|226|581|2025-06-30|1|Hola user_0581, como vas con el Desafio 2 de C++?
+449|394|581|2026-05-20|1|Hola user_0581, saludo unidireccional desde user_0394.
+450|121|582|2024-02-29|1|Hola user_0582, como vas con el Desafio 2 de C++?
+451|547|585|2025-01-15|0|Hola user_0585, saludo unidireccional desde user_0547.
+452|471|586|2025-06-30|1|Hola user_0586, como vas con el Desafio 2 de C++?
+453|875|587|2026-01-01|0|Todo excelente user_0587! Probando listas enlazadas y grafos.
+454|142|590|2026-10-14|1|Hola user_0590, saludo unidireccional desde user_0142.
+455|433|591|2025-06-30|1|Hola user_0591, como vas con el Desafio 2 de C++?
+456|569|591|2025-06-30|1|Hola user_0591, saludo unidireccional desde user_0569.
+457|474|593|2025-06-30|1|Hola user_0593, como vas con el Desafio 2 de C++?
+458|511|593|2025-06-30|1|Hola user_0593, como vas con el Desafio 2 de C++?
+459|859|595|2026-10-10|0|Todo excelente user_0595! Probando listas enlazadas y grafos.
+460|450|597|2025-06-30|0|Hola user_0597, saludo unidireccional desde user_0450.
+461|353|598|2025-01-15|1|Hola user_0598, como vas con el Desafio 2 de C++?
+462|701|598|2026-05-20|0|Todo excelente user_0598! Probando listas enlazadas y grafos.
+463|973|598|2026-10-14|0|Todo excelente user_0598! Probando listas enlazadas y grafos.
+464|375|599|2026-01-01|0|Hola user_0599, saludo unidireccional desde user_0375.
+465|387|599|2026-01-01|1|Hola user_0599, saludo unidireccional desde user_0387.
+466|145|602|2025-12-31|1|Hola user_0602, saludo unidireccional desde user_0145.
+467|657|602|2026-01-01|0|Todo excelente user_0602! Probando listas enlazadas y grafos.
+468|295|605|2026-01-01|1|Hola user_0605, saludo unidireccional desde user_0295.
+469|503|606|2024-02-29|1|Hola user_0606, como vas con el Desafio 2 de C++?
+470|787|606|2026-05-20|0|Todo excelente user_0606! Probando listas enlazadas y grafos.
+471|577|609|2025-12-31|1|Hola user_0609, como vas con el Desafio 2 de C++?
+472|59|610|2025-01-15|1|Hola user_0610, saludo unidireccional desde user_0059.
+473|339|611|2026-05-20|1|Hola user_0611, saludo unidireccional desde user_0339.
+474|234|611|2026-10-10|1|Hola user_0611, saludo unidireccional desde user_0234.
+475|371|614|2024-02-29|1|Hola user_0614, saludo unidireccional desde user_0371.
+476|479|615|2025-06-30|1|Hola user_0615, saludo unidireccional desde user_0479.
+477|213|617|2025-12-31|0|Hola user_0617, saludo unidireccional desde user_0213.
+478|179|619|2025-06-30|1|Hola user_0619, como vas con el Desafio 2 de C++?
+479|423|619|2025-06-30|1|Hola user_0619, como vas con el Desafio 2 de C++?
+480|795|619|2026-10-14|0|Todo excelente user_0619! Probando listas enlazadas y grafos.
+481|243|621|2025-06-30|1|Hola user_0621, como vas con el Desafio 2 de C++?
+482|574|621|2026-05-20|1|Hola user_0621, saludo unidireccional desde user_0574.
+483|861|621|2026-10-14|0|Todo excelente user_0621! Probando listas enlazadas y grafos.
+484|126|622|2024-02-29|1|Hola user_0622, como vas con el Desafio 2 de C++?
+485|219|623|2025-06-30|1|Hola user_0623, como vas con el Desafio 2 de C++?
+486|350|627|2025-06-30|1|Hola user_0627, como vas con el Desafio 2 de C++?
+487|430|630|2026-10-10|0|Hola user_0630, saludo unidireccional desde user_0430.
+488|707|630|2026-10-10|0|Todo excelente user_0630! Probando listas enlazadas y grafos.
+489|413|631|2026-10-14|0|Hola user_0631, saludo unidireccional desde user_0413.
+490|251|633|2024-02-29|0|Hola user_0633, saludo unidireccional desde user_0251.
+491|377|634|2025-12-31|1|Hola user_0634, saludo unidireccional desde user_0377.
+492|53|634|2026-10-10|0|Hola user_0634, saludo unidireccional desde user_0053.
+493|331|635|2024-02-29|1|Hola user_0635, como vas con el Desafio 2 de C++?
+494|462|637|2025-01-15|0|Hola user_0637, saludo unidireccional desde user_0462.
+495|391|638|2025-12-31|0|Hola user_0638, saludo unidireccional desde user_0391.
+496|899|638|2026-01-01|0|Todo excelente user_0638! Probando listas enlazadas y grafos.
+497|839|638|2026-05-20|0|Todo excelente user_0638! Probando listas enlazadas y grafos.
+498|821|639|2026-10-10|0|Todo excelente user_0639! Probando listas enlazadas y grafos.
+499|515|641|2025-01-15|1|Hola user_0641, como vas con el Desafio 2 de C++?
+500|650|641|2026-05-20|0|Todo excelente user_0641! Probando listas enlazadas y grafos.
+501|187|642|2025-12-31|1|Hola user_0642, como vas con el Desafio 2 de C++?
+502|318|642|2025-12-31|1|Hola user_0642, como vas con el Desafio 2 de C++?
+503|387|647|2025-01-15|0|Hola user_0647, saludo unidireccional desde user_0387.
+504|286|649|2025-06-30|1|Hola user_0649, como vas con el Desafio 2 de C++?
+505|641|650|2024-02-29|1|Hola user_0650, como vas con el Desafio 2 de C++?
+506|382|650|2025-01-15|1|Hola user_0650, como vas con el Desafio 2 de C++?
+507|71|651|2025-06-30|1|Hola user_0651, como vas con el Desafio 2 de C++?
+508|337|651|2025-06-30|1|Hola user_0651, como vas con el Desafio 2 de C++?
+509|87|651|2025-12-31|1|Hola user_0651, como vas con el Desafio 2 de C++?
+510|130|653|2025-12-31|1|Hola user_0653, como vas con el Desafio 2 de C++?
+511|802|654|2026-05-20|0|Todo excelente user_0654! Probando listas enlazadas y grafos.
+512|602|657|2025-12-31|1|Hola user_0657, como vas con el Desafio 2 de C++?
+513|698|657|2026-10-10|0|Todo excelente user_0657! Probando listas enlazadas y grafos.
+514|715|658|2026-01-01|0|Todo excelente user_0658! Probando listas enlazadas y grafos.
+515|443|661|2025-06-30|0|Hola user_0661, saludo unidireccional desde user_0443.
+516|218|661|2026-10-14|0|Hola user_0661, saludo unidireccional desde user_0218.
+517|161|663|2025-06-30|1|Hola user_0663, como vas con el Desafio 2 de C++?
+518|563|665|2024-02-29|1|Hola user_0665, saludo unidireccional desde user_0563.
+519|501|667|2024-02-29|0|Hola user_0667, saludo unidireccional desde user_0501.
+520|570|667|2024-02-29|0|Hola user_0667, saludo unidireccional desde user_0570.
+521|249|667|2026-10-14|0|Hola user_0667, saludo unidireccional desde user_0249.
+522|482|669|2025-12-31|0|Hola user_0669, saludo unidireccional desde user_0482.
+523|714|669|2026-01-01|0|Todo excelente user_0669! Probando listas enlazadas y grafos.
+524|581|671|2024-02-29|1|Hola user_0671, saludo unidireccional desde user_0581.
+525|86|673|2025-06-30|0|Hola user_0673, saludo unidireccional desde user_0086.
+526|153|673|2026-01-01|1|Hola user_0673, saludo unidireccional desde user_0153.
+527|811|673|2026-01-01|0|Todo excelente user_0673! Probando listas enlazadas y grafos.
+528|153|674|2025-01-15|1|Hola user_0674, como vas con el Desafio 2 de C++?
+529|549|675|2025-01-15|1|Hola user_0675, como vas con el Desafio 2 de C++?
+530|191|675|2025-12-31|1|Hola user_0675, como vas con el Desafio 2 de C++?
+531|889|681|2026-10-10|0|Todo excelente user_0681! Probando listas enlazadas y grafos.
+532|71|682|2026-10-14|1|Hola user_0682, saludo unidireccional desde user_0071.
+533|347|683|2024-02-29|1|Hola user_0683, como vas con el Desafio 2 de C++?
+534|139|683|2025-01-15|1|Hola user_0683, como vas con el Desafio 2 de C++?
+535|337|683|2026-10-10|0|Hola user_0683, saludo unidireccional desde user_0337.
+536|309|685|2025-01-15|1|Hola user_0685, como vas con el Desafio 2 de C++?
+537|897|686|2026-10-10|0|Todo excelente user_0686! Probando listas enlazadas y grafos.
+538|777|686|2026-10-14|0|Todo excelente user_0686! Probando listas enlazadas y grafos.
+539|491|687|2026-01-01|0|Hola user_0687, saludo unidireccional desde user_0491.
+540|81|687|2026-05-20|1|Hola user_0687, saludo unidireccional desde user_0081.
+541|614|690|2025-12-31|1|Hola user_0690, saludo unidireccional desde user_0614.
+542|389|691|2025-12-31|0|Hola user_0691, saludo unidireccional desde user_0389.
+543|745|691|2026-10-14|0|Todo excelente user_0691! Probando listas enlazadas y grafos.
+544|401|693|2024-02-29|1|Hola user_0693, como vas con el Desafio 2 de C++?
+545|263|693|2025-06-30|1|Hola user_0693, saludo unidireccional desde user_0263.
+546|915|693|2026-05-20|0|Todo excelente user_0693! Probando listas enlazadas y grafos.
+547|345|693|2026-10-10|0|Hola user_0693, saludo unidireccional desde user_0345.
+548|379|697|2025-01-15|1|Hola user_0697, como vas con el Desafio 2 de C++?
+549|657|698|2025-06-30|1|Hola user_0698, como vas con el Desafio 2 de C++?
+550|490|698|2026-01-01|0|Hola user_0698, saludo unidireccional desde user_0490.
+551|50|699|2026-10-10|1|Hola user_0699, saludo unidireccional desde user_0050.
+552|153|701|2025-06-30|1|Hola user_0701, como vas con el Desafio 2 de C++?
+553|598|701|2025-06-30|1|Hola user_0701, como vas con el Desafio 2 de C++?
+554|925|702|2026-10-10|0|Todo excelente user_0702! Probando listas enlazadas y grafos.
+555|287|705|2025-06-30|1|Hola user_0705, como vas con el Desafio 2 de C++?
+556|641|706|2026-10-14|1|Hola user_0706, saludo unidireccional desde user_0641.
+557|630|707|2024-02-29|1|Hola user_0707, como vas con el Desafio 2 de C++?
+558|350|707|2025-01-15|1|Hola user_0707, saludo unidireccional desde user_0350.
+559|499|709|2025-06-30|1|Hola user_0709, como vas con el Desafio 2 de C++?
+560|597|709|2025-06-30|0|Hola user_0709, saludo unidireccional desde user_0597.
+561|835|710|2026-05-20|0|Todo excelente user_0710! Probando listas enlazadas y grafos.
+562|497|710|2026-10-10|1|Hola user_0710, saludo unidireccional desde user_0497.
+563|86|711|2026-10-14|0|Hola user_0711, saludo unidireccional desde user_0086.
+564|66|713|2026-10-14|0|Hola user_0713, saludo unidireccional desde user_0066.
+565|669|714|2024-02-29|1|Hola user_0714, como vas con el Desafio 2 de C++?
+566|578|714|2025-01-15|1|Hola user_0714, como vas con el Desafio 2 de C++?
+567|658|715|2024-02-29|1|Hola user_0715, como vas con el Desafio 2 de C++?
+568|175|715|2025-01-15|1|Hola user_0715, como vas con el Desafio 2 de C++?
+569|105|715|2025-12-31|1|Hola user_0715, como vas con el Desafio 2 de C++?
+570|983|715|2026-10-14|0|Todo excelente user_0715! Probando listas enlazadas y grafos.
+571|389|718|2024-02-29|1|Hola user_0718, como vas con el Desafio 2 de C++?
+572|155|718|2025-12-31|1|Hola user_0718, saludo unidireccional desde user_0155.
+573|741|721|2026-10-14|0|Todo excelente user_0721! Probando listas enlazadas y grafos.
+574|786|722|2026-10-14|0|Todo excelente user_0722! Probando listas enlazadas y grafos.
+575|567|723|2025-12-31|1|Hola user_0723, como vas con el Desafio 2 de C++?
+576|607|725|2025-01-15|1|Hola user_0725, saludo unidireccional desde user_0607.
+577|109|726|2024-02-29|1|Hola user_0726, como vas con el Desafio 2 de C++?
+578|338|726|2024-02-29|0|Hola user_0726, saludo unidireccional desde user_0338.
+579|70|727|2025-06-30|1|Hola user_0727, como vas con el Desafio 2 de C++?
+580|723|727|2025-12-31|1|Hola user_0727, saludo unidireccional desde user_0723.
+581|298|730|2025-06-30|1|Hola user_0730, como vas con el Desafio 2 de C++?
+582|445|730|2025-12-31|0|Hola user_0730, saludo unidireccional desde user_0445.
+583|609|730|2026-01-01|0|Hola user_0730, saludo unidireccional desde user_0609.
+584|730|733|2024-02-29|0|Hola user_0733, saludo unidireccional desde user_0730.
+585|565|734|2025-06-30|1|Hola user_0734, como vas con el Desafio 2 de C++?
+586|746|734|2026-01-01|0|Todo excelente user_0734! Probando listas enlazadas y grafos.
+587|205|735|2024-02-29|1|Hola user_0735, como vas con el Desafio 2 de C++?
+588|853|735|2026-05-20|0|Todo excelente user_0735! Probando listas enlazadas y grafos.
+589|682|737|2025-01-15|1|Hola user_0737, saludo unidireccional desde user_0682.
+590|721|741|2025-01-15|1|Hola user_0741, como vas con el Desafio 2 de C++?
+591|870|741|2026-05-20|0|Todo excelente user_0741! Probando listas enlazadas y grafos.
+592|251|741|2026-10-14|0|Hola user_0741, saludo unidireccional desde user_0251.
+593|510|742|2025-01-15|1|Hola user_0742, como vas con el Desafio 2 de C++?
+594|419|743|2026-10-14|0|Hola user_0743, saludo unidireccional desde user_0419.
+595|691|745|2025-06-30|1|Hola user_0745, como vas con el Desafio 2 de C++?
+596|55|746|2024-02-29|0|Hola user_0746, saludo unidireccional desde user_0055.
+597|177|746|2025-01-15|1|Hola user_0746, saludo unidireccional desde user_0177.
+598|734|746|2025-06-30|1|Hola user_0746, como vas con el Desafio 2 de C++?
+599|467|746|2025-12-31|1|Hola user_0746, como vas con el Desafio 2 de C++?
+600|795|747|2026-01-01|0|Todo excelente user_0747! Probando listas enlazadas y grafos.
+601|286|749|2025-01-15|1|Hola user_0749, como vas con el Desafio 2 de C++?
+602|851|749|2026-10-14|0|Todo excelente user_0749! Probando listas enlazadas y grafos.
+603|442|750|2024-02-29|1|Hola user_0750, como vas con el Desafio 2 de C++?
+604|346|751|2025-01-15|1|Hola user_0751, como vas con el Desafio 2 de C++?
+605|297|754|2025-12-31|1|Hola user_0754, como vas con el Desafio 2 de C++?
+606|90|757|2025-06-30|1|Hola user_0757, como vas con el Desafio 2 de C++?
+607|349|758|2025-06-30|1|Hola user_0758, saludo unidireccional desde user_0349.
+608|161|758|2026-10-10|1|Hola user_0758, saludo unidireccional desde user_0161.
+609|174|759|2024-02-29|1|Hola user_0759, saludo unidireccional desde user_0174.
+610|571|759|2025-12-31|1|Hola user_0759, como vas con el Desafio 2 de C++?
+611|401|761|2024-02-29|1|Hola user_0761, como vas con el Desafio 2 de C++?
+612|874|762|2026-05-20|0|Todo excelente user_0762! Probando listas enlazadas y grafos.
+613|571|763|2025-12-31|0|Hola user_0763, saludo unidireccional desde user_0571.
+614|335|765|2024-02-29|1|Hola user_0765, como vas con el Desafio 2 de C++?
+615|182|766|2024-02-29|1|Hola user_0766, como vas con el Desafio 2 de C++?
+616|539|766|2025-06-30|0|Hola user_0766, saludo unidireccional desde user_0539.
+617|970|766|2026-05-20|0|Todo excelente user_0766! Probando listas enlazadas y grafos.
+618|283|766|2026-10-14|0|Hola user_0766, saludo unidireccional desde user_0283.
+619|543|770|2025-12-31|1|Hola user_0770, como vas con el Desafio 2 de C++?
+620|805|770|2026-10-14|0|Todo excelente user_0770! Probando listas enlazadas y grafos.
+621|126|771|2025-01-15|0|Hola user_0771, saludo unidireccional desde user_0126.
+622|71|771|2025-12-31|1|Hola user_0771, como vas con el Desafio 2 de C++?
+623|447|773|2024-02-29|0|Hola user_0773, saludo unidireccional desde user_0447.
+624|359|773|2025-01-15|1|Hola user_0773, como vas con el Desafio 2 de C++?
+625|734|773|2025-12-31|1|Hola user_0773, saludo unidireccional desde user_0734.
+626|478|774|2024-02-29|1|Hola user_0774, como vas con el Desafio 2 de C++?
+627|686|777|2025-12-31|1|Hola user_0777, como vas con el Desafio 2 de C++?
+628|259|778|2025-06-30|1|Hola user_0778, como vas con el Desafio 2 de C++?
+629|319|778|2025-12-31|0|Hola user_0778, saludo unidireccional desde user_0319.
+630|886|781|2026-10-14|0|Todo excelente user_0781! Probando listas enlazadas y grafos.
+631|226|782|2025-06-30|1|Hola user_0782, saludo unidireccional desde user_0226.
+632|507|782|2025-06-30|1|Hola user_0782, como vas con el Desafio 2 de C++?
+633|179|783|2025-06-30|0|Hola user_0783, saludo unidireccional desde user_0179.
+634|257|783|2025-12-31|1|Hola user_0783, como vas con el Desafio 2 de C++?
+635|787|783|2026-05-20|0|Todo excelente user_0783! Probando listas enlazadas y grafos.
+636|545|785|2025-06-30|1|Hola user_0785, como vas con el Desafio 2 de C++?
+637|722|786|2025-06-30|1|Hola user_0786, como vas con el Desafio 2 de C++?
+638|606|787|2025-01-15|1|Hola user_0787, como vas con el Desafio 2 de C++?
+639|51|787|2025-06-30|1|Hola user_0787, como vas con el Desafio 2 de C++?
+640|783|787|2025-12-31|1|Hola user_0787, como vas con el Desafio 2 de C++?
+641|873|789|2026-05-20|0|Todo excelente user_0789! Probando listas enlazadas y grafos.
+642|290|791|2025-01-15|1|Hola user_0791, como vas con el Desafio 2 de C++?
+643|517|794|2024-02-29|1|Hola user_0794, saludo unidireccional desde user_0517.
+644|726|794|2026-01-01|1|Hola user_0794, saludo unidireccional desde user_0726.
+645|933|794|2026-01-01|0|Todo excelente user_0794! Probando listas enlazadas y grafos.
+646|619|795|2024-02-29|1|Hola user_0795, como vas con el Desafio 2 de C++?
+647|747|795|2025-01-15|1|Hola user_0795, como vas con el Desafio 2 de C++?
+648|322|795|2025-12-31|1|Hola user_0795, como vas con el Desafio 2 de C++?
+649|687|795|2026-01-01|1|Hola user_0795, saludo unidireccional desde user_0687.
+650|487|797|2025-06-30|0|Hola user_0797, saludo unidireccional desde user_0487.
+651|803|797|2026-01-01|0|Todo excelente user_0797! Probando listas enlazadas y grafos.
+652|293|799|2025-12-31|1|Hola user_0799, saludo unidireccional desde user_0293.
+653|417|801|2025-06-30|1|Hola user_0801, como vas con el Desafio 2 de C++?
+654|378|801|2026-01-01|1|Hola user_0801, saludo unidireccional desde user_0378.
+655|131|802|2024-02-29|1|Hola user_0802, como vas con el Desafio 2 de C++?
+656|674|802|2024-02-29|0|Hola user_0802, saludo unidireccional desde user_0674.
+657|654|802|2025-01-15|1|Hola user_0802, como vas con el Desafio 2 de C++?
+658|109|802|2025-06-30|1|Hola user_0802, como vas con el Desafio 2 de C++?
+659|695|803|2025-01-15|1|Hola user_0803, saludo unidireccional desde user_0695.
+660|797|803|2025-01-15|1|Hola user_0803, como vas con el Desafio 2 de C++?
+661|314|803|2026-10-14|0|Hola user_0803, saludo unidireccional desde user_0314.
+662|425|805|2024-02-29|1|Hola user_0805, como vas con el Desafio 2 de C++?
+663|245|805|2025-06-30|1|Hola user_0805, como vas con el Desafio 2 de C++?
+664|770|805|2025-06-30|1|Hola user_0805, como vas con el Desafio 2 de C++?
+665|159|806|2026-01-01|0|Hola user_0806, saludo unidireccional desde user_0159.
+666|430|807|2025-01-15|1|Hola user_0807, como vas con el Desafio 2 de C++?
+667|411|807|2026-01-01|0|Hola user_0807, saludo unidireccional desde user_0411.
+668|933|807|2026-01-01|0|Todo excelente user_0807! Probando listas enlazadas y grafos.
+669|902|807|2026-05-20|0|Todo excelente user_0807! Probando listas enlazadas y grafos.
+670|442|809|2025-01-15|1|Hola user_0809, como vas con el Desafio 2 de C++?
+671|562|809|2025-01-15|0|Hola user_0809, saludo unidireccional desde user_0562.
+672|169|810|2025-12-31|1|Hola user_0810, como vas con el Desafio 2 de C++?
+673|673|811|2024-02-29|1|Hola user_0811, como vas con el Desafio 2 de C++?
+674|214|811|2025-06-30|0|Hola user_0811, saludo unidireccional desde user_0214.
+675|173|813|2025-01-15|1|Hola user_0813, como vas con el Desafio 2 de C++?
+676|534|813|2026-10-10|0|Hola user_0813, saludo unidireccional desde user_0534.
+677|203|814|2025-12-31|1|Hola user_0814, como vas con el Desafio 2 de C++?
+678|437|815|2025-12-31|1|Hola user_0815, como vas con el Desafio 2 de C++?
+679|129|815|2026-05-20|1|Hola user_0815, saludo unidireccional desde user_0129.
+680|714|815|2026-10-10|0|Hola user_0815, saludo unidireccional desde user_0714.
+681|441|819|2024-02-29|0|Hola user_0819, saludo unidireccional desde user_0441.
+682|225|819|2025-01-15|1|Hola user_0819, como vas con el Desafio 2 de C++?
+683|542|819|2025-12-31|1|Hola user_0819, como vas con el Desafio 2 de C++?
+684|393|821|2025-06-30|1|Hola user_0821, como vas con el Desafio 2 de C++?
+685|639|821|2025-12-31|1|Hola user_0821, como vas con el Desafio 2 de C++?
+686|469|822|2026-10-14|0|Hola user_0822, saludo unidireccional desde user_0469.
+687|893|823|2026-05-20|0|Todo excelente user_0823! Probando listas enlazadas y grafos.
+688|133|825|2024-02-29|1|Hola user_0825, como vas con el Desafio 2 de C++?
+689|399|825|2025-06-30|0|Hola user_0825, saludo unidireccional desde user_0399.
+690|731|825|2025-06-30|1|Hola user_0825, saludo unidireccional desde user_0731.
+691|958|826|2026-01-01|0|Todo excelente user_0826! Probando listas enlazadas y grafos.
+692|925|826|2026-10-10|0|Todo excelente user_0826! Probando listas enlazadas y grafos.
+693|241|829|2025-01-15|1|Hola user_0829, como vas con el Desafio 2 de C++?
+694|135|829|2025-12-31|1|Hola user_0829, como vas con el Desafio 2 de C++?
+695|445|829|2025-12-31|1|Hola user_0829, como vas con el Desafio 2 de C++?
+696|98|830|2025-06-30|0|Hola user_0830, saludo unidireccional desde user_0098.
+697|905|830|2026-05-20|0|Todo excelente user_0830! Probando listas enlazadas y grafos.
+698|538|831|2025-01-15|1|Hola user_0831, saludo unidireccional desde user_0538.
+699|579|833|2024-02-29|0|Hola user_0833, saludo unidireccional desde user_0579.
+700|826|833|2026-05-20|0|Hola user_0833, saludo unidireccional desde user_0826.
+701|99|834|2026-10-14|0|Hola user_0834, saludo unidireccional desde user_0099.
+702|446|835|2024-02-29|1|Hola user_0835, como vas con el Desafio 2 de C++?
+703|710|835|2025-01-15|1|Hola user_0835, como vas con el Desafio 2 de C++?
+704|283|835|2025-12-31|1|Hola user_0835, como vas con el Desafio 2 de C++?
+705|994|837|2026-05-20|0|Todo excelente user_0837! Probando listas enlazadas y grafos.
+706|95|838|2025-06-30|1|Hola user_0838, saludo unidireccional desde user_0095.
+707|319|839|2024-02-29|1|Hola user_0839, como vas con el Desafio 2 de C++?
+708|341|839|2025-06-30|0|Hola user_0839, saludo unidireccional desde user_0341.
+709|638|839|2025-06-30|1|Hola user_0839, como vas con el Desafio 2 de C++?
+710|194|841|2025-06-30|1|Hola user_0841, como vas con el Desafio 2 de C++?
+711|834|841|2026-10-10|1|Hola user_0841, saludo unidireccional desde user_0834.
+712|969|843|2026-01-01|0|Todo excelente user_0843! Probando listas enlazadas y grafos.
+713|162|845|2025-12-31|1|Hola user_0845, como vas con el Desafio 2 de C++?
+714|583|845|2025-12-31|1|Hola user_0845, saludo unidireccional desde user_0583.
+715|605|846|2026-05-20|1|Hola user_0846, saludo unidireccional desde user_0605.
+716|246|847|2025-06-30|1|Hola user_0847, como vas con el Desafio 2 de C++?
+717|995|849|2026-10-14|0|Todo excelente user_0849! Probando listas enlazadas y grafos.
+718|514|850|2024-02-29|1|Hola user_0850, como vas con el Desafio 2 de C++?
+719|575|850|2024-02-29|1|Hola user_0850, como vas con el Desafio 2 de C++?
+720|529|850|2025-12-31|1|Hola user_0850, como vas con el Desafio 2 de C++?
+721|749|851|2025-06-30|1|Hola user_0851, como vas con el Desafio 2 de C++?
+722|735|853|2024-02-29|1|Hola user_0853, como vas con el Desafio 2 de C++?
+723|225|853|2025-01-15|1|Hola user_0853, como vas con el Desafio 2 de C++?
+724|646|853|2025-12-31|1|Hola user_0853, saludo unidireccional desde user_0646.
+725|242|854|2026-10-14|1|Hola user_0854, saludo unidireccional desde user_0242.
+726|339|857|2025-06-30|1|Hola user_0857, como vas con el Desafio 2 de C++?
+727|515|857|2025-06-30|1|Hola user_0857, saludo unidireccional desde user_0515.
+728|195|858|2025-12-31|0|Hola user_0858, saludo unidireccional desde user_0195.
+729|481|859|2024-02-29|1|Hola user_0859, como vas con el Desafio 2 de C++?
+730|595|859|2024-02-29|1|Hola user_0859, como vas con el Desafio 2 de C++?
+731|621|861|2024-02-29|1|Hola user_0861, como vas con el Desafio 2 de C++?
+732|494|861|2025-12-31|1|Hola user_0861, saludo unidireccional desde user_0494.
+733|777|861|2026-10-10|1|Hola user_0861, saludo unidireccional desde user_0777.
+734|995|861|2026-10-14|0|Todo excelente user_0861! Probando listas enlazadas y grafos.
+735|703|863|2026-01-01|0|Hola user_0863, saludo unidireccional desde user_0703.
+736|138|865|2025-06-30|1|Hola user_0865, como vas con el Desafio 2 de C++?
+737|165|866|2025-12-31|1|Hola user_0866, como vas con el Desafio 2 de C++?
+738|407|867|2026-10-10|0|Hola user_0867, saludo unidireccional desde user_0407.
+739|270|869|2024-02-29|1|Hola user_0869, como vas con el Desafio 2 de C++?
+740|753|869|2026-05-20|1|Hola user_0869, saludo unidireccional desde user_0753.
+741|842|869|2026-10-14|1|Hola user_0869, saludo unidireccional desde user_0842.
+742|962|869|2026-10-14|0|Todo excelente user_0869! Probando listas enlazadas y grafos.
+743|741|870|2025-01-15|1|Hola user_0870, como vas con el Desafio 2 de C++?
+744|450|870|2025-12-31|1|Hola user_0870, saludo unidireccional desde user_0450.
+745|939|871|2026-05-20|0|Todo excelente user_0871! Probando listas enlazadas y grafos.
+746|77|873|2024-02-29|1|Hola user_0873, como vas con el Desafio 2 de C++?
+747|789|873|2024-02-29|1|Hola user_0873, como vas con el Desafio 2 de C++?
+748|233|873|2025-01-15|0|Hola user_0873, saludo unidireccional desde user_0233.
+749|771|873|2025-12-31|1|Hola user_0873, saludo unidireccional desde user_0771.
+750|762|874|2025-12-31|1|Hola user_0874, como vas con el Desafio 2 de C++?
+751|998|874|2026-01-01|0|Todo excelente user_0874! Probando listas enlazadas y grafos.
+752|210|874|2026-10-10|1|Hola user_0874, saludo unidireccional desde user_0210.
+753|785|875|2024-02-29|1|Hola user_0875, saludo unidireccional desde user_0785.
+754|587|875|2025-12-31|1|Hola user_0875, como vas con el Desafio 2 de C++?
+755|70|877|2026-05-20|1|Hola user_0877, saludo unidireccional desde user_0070.
+756|589|877|2026-05-20|1|Hola user_0877, saludo unidireccional desde user_0589.
+757|621|878|2025-01-15|1|Hola user_0878, saludo unidireccional desde user_0621.
+758|339|879|2025-01-15|1|Hola user_0879, como vas con el Desafio 2 de C++?
+759|645|881|2026-05-20|0|Hola user_0881, saludo unidireccional desde user_0645.
+760|155|882|2026-10-14|0|Hola user_0882, saludo unidireccional desde user_0155.
+761|73|883|2025-06-30|1|Hola user_0883, saludo unidireccional desde user_0073.
+762|205|883|2026-05-20|0|Hola user_0883, saludo unidireccional desde user_0205.
+763|973|883|2026-10-14|0|Todo excelente user_0883! Probando listas enlazadas y grafos.
+764|238|885|2026-05-20|1|Hola user_0885, saludo unidireccional desde user_0238.
+765|781|886|2024-02-29|1|Hola user_0886, como vas con el Desafio 2 de C++?
+766|993|886|2026-01-01|0|Todo excelente user_0886! Probando listas enlazadas y grafos.
+767|561|887|2025-01-15|1|Hola user_0887, como vas con el Desafio 2 de C++?
+768|223|887|2025-12-31|1|Hola user_0887, como vas con el Desafio 2 de C++?
+769|135|887|2026-10-10|0|Hola user_0887, saludo unidireccional desde user_0135.
+770|502|887|2026-10-10|0|Hola user_0887, saludo unidireccional desde user_0502.
+771|681|889|2024-02-29|1|Hola user_0889, como vas con el Desafio 2 de C++?
+772|269|890|2024-02-29|1|Hola user_0890, como vas con el Desafio 2 de C++?
+773|110|890|2025-12-31|1|Hola user_0890, como vas con el Desafio 2 de C++?
+774|519|891|2026-10-14|1|Hola user_0891, saludo unidireccional desde user_0519.
+775|823|893|2025-06-30|1|Hola user_0893, como vas con el Desafio 2 de C++?
+776|257|894|2024-02-29|0|Hola user_0894, saludo unidireccional desde user_0257.
+777|717|894|2025-06-30|0|Hola user_0894, saludo unidireccional desde user_0717.
+778|522|894|2026-10-10|1|Hola user_0894, saludo unidireccional desde user_0522.
+779|434|895|2025-12-31|1|Hola user_0895, saludo unidireccional desde user_0434.
+780|954|895|2026-05-20|0|Todo excelente user_0895! Probando listas enlazadas y grafos.
+781|147|897|2024-02-29|1|Hola user_0897, saludo unidireccional desde user_0147.
+782|686|897|2024-02-29|1|Hola user_0897, como vas con el Desafio 2 de C++?
+783|793|897|2026-10-10|1|Hola user_0897, saludo unidireccional desde user_0793.
+784|174|898|2026-01-01|1|Hola user_0898, saludo unidireccional desde user_0174.
+785|638|899|2025-06-30|1|Hola user_0899, como vas con el Desafio 2 de C++?
+786|443|899|2026-10-14|0|Hola user_0899, saludo unidireccional desde user_0443.
+787|111|901|2025-06-30|1|Hola user_0901, como vas con el Desafio 2 de C++?
+788|417|901|2025-06-30|0|Hola user_0901, saludo unidireccional desde user_0417.
+789|923|901|2026-01-01|0|Todo excelente user_0901! Probando listas enlazadas y grafos.
+790|939|901|2026-01-01|0|Todo excelente user_0901! Probando listas enlazadas y grafos.
+791|903|901|2026-10-10|0|Todo excelente user_0901! Probando listas enlazadas y grafos.
+792|927|901|2026-10-10|0|Todo excelente user_0901! Probando listas enlazadas y grafos.
+793|914|901|2026-10-14|0|Todo excelente user_0901! Probando listas enlazadas y grafos.
+794|926|901|2026-10-14|0|Todo excelente user_0901! Probando listas enlazadas y grafos.
+795|999|901|2026-10-14|0|Todo excelente user_0901! Probando listas enlazadas y grafos.
+796|807|902|2025-06-30|1|Hola user_0902, como vas con el Desafio 2 de C++?
+797|901|902|2026-01-01|0|Hola user_0902, saludo unidireccional desde user_0901.
+798|906|902|2026-01-01|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+799|993|902|2026-01-01|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+800|997|902|2026-01-01|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+801|793|902|2026-05-20|1|Hola user_0902, saludo unidireccional desde user_0793.
+802|903|902|2026-05-20|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+803|910|902|2026-10-10|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+804|929|902|2026-10-10|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+805|933|902|2026-10-10|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+806|915|902|2026-10-14|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+807|917|902|2026-10-14|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+808|925|902|2026-10-14|0|Todo excelente user_0902! Probando listas enlazadas y grafos.
+809|902|903|2024-02-29|1|Hola user_0903, como vas con el Desafio 2 de C++?
+810|901|903|2025-01-15|1|Hola user_0903, como vas con el Desafio 2 de C++?
+811|905|903|2026-01-01|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+812|925|903|2026-01-01|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+813|935|903|2026-01-01|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+814|937|903|2026-01-01|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+815|917|903|2026-05-20|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+816|921|903|2026-05-20|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+817|347|903|2026-10-10|0|Hola user_0903, saludo unidireccional desde user_0347.
+818|923|903|2026-10-10|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+819|939|903|2026-10-10|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+820|995|903|2026-10-10|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+821|922|903|2026-10-14|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+822|990|903|2026-10-14|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+823|993|903|2026-10-14|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+824|998|903|2026-10-14|0|Todo excelente user_0903! Probando listas enlazadas y grafos.
+825|71|905|2025-01-15|1|Hola user_0905, como vas con el Desafio 2 de C++?
+826|903|905|2025-01-15|1|Hola user_0905, como vas con el Desafio 2 de C++?
+827|637|905|2025-06-30|1|Hola user_0905, saludo unidireccional desde user_0637.
+828|830|905|2025-06-30|1|Hola user_0905, como vas con el Desafio 2 de C++?
+829|909|905|2026-01-01|0|Todo excelente user_0905! Probando listas enlazadas y grafos.
+830|914|905|2026-01-01|0|Todo excelente user_0905! Probando listas enlazadas y grafos.
+831|915|905|2026-05-20|0|Todo excelente user_0905! Probando listas enlazadas y grafos.
+832|919|905|2026-05-20|0|Todo excelente user_0905! Probando listas enlazadas y grafos.
+833|990|905|2026-05-20|0|Todo excelente user_0905! Probando listas enlazadas y grafos.
+834|991|905|2026-05-20|0|Todo excelente user_0905! Probando listas enlazadas y grafos.
+835|998|905|2026-10-10|0|Todo excelente user_0905! Probando listas enlazadas y grafos.
+836|910|905|2026-10-14|0|Todo excelente user_0905! Probando listas enlazadas y grafos.
+837|926|905|2026-10-14|0|Todo excelente user_0905! Probando listas enlazadas y grafos.
+838|299|906|2024-02-29|1|Hola user_0906, como vas con el Desafio 2 de C++?
+839|905|906|2025-01-15|1|Hola user_0906, saludo unidireccional desde user_0905.
+840|902|906|2025-06-30|1|Hola user_0906, como vas con el Desafio 2 de C++?
+841|926|906|2026-01-01|0|Todo excelente user_0906! Probando listas enlazadas y grafos.
+842|913|906|2026-05-20|0|Todo excelente user_0906! Probando listas enlazadas y grafos.
+843|923|906|2026-05-20|0|Todo excelente user_0906! Probando listas enlazadas y grafos.
+844|934|906|2026-05-20|0|Todo excelente user_0906! Probando listas enlazadas y grafos.
+845|939|906|2026-05-20|0|Todo excelente user_0906! Probando listas enlazadas y grafos.
+846|993|906|2026-10-14|0|Todo excelente user_0906! Probando listas enlazadas y grafos.
+847|997|906|2026-10-14|0|Todo excelente user_0906! Probando listas enlazadas y grafos.
+848|558|907|2025-06-30|0|Hola user_0907, saludo unidireccional desde user_0558.
+849|741|907|2025-06-30|0|Hola user_0907, saludo unidireccional desde user_0741.
+850|901|907|2025-12-31|0|Hola user_0907, saludo unidireccional desde user_0901.
+851|110|907|2026-01-01|1|Hola user_0907, saludo unidireccional desde user_0110.
+852|902|907|2026-01-01|0|Hola user_0907, saludo unidireccional desde user_0902.
+853|929|907|2026-01-01|0|Todo excelente user_0907! Probando listas enlazadas y grafos.
+854|939|907|2026-01-01|0|Todo excelente user_0907! Probando listas enlazadas y grafos.
+855|990|907|2026-01-01|0|Todo excelente user_0907! Probando listas enlazadas y grafos.
+856|993|907|2026-05-20|0|Todo excelente user_0907! Probando listas enlazadas y grafos.
+857|994|907|2026-05-20|0|Todo excelente user_0907! Probando listas enlazadas y grafos.
+858|931|907|2026-10-10|0|Todo excelente user_0907! Probando listas enlazadas y grafos.
+859|925|907|2026-10-14|0|Todo excelente user_0907! Probando listas enlazadas y grafos.
+860|467|909|2024-02-29|1|Hola user_0909, como vas con el Desafio 2 de C++?
+861|905|909|2025-01-15|1|Hola user_0909, como vas con el Desafio 2 de C++?
+862|901|909|2025-06-30|1|Hola user_0909, saludo unidireccional desde user_0901.
+863|910|909|2026-01-01|0|Todo excelente user_0909! Probando listas enlazadas y grafos.
+864|929|909|2026-01-01|0|Todo excelente user_0909! Probando listas enlazadas y grafos.
+865|933|909|2026-01-01|0|Todo excelente user_0909! Probando listas enlazadas y grafos.
+866|991|909|2026-05-20|0|Todo excelente user_0909! Probando listas enlazadas y grafos.
+867|939|909|2026-10-10|0|Todo excelente user_0909! Probando listas enlazadas y grafos.
+868|902|910|2024-02-29|1|Hola user_0910, como vas con el Desafio 2 de C++?
+869|905|910|2025-01-15|1|Hola user_0910, como vas con el Desafio 2 de C++?
+870|909|910|2025-01-15|1|Hola user_0910, como vas con el Desafio 2 de C++?
+871|895|910|2025-06-30|1|Hola user_0910, saludo unidireccional desde user_0895.
+872|999|910|2026-01-01|0|Todo excelente user_0910! Probando listas enlazadas y grafos.
+873|901|910|2026-05-20|0|Hola user_0910, saludo unidireccional desde user_0901.
+874|927|910|2026-05-20|0|Todo excelente user_0910! Probando listas enlazadas y grafos.
+875|799|910|2026-10-10|1|Hola user_0910, saludo unidireccional desde user_0799.
+876|929|910|2026-10-10|0|Todo excelente user_0910! Probando listas enlazadas y grafos.
+877|991|910|2026-10-10|0|Todo excelente user_0910! Probando listas enlazadas y grafos.
+878|998|910|2026-10-10|0|Todo excelente user_0910! Probando listas enlazadas y grafos.
+879|921|910|2026-10-14|0|Todo excelente user_0910! Probando listas enlazadas y grafos.
+880|938|910|2026-10-14|0|Todo excelente user_0910! Probando listas enlazadas y grafos.
+881|997|910|2026-10-14|0|Todo excelente user_0910! Probando listas enlazadas y grafos.
+882|251|911|2025-01-15|1|Hola user_0911, saludo unidireccional desde user_0251.
+883|903|911|2025-01-15|1|Hola user_0911, saludo unidireccional desde user_0903.
+884|909|911|2025-01-15|0|Hola user_0911, saludo unidireccional desde user_0909.
+885|550|911|2025-12-31|1|Hola user_0911, como vas con el Desafio 2 de C++?
+886|910|911|2025-12-31|1|Hola user_0911, saludo unidireccional desde user_0910.
+887|931|911|2026-01-01|0|Todo excelente user_0911! Probando listas enlazadas y grafos.
+888|935|911|2026-01-01|0|Todo excelente user_0911! Probando listas enlazadas y grafos.
+889|939|911|2026-01-01|0|Todo excelente user_0911! Probando listas enlazadas y grafos.
+890|925|911|2026-05-20|0|Todo excelente user_0911! Probando listas enlazadas y grafos.
+891|990|911|2026-05-20|0|Todo excelente user_0911! Probando listas enlazadas y grafos.
+892|913|911|2026-10-10|0|Todo excelente user_0911! Probando listas enlazadas y grafos.
+893|994|911|2026-10-14|0|Todo excelente user_0911! Probando listas enlazadas y grafos.
+894|322|913|2025-06-30|1|Hola user_0913, como vas con el Desafio 2 de C++?
+895|643|913|2025-06-30|0|Hola user_0913, saludo unidireccional desde user_0643.
+896|911|913|2025-06-30|1|Hola user_0913, como vas con el Desafio 2 de C++?
+897|437|913|2025-12-31|0|Hola user_0913, saludo unidireccional desde user_0437.
+898|623|913|2025-12-31|0|Hola user_0913, saludo unidireccional desde user_0623.
+899|906|913|2025-12-31|1|Hola user_0913, como vas con el Desafio 2 de C++?
+900|502|913|2026-01-01|0|Hola user_0913, saludo unidireccional desde user_0502.
+901|918|913|2026-01-01|0|Todo excelente user_0913! Probando listas enlazadas y grafos.
+902|931|913|2026-01-01|0|Todo excelente user_0913! Probando listas enlazadas y grafos.
+903|939|913|2026-01-01|0|Todo excelente user_0913! Probando listas enlazadas y grafos.
+904|991|913|2026-01-01|0|Todo excelente user_0913! Probando listas enlazadas y grafos.
+905|587|913|2026-05-20|0|Hola user_0913, saludo unidireccional desde user_0587.
+906|919|913|2026-05-20|0|Todo excelente user_0913! Probando listas enlazadas y grafos.
+907|933|913|2026-05-20|0|Todo excelente user_0913! Probando listas enlazadas y grafos.
+908|659|913|2026-10-10|1|Hola user_0913, saludo unidireccional desde user_0659.
+909|917|913|2026-10-10|0|Todo excelente user_0913! Probando listas enlazadas y grafos.
+910|910|913|2026-10-14|0|Hola user_0913, saludo unidireccional desde user_0910.
+911|926|913|2026-10-14|0|Todo excelente user_0913! Probando listas enlazadas y grafos.
+912|903|914|2024-02-29|1|Hola user_0914, saludo unidireccional desde user_0903.
+913|905|914|2025-01-15|1|Hola user_0914, como vas con el Desafio 2 de C++?
+914|86|914|2025-06-30|1|Hola user_0914, como vas con el Desafio 2 de C++?
+915|901|914|2025-06-30|1|Hola user_0914, como vas con el Desafio 2 de C++?
+916|911|914|2025-06-30|0|Hola user_0914, saludo unidireccional desde user_0911.
+917|517|914|2025-12-31|0|Hola user_0914, saludo unidireccional desde user_0517.
+918|937|914|2026-01-01|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+919|939|914|2026-01-01|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+920|902|914|2026-05-20|0|Hola user_0914, saludo unidireccional desde user_0902.
+921|918|914|2026-05-20|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+922|929|914|2026-05-20|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+923|993|914|2026-05-20|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+924|909|914|2026-10-10|0|Hola user_0914, saludo unidireccional desde user_0909.
+925|915|914|2026-10-10|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+926|995|914|2026-10-10|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+927|926|914|2026-10-14|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+928|934|914|2026-10-14|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+929|935|914|2026-10-14|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+930|997|914|2026-10-14|0|Todo excelente user_0914! Probando listas enlazadas y grafos.
+931|902|915|2024-02-29|1|Hola user_0915, como vas con el Desafio 2 de C++?
+932|903|915|2024-02-29|0|Hola user_0915, saludo unidireccional desde user_0903.
+933|907|915|2024-02-29|1|Hola user_0915, saludo unidireccional desde user_0907.
+934|914|915|2024-02-29|1|Hola user_0915, como vas con el Desafio 2 de C++?
+935|51|915|2025-01-15|0|Hola user_0915, saludo unidireccional desde user_0051.
+936|693|915|2025-01-15|1|Hola user_0915, como vas con el Desafio 2 de C++?
+937|905|915|2025-01-15|1|Hola user_0915, como vas con el Desafio 2 de C++?
+938|911|915|2025-01-15|0|Hola user_0915, saludo unidireccional desde user_0911.
+939|375|915|2025-06-30|1|Hola user_0915, saludo unidireccional desde user_0375.
+940|718|915|2025-06-30|0|Hola user_0915, saludo unidireccional desde user_0718.
+941|909|915|2025-06-30|0|Hola user_0915, saludo unidireccional desde user_0909.
+942|127|915|2026-01-01|1|Hola user_0915, saludo unidireccional desde user_0127.
+943|391|915|2026-01-01|1|Hola user_0915, saludo unidireccional desde user_0391.
+944|935|915|2026-01-01|0|Todo excelente user_0915! Probando listas enlazadas y grafos.
+945|997|915|2026-01-01|0|Todo excelente user_0915! Probando listas enlazadas y grafos.
+946|990|915|2026-05-20|0|Todo excelente user_0915! Probando listas enlazadas y grafos.
+947|991|915|2026-05-20|0|Todo excelente user_0915! Probando listas enlazadas y grafos.
+948|910|915|2026-10-14|0|Hola user_0915, saludo unidireccional desde user_0910.
+949|909|917|2024-02-29|1|Hola user_0917, saludo unidireccional desde user_0909.
+950|902|917|2025-01-15|1|Hola user_0917, como vas con el Desafio 2 de C++?
+951|903|917|2025-12-31|1|Hola user_0917, como vas con el Desafio 2 de C++?
+952|910|917|2025-12-31|1|Hola user_0917, saludo unidireccional desde user_0910.
+953|913|917|2025-12-31|1|Hola user_0917, como vas con el Desafio 2 de C++?
+954|935|917|2026-01-01|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+955|721|917|2026-05-20|0|Hola user_0917, saludo unidireccional desde user_0721.
+956|901|917|2026-05-20|1|Hola user_0917, saludo unidireccional desde user_0901.
+957|925|917|2026-05-20|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+958|927|917|2026-05-20|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+959|990|917|2026-05-20|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+960|906|917|2026-10-10|1|Hola user_0917, saludo unidireccional desde user_0906.
+961|926|917|2026-10-10|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+962|934|917|2026-10-10|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+963|938|917|2026-10-10|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+964|705|917|2026-10-14|0|Hola user_0917, saludo unidireccional desde user_0705.
+965|930|917|2026-10-14|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+966|991|917|2026-10-14|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+967|999|917|2026-10-14|0|Todo excelente user_0917! Probando listas enlazadas y grafos.
+968|125|918|2025-01-15|1|Hola user_0918, como vas con el Desafio 2 de C++?
+969|913|918|2025-01-15|1|Hola user_0918, como vas con el Desafio 2 de C++?
+970|901|918|2025-06-30|1|Hola user_0918, saludo unidireccional desde user_0901.
+971|914|918|2025-06-30|1|Hola user_0918, como vas con el Desafio 2 de C++?
+972|994|918|2026-01-01|0|Todo excelente user_0918! Probando listas enlazadas y grafos.
+973|998|918|2026-01-01|0|Todo excelente user_0918! Probando listas enlazadas y grafos.
+974|999|918|2026-01-01|0|Todo excelente user_0918! Probando listas enlazadas y grafos.
+975|902|918|2026-05-20|0|Hola user_0918, saludo unidireccional desde user_0902.
+976|909|918|2026-05-20|1|Hola user_0918, saludo unidireccional desde user_0909.
+977|563|918|2026-10-10|0|Hola user_0918, saludo unidireccional desde user_0563.
+978|911|918|2026-10-10|0|Hola user_0918, saludo unidireccional desde user_0911.
+979|938|918|2026-10-10|0|Todo excelente user_0918! Probando listas enlazadas y grafos.
+980|993|918|2026-10-10|0|Todo excelente user_0918! Probando listas enlazadas y grafos.
+981|921|918|2026-10-14|0|Todo excelente user_0918! Probando listas enlazadas y grafos.
+982|925|918|2026-10-14|0|Todo excelente user_0918! Probando listas enlazadas y grafos.
+983|930|918|2026-10-14|0|Todo excelente user_0918! Probando listas enlazadas y grafos.
+984|990|918|2026-10-14|0|Todo excelente user_0918! Probando listas enlazadas y grafos.
+985|906|919|2024-02-29|1|Hola user_0919, saludo unidireccional desde user_0906.
+986|905|919|2025-01-15|1|Hola user_0919, como vas con el Desafio 2 de C++?
+987|913|919|2025-06-30|1|Hola user_0919, como vas con el Desafio 2 de C++?
+988|903|919|2026-01-01|1|Hola user_0919, saludo unidireccional desde user_0903.
+989|994|919|2026-01-01|0|Todo excelente user_0919! Probando listas enlazadas y grafos.
+990|927|919|2026-05-20|0|Todo excelente user_0919! Probando listas enlazadas y grafos.
+991|922|919|2026-10-10|0|Todo excelente user_0919! Probando listas enlazadas y grafos.
+992|993|919|2026-10-10|0|Todo excelente user_0919! Probando listas enlazadas y grafos.
+993|995|919|2026-10-10|0|Todo excelente user_0919! Probando listas enlazadas y grafos.
+994|911|921|2024-02-29|0|Hola user_0921, saludo unidireccional desde user_0911.
+995|270|921|2025-01-15|1|Hola user_0921, como vas con el Desafio 2 de C++?
+996|393|921|2025-01-15|1|Hola user_0921, como vas con el Desafio 2 de C++?
+997|918|921|2025-01-15|1|Hola user_0921, como vas con el Desafio 2 de C++?
+998|910|921|2025-06-30|1|Hola user_0921, como vas con el Desafio 2 de C++?
+999|410|921|2025-12-31|1|Hola user_0921, como vas con el Desafio 2 de C++?
+1000|903|921|2025-12-31|1|Hola user_0921, como vas con el Desafio 2 de C++?
+1001|919|921|2025-12-31|0|Hola user_0921, saludo unidireccional desde user_0919.
+1002|927|921|2026-01-01|0|Todo excelente user_0921! Probando listas enlazadas y grafos.
+1003|934|921|2026-01-01|0|Todo excelente user_0921! Probando listas enlazadas y grafos.
+1004|938|921|2026-05-20|0|Todo excelente user_0921! Probando listas enlazadas y grafos.
+1005|682|921|2026-10-10|0|Hola user_0921, saludo unidireccional desde user_0682.
+1006|907|921|2026-10-10|0|Hola user_0921, saludo unidireccional desde user_0907.
+1007|997|921|2026-10-10|0|Todo excelente user_0921! Probando listas enlazadas y grafos.
+1008|933|921|2026-10-14|0|Todo excelente user_0921! Probando listas enlazadas y grafos.
+1009|990|921|2026-10-14|0|Todo excelente user_0921! Probando listas enlazadas y grafos.
+1010|993|921|2026-10-14|0|Todo excelente user_0921! Probando listas enlazadas y grafos.
+1011|995|921|2026-10-14|0|Todo excelente user_0921! Probando listas enlazadas y grafos.
+1012|495|922|2025-01-15|1|Hola user_0922, saludo unidireccional desde user_0495.
+1013|903|922|2025-01-15|1|Hola user_0922, como vas con el Desafio 2 de C++?
+1014|919|922|2025-01-15|1|Hola user_0922, como vas con el Desafio 2 de C++?
+1015|910|922|2025-06-30|0|Hola user_0922, saludo unidireccional desde user_0910.
+1016|914|922|2025-06-30|0|Hola user_0922, saludo unidireccional desde user_0914.
+1017|917|922|2025-06-30|0|Hola user_0922, saludo unidireccional desde user_0917.
+1018|422|922|2025-12-31|1|Hola user_0922, saludo unidireccional desde user_0422.
+1019|901|922|2025-12-31|1|Hola user_0922, saludo unidireccional desde user_0901.
+1020|909|922|2025-12-31|0|Hola user_0922, saludo unidireccional desde user_0909.
+1021|918|922|2025-12-31|1|Hola user_0922, saludo unidireccional desde user_0918.
+1022|906|922|2026-01-01|1|Hola user_0922, saludo unidireccional desde user_0906.
+1023|997|922|2026-01-01|0|Todo excelente user_0922! Probando listas enlazadas y grafos.
+1024|902|922|2026-05-20|1|Hola user_0922, saludo unidireccional desde user_0902.
+1025|990|922|2026-05-20|0|Todo excelente user_0922! Probando listas enlazadas y grafos.
+1026|998|922|2026-05-20|0|Todo excelente user_0922! Probando listas enlazadas y grafos.
+1027|921|922|2026-10-10|1|Hola user_0922, saludo unidireccional desde user_0921.
+1028|994|922|2026-10-10|0|Todo excelente user_0922! Probando listas enlazadas y grafos.
+1029|934|922|2026-10-14|0|Todo excelente user_0922! Probando listas enlazadas y grafos.
+1030|991|922|2026-10-14|0|Todo excelente user_0922! Probando listas enlazadas y grafos.
+1031|906|923|2024-02-29|1|Hola user_0923, como vas con el Desafio 2 de C++?
+1032|429|923|2025-01-15|1|Hola user_0923, como vas con el Desafio 2 de C++?
+1033|922|923|2025-01-15|0|Hola user_0923, saludo unidireccional desde user_0922.
+1034|495|923|2025-06-30|0|Hola user_0923, saludo unidireccional desde user_0495.
+1035|901|923|2025-06-30|1|Hola user_0923, como vas con el Desafio 2 de C++?
+1036|902|923|2025-06-30|1|Hola user_0923, saludo unidireccional desde user_0902.
+1037|905|923|2025-06-30|0|Hola user_0923, saludo unidireccional desde user_0905.
+1038|903|923|2025-12-31|1|Hola user_0923, como vas con el Desafio 2 de C++?
+1039|915|923|2025-12-31|1|Hola user_0923, saludo unidireccional desde user_0915.
+1040|326|923|2026-10-10|0|Hola user_0923, saludo unidireccional desde user_0326.
+1041|929|923|2026-10-10|0|Todo excelente user_0923! Probando listas enlazadas y grafos.
+1042|702|925|2024-02-29|1|Hola user_0925, como vas con el Desafio 2 de C++?
+1043|907|925|2024-02-29|1|Hola user_0925, como vas con el Desafio 2 de C++?
+1044|911|925|2024-02-29|1|Hola user_0925, como vas con el Desafio 2 de C++?
+1045|914|925|2024-02-29|1|Hola user_0925, saludo unidireccional desde user_0914.
+1046|182|925|2025-01-15|1|Hola user_0925, como vas con el Desafio 2 de C++?
+1047|901|925|2025-01-15|1|Hola user_0925, saludo unidireccional desde user_0901.
+1048|903|925|2025-01-15|1|Hola user_0925, como vas con el Desafio 2 de C++?
+1049|910|925|2025-01-15|0|Hola user_0925, saludo unidireccional desde user_0910.
+1050|826|925|2025-06-30|1|Hola user_0925, como vas con el Desafio 2 de C++?
+1051|917|925|2025-06-30|1|Hola user_0925, como vas con el Desafio 2 de C++?
+1052|902|925|2025-12-31|1|Hola user_0925, como vas con el Desafio 2 de C++?
+1053|909|925|2025-12-31|1|Hola user_0925, saludo unidireccional desde user_0909.
+1054|918|925|2025-12-31|1|Hola user_0925, como vas con el Desafio 2 de C++?
+1055|993|925|2026-01-01|0|Todo excelente user_0925! Probando listas enlazadas y grafos.
+1056|994|925|2026-01-01|0|Todo excelente user_0925! Probando listas enlazadas y grafos.
+1057|930|925|2026-05-20|0|Todo excelente user_0925! Probando listas enlazadas y grafos.
+1058|923|925|2026-10-10|1|Hola user_0925, saludo unidireccional desde user_0923.
+1059|991|925|2026-10-10|0|Todo excelente user_0925! Probando listas enlazadas y grafos.
+1060|915|925|2026-10-14|0|Hola user_0925, saludo unidireccional desde user_0915.
+1061|997|925|2026-10-14|0|Todo excelente user_0925! Probando listas enlazadas y grafos.
+1062|371|926|2024-02-29|1|Hola user_0926, como vas con el Desafio 2 de C++?
+1063|901|926|2024-02-29|1|Hola user_0926, como vas con el Desafio 2 de C++?
+1064|918|926|2024-02-29|1|Hola user_0926, saludo unidireccional desde user_0918.
+1065|905|926|2025-01-15|1|Hola user_0926, como vas con el Desafio 2 de C++?
+1066|913|926|2025-01-15|1|Hola user_0926, como vas con el Desafio 2 de C++?
+1067|79|926|2025-06-30|1|Hola user_0926, como vas con el Desafio 2 de C++?
+1068|903|926|2025-06-30|1|Hola user_0926, saludo unidireccional desde user_0903.
+1069|907|926|2025-06-30|0|Hola user_0926, saludo unidireccional desde user_0907.
+1070|483|926|2025-12-31|1|Hola user_0926, como vas con el Desafio 2 de C++?
+1071|906|926|2025-12-31|1|Hola user_0926, como vas con el Desafio 2 de C++?
+1072|914|926|2025-12-31|1|Hola user_0926, como vas con el Desafio 2 de C++?
+1073|917|926|2025-12-31|1|Hola user_0926, como vas con el Desafio 2 de C++?
+1074|994|926|2026-01-01|0|Todo excelente user_0926! Probando listas enlazadas y grafos.
+1075|902|926|2026-05-20|1|Hola user_0926, saludo unidireccional desde user_0902.
+1076|911|926|2026-10-10|0|Hola user_0926, saludo unidireccional desde user_0911.
+1077|915|926|2026-10-10|0|Hola user_0926, saludo unidireccional desde user_0915.
+1078|925|926|2026-10-10|1|Hola user_0926, saludo unidireccional desde user_0925.
+1079|910|926|2026-10-14|0|Hola user_0926, saludo unidireccional desde user_0910.
+1080|927|926|2026-10-14|0|Todo excelente user_0926! Probando listas enlazadas y grafos.
+1081|934|926|2026-10-14|0|Todo excelente user_0926! Probando listas enlazadas y grafos.
+1082|567|927|2024-02-29|1|Hola user_0927, como vas con el Desafio 2 de C++?
+1083|917|927|2024-02-29|1|Hola user_0927, como vas con el Desafio 2 de C++?
+1084|903|927|2025-01-15|0|Hola user_0927, saludo unidireccional desde user_0903.
+1085|919|927|2025-01-15|1|Hola user_0927, como vas con el Desafio 2 de C++?
+1086|906|927|2025-06-30|1|Hola user_0927, saludo unidireccional desde user_0906.
+1087|910|927|2025-06-30|1|Hola user_0927, como vas con el Desafio 2 de C++?
+1088|901|927|2025-12-31|1|Hola user_0927, como vas con el Desafio 2 de C++?
+1089|921|927|2025-12-31|1|Hola user_0927, como vas con el Desafio 2 de C++?
+1090|926|927|2025-12-31|1|Hola user_0927, como vas con el Desafio 2 de C++?
+1091|995|927|2026-01-01|0|Todo excelente user_0927! Probando listas enlazadas y grafos.
+1092|911|927|2026-10-10|1|Hola user_0927, saludo unidireccional desde user_0911.
+1093|923|927|2026-10-10|1|Hola user_0927, saludo unidireccional desde user_0923.
+1094|934|927|2026-10-10|0|Todo excelente user_0927! Probando listas enlazadas y grafos.
+1095|938|927|2026-10-10|0|Todo excelente user_0927! Probando listas enlazadas y grafos.
+1096|906|929|2024-02-29|1|Hola user_0929, saludo unidireccional desde user_0906.
+1097|907|929|2024-02-29|1|Hola user_0929, como vas con el Desafio 2 de C++?
+1098|917|929|2024-02-29|1|Hola user_0929, saludo unidireccional desde user_0917.
+1099|923|929|2024-02-29|1|Hola user_0929, como vas con el Desafio 2 de C++?
+1100|909|929|2025-01-15|1|Hola user_0929, como vas con el Desafio 2 de C++?
+1101|902|929|2025-12-31|1|Hola user_0929, como vas con el Desafio 2 de C++?
+1102|910|929|2025-12-31|1|Hola user_0929, como vas con el Desafio 2 de C++?
+1103|914|929|2025-12-31|1|Hola user_0929, como vas con el Desafio 2 de C++?
+1104|991|929|2026-01-01|0|Todo excelente user_0929! Probando listas enlazadas y grafos.
+1105|901|929|2026-05-20|1|Hola user_0929, saludo unidireccional desde user_0901.
+1106|993|929|2026-05-20|0|Todo excelente user_0929! Probando listas enlazadas y grafos.
+1107|995|929|2026-05-20|0|Todo excelente user_0929! Probando listas enlazadas y grafos.
+1108|998|929|2026-05-20|0|Todo excelente user_0929! Probando listas enlazadas y grafos.
+1109|918|929|2026-10-10|1|Hola user_0929, saludo unidireccional desde user_0918.
+1110|925|929|2026-10-10|1|Hola user_0929, saludo unidireccional desde user_0925.
+1111|927|929|2026-10-10|1|Hola user_0929, saludo unidireccional desde user_0927.
+1112|334|930|2024-02-29|1|Hola user_0930, como vas con el Desafio 2 de C++?
+1113|903|930|2025-01-15|0|Hola user_0930, saludo unidireccional desde user_0903.
+1114|911|930|2025-06-30|1|Hola user_0930, saludo unidireccional desde user_0911.
+1115|918|930|2025-06-30|1|Hola user_0930, como vas con el Desafio 2 de C++?
+1116|925|930|2025-06-30|1|Hola user_0930, como vas con el Desafio 2 de C++?
+1117|917|930|2025-12-31|1|Hola user_0930, como vas con el Desafio 2 de C++?
+1118|919|930|2025-12-31|1|Hola user_0930, saludo unidireccional desde user_0919.
+1119|934|930|2026-01-01|0|Todo excelente user_0930! Probando listas enlazadas y grafos.
+1120|991|930|2026-10-10|0|Todo excelente user_0930! Probando listas enlazadas y grafos.
+1121|994|930|2026-10-10|0|Todo excelente user_0930! Probando listas enlazadas y grafos.
+1122|995|930|2026-10-10|0|Todo excelente user_0930! Probando listas enlazadas y grafos.
+1123|906|930|2026-10-14|1|Hola user_0930, saludo unidireccional desde user_0906.
+1124|910|931|2024-02-29|1|Hola user_0931, saludo unidireccional desde user_0910.
+1125|911|931|2024-02-29|1|Hola user_0931, como vas con el Desafio 2 de C++?
+1126|923|931|2024-02-29|1|Hola user_0931, saludo unidireccional desde user_0923.
+1127|907|931|2025-01-15|1|Hola user_0931, como vas con el Desafio 2 de C++?
+1128|913|931|2025-01-15|1|Hola user_0931, como vas con el Desafio 2 de C++?
+1129|917|931|2025-01-15|0|Hola user_0931, saludo unidireccional desde user_0917.
+1130|926|931|2025-01-15|0|Hola user_0931, saludo unidireccional desde user_0926.
+1131|902|931|2025-06-30|0|Hola user_0931, saludo unidireccional desde user_0902.
+1132|518|931|2026-01-01|1|Hola user_0931, saludo unidireccional desde user_0518.
+1133|901|931|2026-01-01|0|Hola user_0931, saludo unidireccional desde user_0901.
+1134|921|931|2026-01-01|0|Hola user_0931, saludo unidireccional desde user_0921.
+1135|934|931|2026-10-10|0|Todo excelente user_0931! Probando listas enlazadas y grafos.
+1136|999|931|2026-10-10|0|Todo excelente user_0931! Probando listas enlazadas y grafos.
+1137|922|931|2026-10-14|1|Hola user_0931, saludo unidireccional desde user_0922.
+1138|937|931|2026-10-14|0|Todo excelente user_0931! Probando listas enlazadas y grafos.
+1139|997|931|2026-10-14|0|Todo excelente user_0931! Probando listas enlazadas y grafos.
+1140|913|933|2024-02-29|1|Hola user_0933, como vas con el Desafio 2 de C++?
+1141|921|933|2024-02-29|1|Hola user_0933, como vas con el Desafio 2 de C++?
+1142|794|933|2025-01-15|1|Hola user_0933, como vas con el Desafio 2 de C++?
+1143|903|933|2025-01-15|0|Hola user_0933, saludo unidireccional desde user_0903.
+1144|807|933|2025-06-30|1|Hola user_0933, como vas con el Desafio 2 de C++?
+1145|902|933|2025-06-30|1|Hola user_0933, como vas con el Desafio 2 de C++?
+1146|909|933|2025-06-30|1|Hola user_0933, como vas con el Desafio 2 de C++?
+1147|929|933|2025-06-30|0|Hola user_0933, saludo unidireccional desde user_0929.
+1148|901|933|2026-01-01|0|Hola user_0933, saludo unidireccional desde user_0901.
+1149|906|933|2026-05-20|0|Hola user_0933, saludo unidireccional desde user_0906.
+1150|990|933|2026-05-20|0|Todo excelente user_0933! Probando listas enlazadas y grafos.
+1151|922|933|2026-10-10|0|Hola user_0933, saludo unidireccional desde user_0922.
+1152|925|933|2026-10-10|0|Hola user_0933, saludo unidireccional desde user_0925.
+1153|994|933|2026-10-10|0|Todo excelente user_0933! Probando listas enlazadas y grafos.
+1154|918|933|2026-10-14|1|Hola user_0933, saludo unidireccional desde user_0918.
+1155|938|933|2026-10-14|0|Todo excelente user_0933! Probando listas enlazadas y grafos.
+1156|995|933|2026-10-14|0|Todo excelente user_0933! Probando listas enlazadas y grafos.
+1157|917|934|2024-02-29|1|Hola user_0934, como vas con el Desafio 2 de C++?
+1158|922|934|2024-02-29|1|Hola user_0934, como vas con el Desafio 2 de C++?
+1159|930|934|2024-02-29|1|Hola user_0934, como vas con el Desafio 2 de C++?
+1160|906|934|2025-01-15|1|Hola user_0934, como vas con el Desafio 2 de C++?
+1161|914|934|2025-01-15|1|Hola user_0934, como vas con el Desafio 2 de C++?
+1162|921|934|2025-01-15|1|Hola user_0934, como vas con el Desafio 2 de C++?
+1163|903|934|2025-06-30|0|Hola user_0934, saludo unidireccional desde user_0903.
+1164|926|934|2025-06-30|1|Hola user_0934, como vas con el Desafio 2 de C++?
+1165|927|934|2025-12-31|1|Hola user_0934, como vas con el Desafio 2 de C++?
+1166|931|934|2025-12-31|1|Hola user_0934, como vas con el Desafio 2 de C++?
+1167|439|934|2026-01-01|1|Hola user_0934, saludo unidireccional desde user_0439.
+1168|909|934|2026-01-01|0|Hola user_0934, saludo unidireccional desde user_0909.
+1169|995|934|2026-01-01|0|Todo excelente user_0934! Probando listas enlazadas y grafos.
+1170|923|934|2026-05-20|1|Hola user_0934, saludo unidireccional desde user_0923.
+1171|994|934|2026-05-20|0|Todo excelente user_0934! Probando listas enlazadas y grafos.
+1172|95|934|2026-10-10|0|Hola user_0934, saludo unidireccional desde user_0095.
+1173|990|934|2026-10-10|0|Todo excelente user_0934! Probando listas enlazadas y grafos.
+1174|918|934|2026-10-14|0|Hola user_0934, saludo unidireccional desde user_0918.
+1175|903|935|2024-02-29|1|Hola user_0935, como vas con el Desafio 2 de C++?
+1176|914|935|2024-02-29|1|Hola user_0935, como vas con el Desafio 2 de C++?
+1177|917|935|2024-02-29|1|Hola user_0935, como vas con el Desafio 2 de C++?
+1178|911|935|2025-01-15|1|Hola user_0935, como vas con el Desafio 2 de C++?
+1179|915|935|2025-06-30|1|Hola user_0935, como vas con el Desafio 2 de C++?
+1180|907|935|2025-12-31|1|Hola user_0935, saludo unidireccional desde user_0907.
+1181|919|935|2025-12-31|0|Hola user_0935, saludo unidireccional desde user_0919.
+1182|909|935|2026-01-01|0|Hola user_0935, saludo unidireccional desde user_0909.
+1183|994|935|2026-01-01|0|Todo excelente user_0935! Probando listas enlazadas y grafos.
+1184|937|935|2026-05-20|0|Todo excelente user_0935! Probando listas enlazadas y grafos.
+1185|997|935|2026-10-14|0|Todo excelente user_0935! Probando listas enlazadas y grafos.
+1186|811|937|2024-02-29|1|Hola user_0937, saludo unidireccional desde user_0811.
+1187|903|937|2024-02-29|1|Hola user_0937, como vas con el Desafio 2 de C++?
+1188|931|937|2024-02-29|1|Hola user_0937, como vas con el Desafio 2 de C++?
+1189|935|937|2024-02-29|1|Hola user_0937, como vas con el Desafio 2 de C++?
+1190|394|937|2025-01-15|1|Hola user_0937, como vas con el Desafio 2 de C++?
+1191|906|937|2025-01-15|0|Hola user_0937, saludo unidireccional desde user_0906.
+1192|933|937|2025-01-15|0|Hola user_0937, saludo unidireccional desde user_0933.
+1193|914|937|2025-06-30|1|Hola user_0937, como vas con el Desafio 2 de C++?
+1194|925|937|2025-06-30|1|Hola user_0937, saludo unidireccional desde user_0925.
+1195|929|937|2025-06-30|0|Hola user_0937, saludo unidireccional desde user_0929.
+1196|907|937|2025-12-31|0|Hola user_0937, saludo unidireccional desde user_0907.
+1197|990|937|2026-01-01|0|Todo excelente user_0937! Probando listas enlazadas y grafos.
+1198|902|937|2026-05-20|1|Hola user_0937, saludo unidireccional desde user_0902.
+1199|918|937|2026-05-20|0|Hola user_0937, saludo unidireccional desde user_0918.
+1200|999|937|2026-05-20|0|Todo excelente user_0937! Probando listas enlazadas y grafos.
+1201|921|937|2026-10-14|1|Hola user_0937, saludo unidireccional desde user_0921.
+1202|910|938|2024-02-29|1|Hola user_0938, como vas con el Desafio 2 de C++?
+1203|921|938|2024-02-29|1|Hola user_0938, como vas con el Desafio 2 de C++?
+1204|922|938|2024-02-29|0|Hola user_0938, saludo unidireccional desde user_0922.
+1205|901|938|2025-01-15|1|Hola user_0938, saludo unidireccional desde user_0901.
+1206|918|938|2025-01-15|1|Hola user_0938, como vas con el Desafio 2 de C++?
+1207|935|938|2025-01-15|0|Hola user_0938, saludo unidireccional desde user_0935.
+1208|927|938|2025-06-30|1|Hola user_0938, como vas con el Desafio 2 de C++?
+1209|931|938|2025-06-30|1|Hola user_0938, saludo unidireccional desde user_0931.
+1210|933|938|2025-06-30|1|Hola user_0938, como vas con el Desafio 2 de C++?
+1211|570|938|2025-12-31|1|Hola user_0938, saludo unidireccional desde user_0570.
+1212|917|938|2025-12-31|1|Hola user_0938, como vas con el Desafio 2 de C++?
+1213|937|938|2025-12-31|1|Hola user_0938, saludo unidireccional desde user_0937.
+1214|991|938|2026-01-01|0|Todo excelente user_0938! Probando listas enlazadas y grafos.
+1215|911|938|2026-05-20|0|Hola user_0938, saludo unidireccional desde user_0911.
+1216|930|938|2026-10-10|0|Hola user_0938, saludo unidireccional desde user_0930.
+1217|998|938|2026-10-10|0|Todo excelente user_0938! Probando listas enlazadas y grafos.
+1218|306|938|2026-10-14|1|Hola user_0938, saludo unidireccional desde user_0306.
+1219|929|938|2026-10-14|1|Hola user_0938, saludo unidireccional desde user_0929.
+1220|994|938|2026-10-14|0|Todo excelente user_0938! Probando listas enlazadas y grafos.
+1221|906|939|2024-02-29|1|Hola user_0939, como vas con el Desafio 2 de C++?
+1222|913|939|2024-02-29|1|Hola user_0939, como vas con el Desafio 2 de C++?
+1223|923|939|2024-02-29|1|Hola user_0939, saludo unidireccional desde user_0923.
+1224|871|939|2025-01-15|1|Hola user_0939, como vas con el Desafio 2 de C++?
+1225|901|939|2025-01-15|1|Hola user_0939, como vas con el Desafio 2 de C++?
+1226|907|939|2025-01-15|1|Hola user_0939, como vas con el Desafio 2 de C++?
+1227|909|939|2025-01-15|1|Hola user_0939, como vas con el Desafio 2 de C++?
+1228|911|939|2025-01-15|1|Hola user_0939, como vas con el Desafio 2 de C++?
+1229|903|939|2025-12-31|1|Hola user_0939, como vas con el Desafio 2 de C++?
+1230|914|939|2025-12-31|1|Hola user_0939, como vas con el Desafio 2 de C++?
+1231|938|939|2026-01-01|1|Hola user_0939, saludo unidireccional desde user_0938.
+1232|503|939|2026-10-10|0|Hola user_0939, saludo unidireccional desde user_0503.
+1233|925|939|2026-10-14|1|Hola user_0939, saludo unidireccional desde user_0925.
+1234|338|941|2024-02-29|0|Hola user_0941, saludo unidireccional desde user_0338.
+1235|957|941|2026-01-01|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1236|958|941|2026-01-01|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1237|969|941|2026-01-01|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1238|993|941|2026-01-01|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1239|995|941|2026-01-01|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1240|953|941|2026-10-10|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1241|997|941|2026-10-10|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1242|954|941|2026-10-14|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1243|959|941|2026-10-14|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1244|987|941|2026-10-14|0|Todo excelente user_0941! Probando listas enlazadas y grafos.
+1245|206|942|2025-12-31|1|Hola user_0942, saludo unidireccional desde user_0206.
+1246|335|942|2026-01-01|0|Hola user_0942, saludo unidireccional desde user_0335.
+1247|946|942|2026-01-01|0|Todo excelente user_0942! Probando listas enlazadas y grafos.
+1248|987|942|2026-01-01|0|Todo excelente user_0942! Probando listas enlazadas y grafos.
+1249|953|942|2026-05-20|0|Todo excelente user_0942! Probando listas enlazadas y grafos.
+1250|947|942|2026-10-10|0|Todo excelente user_0942! Probando listas enlazadas y grafos.
+1251|981|942|2026-10-10|0|Todo excelente user_0942! Probando listas enlazadas y grafos.
+1252|995|942|2026-10-10|0|Todo excelente user_0942! Probando listas enlazadas y grafos.
+1253|959|942|2026-10-14|0|Todo excelente user_0942! Probando listas enlazadas y grafos.
+1254|997|942|2026-10-14|0|Todo excelente user_0942! Probando listas enlazadas y grafos.
+1255|93|943|2025-01-15|1|Hola user_0943, saludo unidireccional desde user_0093.
+1256|161|943|2025-06-30|1|Hola user_0943, como vas con el Desafio 2 de C++?
+1257|942|943|2026-01-01|1|Hola user_0943, saludo unidireccional desde user_0942.
+1258|953|943|2026-01-01|0|Todo excelente user_0943! Probando listas enlazadas y grafos.
+1259|974|943|2026-01-01|0|Todo excelente user_0943! Probando listas enlazadas y grafos.
+1260|979|943|2026-01-01|0|Todo excelente user_0943! Probando listas enlazadas y grafos.
+1261|946|943|2026-05-20|0|Todo excelente user_0943! Probando listas enlazadas y grafos.
+1262|997|943|2026-05-20|0|Todo excelente user_0943! Probando listas enlazadas y grafos.
+1263|969|943|2026-10-10|0|Todo excelente user_0943! Probando listas enlazadas y grafos.
+1264|946|945|2026-01-01|0|Todo excelente user_0945! Probando listas enlazadas y grafos.
+1265|974|945|2026-05-20|0|Todo excelente user_0945! Probando listas enlazadas y grafos.
+1266|987|945|2026-05-20|0|Todo excelente user_0945! Probando listas enlazadas y grafos.
+1267|70|945|2026-10-10|1|Hola user_0945, saludo unidireccional desde user_0070.
+1268|953|945|2026-10-10|0|Todo excelente user_0945! Probando listas enlazadas y grafos.
+1269|995|945|2026-10-10|0|Todo excelente user_0945! Probando listas enlazadas y grafos.
+1270|963|945|2026-10-14|0|Todo excelente user_0945! Probando listas enlazadas y grafos.
+1271|470|946|2024-02-29|0|Hola user_0946, saludo unidireccional desde user_0470.
+1272|942|946|2024-02-29|1|Hola user_0946, como vas con el Desafio 2 de C++?
+1273|945|946|2024-02-29|1|Hola user_0946, como vas con el Desafio 2 de C++?
+1274|521|946|2025-01-15|1|Hola user_0946, como vas con el Desafio 2 de C++?
+1275|943|946|2025-01-15|1|Hola user_0946, como vas con el Desafio 2 de C++?
+1276|207|946|2025-06-30|1|Hola user_0946, como vas con el Desafio 2 de C++?
+1277|171|946|2026-05-20|1|Hola user_0946, saludo unidireccional desde user_0171.
+1278|966|946|2026-05-20|0|Todo excelente user_0946! Probando listas enlazadas y grafos.
+1279|986|946|2026-10-10|0|Todo excelente user_0946! Probando listas enlazadas y grafos.
+1280|991|946|2026-10-10|0|Todo excelente user_0946! Probando listas enlazadas y grafos.
+1281|995|946|2026-10-10|0|Todo excelente user_0946! Probando listas enlazadas y grafos.
+1282|950|946|2026-10-14|0|Todo excelente user_0946! Probando listas enlazadas y grafos.
+1283|981|946|2026-10-14|0|Todo excelente user_0946! Probando listas enlazadas y grafos.
+1284|993|946|2026-10-14|0|Todo excelente user_0946! Probando listas enlazadas y grafos.
+1285|942|947|2025-01-15|1|Hola user_0947, como vas con el Desafio 2 de C++?
+1286|310|947|2025-06-30|1|Hola user_0947, como vas con el Desafio 2 de C++?
+1287|950|947|2026-01-01|0|Todo excelente user_0947! Probando listas enlazadas y grafos.
+1288|966|947|2026-01-01|0|Todo excelente user_0947! Probando listas enlazadas y grafos.
+1289|969|947|2026-05-20|0|Todo excelente user_0947! Probando listas enlazadas y grafos.
+1290|981|947|2026-10-10|0|Todo excelente user_0947! Probando listas enlazadas y grafos.
+1291|442|949|2025-01-15|1|Hola user_0949, como vas con el Desafio 2 de C++?
+1292|971|949|2026-01-01|0|Todo excelente user_0949! Probando listas enlazadas y grafos.
+1293|991|949|2026-01-01|0|Todo excelente user_0949! Probando listas enlazadas y grafos.
+1294|997|949|2026-01-01|0|Todo excelente user_0949! Probando listas enlazadas y grafos.
+1295|969|949|2026-10-10|0|Todo excelente user_0949! Probando listas enlazadas y grafos.
+1296|965|949|2026-10-14|0|Todo excelente user_0949! Probando listas enlazadas y grafos.
+1297|945|950|2025-01-15|1|Hola user_0950, saludo unidireccional desde user_0945.
+1298|947|950|2025-01-15|1|Hola user_0950, como vas con el Desafio 2 de C++?
+1299|946|950|2025-12-31|1|Hola user_0950, como vas con el Desafio 2 de C++?
+1300|561|950|2026-01-01|1|Hola user_0950, saludo unidireccional desde user_0561.
+1301|967|950|2026-01-01|0|Todo excelente user_0950! Probando listas enlazadas y grafos.
+1302|969|950|2026-01-01|0|Todo excelente user_0950! Probando listas enlazadas y grafos.
+1303|989|950|2026-05-20|0|Todo excelente user_0950! Probando listas enlazadas y grafos.
+1304|991|950|2026-05-20|0|Todo excelente user_0950! Probando listas enlazadas y grafos.
+1305|995|950|2026-05-20|0|Todo excelente user_0950! Probando listas enlazadas y grafos.
+1306|994|950|2026-10-10|0|Todo excelente user_0950! Probando listas enlazadas y grafos.
+1307|998|950|2026-10-10|0|Todo excelente user_0950! Probando listas enlazadas y grafos.
+1308|973|950|2026-10-14|0|Todo excelente user_0950! Probando listas enlazadas y grafos.
+1309|981|950|2026-10-14|0|Todo excelente user_0950! Probando listas enlazadas y grafos.
+1310|61|951|2024-02-29|1|Hola user_0951, como vas con el Desafio 2 de C++?
+1311|953|951|2026-01-01|0|Todo excelente user_0951! Probando listas enlazadas y grafos.
+1312|974|951|2026-01-01|0|Todo excelente user_0951! Probando listas enlazadas y grafos.
+1313|977|951|2026-01-01|0|Todo excelente user_0951! Probando listas enlazadas y grafos.
+1314|949|951|2026-05-20|0|Hola user_0951, saludo unidireccional desde user_0949.
+1315|967|951|2026-05-20|0|Todo excelente user_0951! Probando listas enlazadas y grafos.
+1316|981|951|2026-05-20|0|Todo excelente user_0951! Probando listas enlazadas y grafos.
+1317|942|951|2026-10-10|0|Hola user_0951, saludo unidireccional desde user_0942.
+1318|961|951|2026-10-10|0|Todo excelente user_0951! Probando listas enlazadas y grafos.
+1319|985|951|2026-10-10|0|Todo excelente user_0951! Probando listas enlazadas y grafos.
+1320|995|951|2026-10-10|0|Todo excelente user_0951! Probando listas enlazadas y grafos.
+1321|975|951|2026-10-14|0|Todo excelente user_0951! Probando listas enlazadas y grafos.
+1322|951|953|2024-02-29|1|Hola user_0953, como vas con el Desafio 2 de C++?
+1323|941|953|2025-01-15|1|Hola user_0953, como vas con el Desafio 2 de C++?
+1324|942|953|2025-01-15|1|Hola user_0953, como vas con el Desafio 2 de C++?
+1325|111|953|2025-06-30|1|Hola user_0953, saludo unidireccional desde user_0111.
+1326|943|953|2025-06-30|1|Hola user_0953, como vas con el Desafio 2 de C++?
+1327|945|953|2025-06-30|1|Hola user_0953, como vas con el Desafio 2 de C++?
+1328|949|953|2025-06-30|1|Hola user_0953, saludo unidireccional desde user_0949.
+1329|946|953|2025-12-31|1|Hola user_0953, saludo unidireccional desde user_0946.
+1330|971|953|2026-01-01|0|Todo excelente user_0953! Probando listas enlazadas y grafos.
+1331|991|953|2026-01-01|0|Todo excelente user_0953! Probando listas enlazadas y grafos.
+1332|997|953|2026-01-01|0|Todo excelente user_0953! Probando listas enlazadas y grafos.
+1333|969|953|2026-10-10|0|Todo excelente user_0953! Probando listas enlazadas y grafos.
+1334|999|953|2026-10-10|0|Todo excelente user_0953! Probando listas enlazadas y grafos.
+1335|993|953|2026-10-14|0|Todo excelente user_0953! Probando listas enlazadas y grafos.
+1336|953|954|2024-02-29|0|Hola user_0954, saludo unidireccional desde user_0953.
+1337|201|954|2025-01-15|1|Hola user_0954, como vas con el Desafio 2 de C++?
+1338|181|954|2025-06-30|1|Hola user_0954, saludo unidireccional desde user_0181.
+1339|895|954|2025-12-31|1|Hola user_0954, como vas con el Desafio 2 de C++?
+1340|941|954|2025-12-31|1|Hola user_0954, como vas con el Desafio 2 de C++?
+1341|962|954|2026-01-01|0|Todo excelente user_0954! Probando listas enlazadas y grafos.
+1342|974|954|2026-01-01|0|Todo excelente user_0954! Probando listas enlazadas y grafos.
+1343|625|954|2026-05-20|0|Hola user_0954, saludo unidireccional desde user_0625.
+1344|870|954|2026-05-20|0|Hola user_0954, saludo unidireccional desde user_0870.
+1345|989|954|2026-05-20|0|Todo excelente user_0954! Probando listas enlazadas y grafos.
+1346|990|954|2026-05-20|0|Todo excelente user_0954! Probando listas enlazadas y grafos.
+1347|999|954|2026-05-20|0|Todo excelente user_0954! Probando listas enlazadas y grafos.
+1348|943|954|2026-10-14|0|Hola user_0954, saludo unidireccional desde user_0943.
+1349|958|954|2026-10-14|0|Todo excelente user_0954! Probando listas enlazadas y grafos.
+1350|954|955|2025-01-15|1|Hola user_0955, saludo unidireccional desde user_0954.
+1351|943|955|2026-01-01|1|Hola user_0955, saludo unidireccional desde user_0943.
+1352|998|955|2026-01-01|0|Todo excelente user_0955! Probando listas enlazadas y grafos.
+1353|961|955|2026-05-20|0|Todo excelente user_0955! Probando listas enlazadas y grafos.
+1354|351|955|2026-10-14|0|Hola user_0955, saludo unidireccional desde user_0351.
+1355|941|955|2026-10-14|0|Hola user_0955, saludo unidireccional desde user_0941.
+1356|942|955|2026-10-14|1|Hola user_0955, saludo unidireccional desde user_0942.
+1357|945|957|2025-06-30|1|Hola user_0957, saludo unidireccional desde user_0945.
+1358|941|957|2025-12-31|1|Hola user_0957, como vas con el Desafio 2 de C++?
+1359|978|957|2026-01-01|0|Todo excelente user_0957! Probando listas enlazadas y grafos.
+1360|995|957|2026-01-01|0|Todo excelente user_0957! Probando listas enlazadas y grafos.
+1361|967|957|2026-05-20|0|Todo excelente user_0957! Probando listas enlazadas y grafos.
+1362|982|957|2026-05-20|0|Todo excelente user_0957! Probando listas enlazadas y grafos.
+1363|963|957|2026-10-10|0|Todo excelente user_0957! Probando listas enlazadas y grafos.
+1364|691|957|2026-10-14|0|Hola user_0957, saludo unidireccional desde user_0691.
+1365|977|957|2026-10-14|0|Todo excelente user_0957! Probando listas enlazadas y grafos.
+1366|955|958|2025-06-30|0|Hola user_0958, saludo unidireccional desde user_0955.
+1367|258|958|2025-12-31|1|Hola user_0958, como vas con el Desafio 2 de C++?
+1368|826|958|2025-12-31|1|Hola user_0958, como vas con el Desafio 2 de C++?
+1369|941|958|2025-12-31|1|Hola user_0958, como vas con el Desafio 2 de C++?
+1370|954|958|2025-12-31|1|Hola user_0958, como vas con el Desafio 2 de C++?
+1371|962|958|2026-01-01|0|Todo excelente user_0958! Probando listas enlazadas y grafos.
+1372|990|958|2026-01-01|0|Todo excelente user_0958! Probando listas enlazadas y grafos.
+1373|994|958|2026-01-01|0|Todo excelente user_0958! Probando listas enlazadas y grafos.
+1374|259|958|2026-05-20|1|Hola user_0958, saludo unidireccional desde user_0259.
+1375|989|958|2026-05-20|0|Todo excelente user_0958! Probando listas enlazadas y grafos.
+1376|993|958|2026-05-20|0|Todo excelente user_0958! Probando listas enlazadas y grafos.
+1377|978|958|2026-10-10|0|Todo excelente user_0958! Probando listas enlazadas y grafos.
+1378|987|958|2026-10-10|0|Todo excelente user_0958! Probando listas enlazadas y grafos.
+1379|966|958|2026-10-14|0|Todo excelente user_0958! Probando listas enlazadas y grafos.
+1380|974|958|2026-10-14|0|Todo excelente user_0958! Probando listas enlazadas y grafos.
+1381|590|959|2024-02-29|1|Hola user_0959, saludo unidireccional desde user_0590.
+1382|733|959|2024-02-29|0|Hola user_0959, saludo unidireccional desde user_0733.
+1383|942|959|2024-02-29|1|Hola user_0959, como vas con el Desafio 2 de C++?
+1384|958|959|2025-01-15|0|Hola user_0959, saludo unidireccional desde user_0958.
+1385|637|959|2025-06-30|1|Hola user_0959, saludo unidireccional desde user_0637.
+1386|707|959|2025-06-30|1|Hola user_0959, saludo unidireccional desde user_0707.
+1387|941|959|2025-06-30|1|Hola user_0959, como vas con el Desafio 2 de C++?
+1388|950|959|2025-06-30|1|Hola user_0959, saludo unidireccional desde user_0950.
+1389|953|959|2025-06-30|0|Hola user_0959, saludo unidireccional desde user_0953.
+1390|955|959|2026-01-01|1|Hola user_0959, saludo unidireccional desde user_0955.
+1391|966|959|2026-10-10|0|Todo excelente user_0959! Probando listas enlazadas y grafos.
+1392|991|959|2026-10-10|0|Todo excelente user_0959! Probando listas enlazadas y grafos.
+1393|979|959|2026-10-14|0|Todo excelente user_0959! Probando listas enlazadas y grafos.
+1394|570|961|2024-02-29|1|Hola user_0961, como vas con el Desafio 2 de C++?
+1395|954|961|2025-01-15|1|Hola user_0961, saludo unidireccional desde user_0954.
+1396|943|961|2025-06-30|1|Hola user_0961, saludo unidireccional desde user_0943.
+1397|955|961|2025-06-30|1|Hola user_0961, como vas con el Desafio 2 de C++?
+1398|951|961|2025-12-31|1|Hola user_0961, como vas con el Desafio 2 de C++?
+1399|981|961|2026-01-01|0|Todo excelente user_0961! Probando listas enlazadas y grafos.
+1400|999|961|2026-01-01|0|Todo excelente user_0961! Probando listas enlazadas y grafos.
+1401|965|961|2026-05-20|0|Todo excelente user_0961! Probando listas enlazadas y grafos.
+1402|541|961|2026-10-10|1|Hola user_0961, saludo unidireccional desde user_0541.
+1403|982|961|2026-10-10|0|Todo excelente user_0961! Probando listas enlazadas y grafos.
+1404|994|961|2026-10-10|0|Todo excelente user_0961! Probando listas enlazadas y grafos.
+1405|998|961|2026-10-10|0|Todo excelente user_0961! Probando listas enlazadas y grafos.
+1406|991|961|2026-10-14|0|Todo excelente user_0961! Probando listas enlazadas y grafos.
+1407|997|961|2026-10-14|0|Todo excelente user_0961! Probando listas enlazadas y grafos.
+1408|85|962|2024-02-29|1|Hola user_0962, como vas con el Desafio 2 de C++?
+1409|954|962|2024-02-29|1|Hola user_0962, como vas con el Desafio 2 de C++?
+1410|958|962|2024-02-29|1|Hola user_0962, como vas con el Desafio 2 de C++?
+1411|869|962|2025-01-15|1|Hola user_0962, como vas con el Desafio 2 de C++?
+1412|125|962|2025-12-31|1|Hola user_0962, como vas con el Desafio 2 de C++?
+1413|950|962|2025-12-31|1|Hola user_0962, saludo unidireccional desde user_0950.
+1414|942|962|2026-01-01|1|Hola user_0962, saludo unidireccional desde user_0942.
+1415|963|962|2026-05-20|0|Todo excelente user_0962! Probando listas enlazadas y grafos.
+1416|991|962|2026-05-20|0|Todo excelente user_0962! Probando listas enlazadas y grafos.
+1417|994|962|2026-05-20|0|Todo excelente user_0962! Probando listas enlazadas y grafos.
+1418|951|962|2026-10-10|0|Hola user_0962, saludo unidireccional desde user_0951.
+1419|974|962|2026-10-10|0|Todo excelente user_0962! Probando listas enlazadas y grafos.
+1420|945|963|2025-01-15|1|Hola user_0963, como vas con el Desafio 2 de C++?
+1421|942|963|2025-06-30|0|Hola user_0963, saludo unidireccional desde user_0942.
+1422|962|963|2025-06-30|1|Hola user_0963, como vas con el Desafio 2 de C++?
+1423|91|963|2025-12-31|1|Hola user_0963, como vas con el Desafio 2 de C++?
+1424|957|963|2025-12-31|1|Hola user_0963, como vas con el Desafio 2 de C++?
+1425|991|963|2026-01-01|0|Todo excelente user_0963! Probando listas enlazadas y grafos.
+1426|949|963|2026-05-20|0|Hola user_0963, saludo unidireccional desde user_0949.
+1427|994|963|2026-05-20|0|Todo excelente user_0963! Probando listas enlazadas y grafos.
+1428|574|963|2026-10-10|0|Hola user_0963, saludo unidireccional desde user_0574.
+1429|997|963|2026-10-10|0|Todo excelente user_0963! Probando listas enlazadas y grafos.
+1430|951|963|2026-10-14|1|Hola user_0963, saludo unidireccional desde user_0951.
+1431|974|963|2026-10-14|0|Todo excelente user_0963! Probando listas enlazadas y grafos.
+1432|981|963|2026-10-14|0|Todo excelente user_0963! Probando listas enlazadas y grafos.
+1433|949|965|2024-02-29|1|Hola user_0965, como vas con el Desafio 2 de C++?
+1434|951|965|2024-02-29|0|Hola user_0965, saludo unidireccional desde user_0951.
+1435|961|965|2025-01-15|1|Hola user_0965, como vas con el Desafio 2 de C++?
+1436|943|965|2026-05-20|0|Hola user_0965, saludo unidireccional desde user_0943.
+1437|979|965|2026-05-20|0|Todo excelente user_0965! Probando listas enlazadas y grafos.
+1438|997|965|2026-10-10|0|Todo excelente user_0965! Probando listas enlazadas y grafos.
+1439|991|965|2026-10-14|0|Todo excelente user_0965! Probando listas enlazadas y grafos.
+1440|994|965|2026-10-14|0|Todo excelente user_0965! Probando listas enlazadas y grafos.
+1441|950|966|2024-02-29|1|Hola user_0966, saludo unidireccional desde user_0950.
+1442|185|966|2025-06-30|1|Hola user_0966, como vas con el Desafio 2 de C++?
+1443|889|966|2025-06-30|1|Hola user_0966, saludo unidireccional desde user_0889.
+1444|946|966|2025-06-30|1|Hola user_0966, como vas con el Desafio 2 de C++?
+1445|958|966|2025-06-30|1|Hola user_0966, como vas con el Desafio 2 de C++?
+1446|959|966|2025-06-30|1|Hola user_0966, como vas con el Desafio 2 de C++?
+1447|947|966|2025-12-31|1|Hola user_0966, como vas con el Desafio 2 de C++?
+1448|974|966|2026-01-01|0|Todo excelente user_0966! Probando listas enlazadas y grafos.
+1449|789|966|2026-05-20|1|Hola user_0966, saludo unidireccional desde user_0789.
+1450|962|966|2026-05-20|1|Hola user_0966, saludo unidireccional desde user_0962.
+1451|963|966|2026-05-20|1|Hola user_0966, saludo unidireccional desde user_0963.
+1452|995|966|2026-05-20|0|Todo excelente user_0966! Probando listas enlazadas y grafos.
+1453|997|966|2026-05-20|0|Todo excelente user_0966! Probando listas enlazadas y grafos.
+1454|949|966|2026-10-14|0|Hola user_0966, saludo unidireccional desde user_0949.
+1455|990|966|2026-10-14|0|Todo excelente user_0966! Probando listas enlazadas y grafos.
+1456|950|967|2024-02-29|1|Hola user_0967, como vas con el Desafio 2 de C++?
+1457|951|967|2025-01-15|1|Hola user_0967, como vas con el Desafio 2 de C++?
+1458|957|967|2025-12-31|1|Hola user_0967, como vas con el Desafio 2 de C++?
+1459|999|967|2026-01-01|0|Todo excelente user_0967! Probando listas enlazadas y grafos.
+1460|953|967|2026-05-20|1|Hola user_0967, saludo unidireccional desde user_0953.
+1461|941|967|2026-10-14|0|Hola user_0967, saludo unidireccional desde user_0941.
+1462|843|969|2024-02-29|1|Hola user_0969, como vas con el Desafio 2 de C++?
+1463|943|969|2024-02-29|1|Hola user_0969, como vas con el Desafio 2 de C++?
+1464|947|969|2024-02-29|1|Hola user_0969, como vas con el Desafio 2 de C++?
+1465|949|969|2024-02-29|1|Hola user_0969, como vas con el Desafio 2 de C++?
+1466|953|969|2024-02-29|1|Hola user_0969, como vas con el Desafio 2 de C++?
+1467|957|969|2024-02-29|1|Hola user_0969, saludo unidireccional desde user_0957.
+1468|941|969|2025-12-31|1|Hola user_0969, como vas con el Desafio 2 de C++?
+1469|946|969|2025-12-31|1|Hola user_0969, saludo unidireccional desde user_0946.
+1470|950|969|2025-12-31|1|Hola user_0969, como vas con el Desafio 2 de C++?
+1471|961|969|2025-12-31|0|Hola user_0969, saludo unidireccional desde user_0961.
+1472|942|969|2026-01-01|1|Hola user_0969, saludo unidireccional desde user_0942.
+1473|945|969|2026-01-01|1|Hola user_0969, saludo unidireccional desde user_0945.
+1474|971|969|2026-01-01|0|Todo excelente user_0969! Probando listas enlazadas y grafos.
+1475|978|969|2026-01-01|0|Todo excelente user_0969! Probando listas enlazadas y grafos.
+1476|991|969|2026-10-10|0|Todo excelente user_0969! Probando listas enlazadas y grafos.
+1477|973|969|2026-10-14|0|Todo excelente user_0969! Probando listas enlazadas y grafos.
+1478|979|969|2026-10-14|0|Todo excelente user_0969! Probando listas enlazadas y grafos.
+1479|993|969|2026-10-14|0|Todo excelente user_0969! Probando listas enlazadas y grafos.
+1480|994|969|2026-10-14|0|Todo excelente user_0969! Probando listas enlazadas y grafos.
+1481|766|970|2024-02-29|1|Hola user_0970, como vas con el Desafio 2 de C++?
+1482|951|970|2025-01-15|0|Hola user_0970, saludo unidireccional desde user_0951.
+1483|410|970|2025-12-31|0|Hola user_0970, saludo unidireccional desde user_0410.
+1484|947|970|2026-01-01|1|Hola user_0970, saludo unidireccional desde user_0947.
+1485|999|970|2026-05-20|0|Todo excelente user_0970! Probando listas enlazadas y grafos.
+1486|522|970|2026-10-10|0|Hola user_0970, saludo unidireccional desde user_0522.
+1487|974|970|2026-10-10|0|Todo excelente user_0970! Probando listas enlazadas y grafos.
+1488|154|971|2024-02-29|1|Hola user_0971, como vas con el Desafio 2 de C++?
+1489|201|971|2024-02-29|0|Hola user_0971, saludo unidireccional desde user_0201.
+1490|951|971|2024-02-29|0|Hola user_0971, saludo unidireccional desde user_0951.
+1491|949|971|2025-06-30|1|Hola user_0971, como vas con el Desafio 2 de C++?
+1492|970|971|2025-06-30|0|Hola user_0971, saludo unidireccional desde user_0970.
+1493|953|971|2025-12-31|1|Hola user_0971, como vas con el Desafio 2 de C++?
+1494|969|971|2025-12-31|1|Hola user_0971, como vas con el Desafio 2 de C++?
+1495|998|971|2026-01-01|0|Todo excelente user_0971! Probando listas enlazadas y grafos.
+1496|990|971|2026-10-10|0|Todo excelente user_0971! Probando listas enlazadas y grafos.
+1497|994|971|2026-10-10|0|Todo excelente user_0971! Probando listas enlazadas y grafos.
+1498|999|971|2026-10-10|0|Todo excelente user_0971! Probando listas enlazadas y grafos.
+1499|959|973|2024-02-29|1|Hola user_0973, saludo unidireccional desde user_0959.
+1500|963|973|2024-02-29|1|Hola user_0973, saludo unidireccional desde user_0963.
+1501|230|973|2025-01-15|1|Hola user_0973, como vas con el Desafio 2 de C++?
+1502|195|973|2025-06-30|1|Hola user_0973, saludo unidireccional desde user_0195.
+1503|883|973|2025-06-30|1|Hola user_0973, como vas con el Desafio 2 de C++?
+1504|598|973|2025-12-31|1|Hola user_0973, como vas con el Desafio 2 de C++?
+1505|950|973|2025-12-31|1|Hola user_0973, como vas con el Desafio 2 de C++?
+1506|969|973|2025-12-31|1|Hola user_0973, como vas con el Desafio 2 de C++?
+1507|978|973|2026-01-01|0|Todo excelente user_0973! Probando listas enlazadas y grafos.
+1508|982|973|2026-01-01|0|Todo excelente user_0973! Probando listas enlazadas y grafos.
+1509|966|973|2026-05-20|1|Hola user_0973, saludo unidireccional desde user_0966.
+1510|967|973|2026-05-20|1|Hola user_0973, saludo unidireccional desde user_0967.
+1511|979|973|2026-05-20|0|Todo excelente user_0973! Probando listas enlazadas y grafos.
+1512|983|973|2026-05-20|0|Todo excelente user_0973! Probando listas enlazadas y grafos.
+1513|981|973|2026-10-14|0|Todo excelente user_0973! Probando listas enlazadas y grafos.
+1514|999|973|2026-10-14|0|Todo excelente user_0973! Probando listas enlazadas y grafos.
+1515|943|974|2024-02-29|1|Hola user_0974, como vas con el Desafio 2 de C++?
+1516|945|974|2024-02-29|1|Hola user_0974, como vas con el Desafio 2 de C++?
+1517|958|974|2024-02-29|1|Hola user_0974, como vas con el Desafio 2 de C++?
+1518|962|974|2024-02-29|1|Hola user_0974, como vas con el Desafio 2 de C++?
+1519|966|974|2024-02-29|1|Hola user_0974, como vas con el Desafio 2 de C++?
+1520|490|974|2025-01-15|0|Hola user_0974, saludo unidireccional desde user_0490.
+1521|954|974|2025-01-15|1|Hola user_0974, como vas con el Desafio 2 de C++?
+1522|963|974|2025-01-15|1|Hola user_0974, como vas con el Desafio 2 de C++?
+1523|970|974|2025-06-30|1|Hola user_0974, como vas con el Desafio 2 de C++?
+1524|951|974|2025-12-31|1|Hola user_0974, como vas con el Desafio 2 de C++?
+1525|991|974|2026-01-01|0|Todo excelente user_0974! Probando listas enlazadas y grafos.
+1526|973|974|2026-05-20|1|Hola user_0974, saludo unidireccional desde user_0973.
+1527|994|974|2026-10-10|0|Todo excelente user_0974! Probando listas enlazadas y grafos.
+1528|979|974|2026-10-14|0|Todo excelente user_0974! Probando listas enlazadas y grafos.
+1529|993|974|2026-10-14|0|Todo excelente user_0974! Probando listas enlazadas y grafos.
+1530|322|975|2024-02-29|1|Hola user_0975, como vas con el Desafio 2 de C++?
+1531|951|975|2024-02-29|1|Hola user_0975, como vas con el Desafio 2 de C++?
+1532|963|975|2024-02-29|0|Hola user_0975, saludo unidireccional desde user_0963.
+1533|966|975|2025-06-30|1|Hola user_0975, saludo unidireccional desde user_0966.
+1534|969|975|2025-06-30|0|Hola user_0975, saludo unidireccional desde user_0969.
+1535|997|975|2026-01-01|0|Todo excelente user_0975! Probando listas enlazadas y grafos.
+1536|986|975|2026-05-20|0|Todo excelente user_0975! Probando listas enlazadas y grafos.
+1537|958|975|2026-10-10|0|Hola user_0975, saludo unidireccional desde user_0958.
+1538|993|975|2026-10-10|0|Todo excelente user_0975! Probando listas enlazadas y grafos.
+1539|995|975|2026-10-10|0|Todo excelente user_0975! Probando listas enlazadas y grafos.
+1540|510|977|2024-02-29|0|Hola user_0977, saludo unidireccional desde user_0510.
+1541|951|977|2025-01-15|1|Hola user_0977, como vas con el Desafio 2 de C++?
+1542|961|977|2025-01-15|1|Hola user_0977, saludo unidireccional desde user_0961.
+1543|534|977|2025-06-30|0|Hola user_0977, saludo unidireccional desde user_0534.
+1544|957|977|2025-12-31|1|Hola user_0977, como vas con el Desafio 2 de C++?
+1545|270|977|2026-01-01|1|Hola user_0977, saludo unidireccional desde user_0270.
+1546|943|977|2026-05-20|0|Hola user_0977, saludo unidireccional desde user_0943.
+1547|958|977|2026-10-10|1|Hola user_0977, saludo unidireccional desde user_0958.
+1548|989|977|2026-10-10|0|Todo excelente user_0977! Probando listas enlazadas y grafos.
+1549|997|977|2026-10-10|0|Todo excelente user_0977! Probando listas enlazadas y grafos.
+1550|979|977|2026-10-14|0|Todo excelente user_0977! Probando listas enlazadas y grafos.
+1551|993|977|2026-10-14|0|Todo excelente user_0977! Probando listas enlazadas y grafos.
+1552|995|977|2026-10-14|0|Todo excelente user_0977! Probando listas enlazadas y grafos.
+1553|969|978|2024-02-29|1|Hola user_0978, como vas con el Desafio 2 de C++?
+1554|973|978|2024-02-29|1|Hola user_0978, como vas con el Desafio 2 de C++?
+1555|947|978|2025-06-30|0|Hola user_0978, saludo unidireccional desde user_0947.
+1556|958|978|2025-06-30|1|Hola user_0978, como vas con el Desafio 2 de C++?
+1557|966|978|2025-06-30|0|Hola user_0978, saludo unidireccional desde user_0966.
+1558|957|978|2025-12-31|1|Hola user_0978, como vas con el Desafio 2 de C++?
+1559|203|978|2026-01-01|1|Hola user_0978, saludo unidireccional desde user_0203.
+1560|945|978|2026-01-01|0|Hola user_0978, saludo unidireccional desde user_0945.
+1561|991|978|2026-01-01|0|Todo excelente user_0978! Probando listas enlazadas y grafos.
+1562|981|978|2026-05-20|0|Todo excelente user_0978! Probando listas enlazadas y grafos.
+1563|985|978|2026-05-20|0|Todo excelente user_0978! Probando listas enlazadas y grafos.
+1564|986|978|2026-10-14|0|Todo excelente user_0978! Probando listas enlazadas y grafos.
+1565|994|978|2026-10-14|0|Todo excelente user_0978! Probando listas enlazadas y grafos.
+1566|959|979|2024-02-29|1|Hola user_0979, como vas con el Desafio 2 de C++?
+1567|951|979|2025-01-15|0|Hola user_0979, saludo unidireccional desde user_0951.
+1568|969|979|2025-01-15|1|Hola user_0979, como vas con el Desafio 2 de C++?
+1569|113|979|2025-06-30|1|Hola user_0979, como vas con el Desafio 2 de C++?
+1570|218|979|2025-06-30|1|Hola user_0979, saludo unidireccional desde user_0218.
+1571|965|979|2025-06-30|1|Hola user_0979, como vas con el Desafio 2 de C++?
+1572|943|979|2025-12-31|1|Hola user_0979, como vas con el Desafio 2 de C++?
+1573|973|979|2025-12-31|1|Hola user_0979, como vas con el Desafio 2 de C++?
+1574|974|979|2025-12-31|1|Hola user_0979, como vas con el Desafio 2 de C++?
+1575|977|979|2025-12-31|1|Hola user_0979, como vas con el Desafio 2 de C++?
+1576|467|979|2026-01-01|0|Hola user_0979, saludo unidireccional desde user_0467.
+1577|966|979|2026-05-20|1|Hola user_0979, saludo unidireccional desde user_0966.
+1578|993|979|2026-05-20|0|Todo excelente user_0979! Probando listas enlazadas y grafos.
+1579|942|981|2024-02-29|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1580|950|981|2024-02-29|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1581|963|981|2024-02-29|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1582|971|981|2024-02-29|0|Hola user_0981, saludo unidireccional desde user_0971.
+1583|978|981|2024-02-29|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1584|945|981|2025-01-15|0|Hola user_0981, saludo unidireccional desde user_0945.
+1585|205|981|2025-06-30|0|Hola user_0981, saludo unidireccional desde user_0205.
+1586|946|981|2025-06-30|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1587|413|981|2025-12-31|1|Hola user_0981, saludo unidireccional desde user_0413.
+1588|491|981|2025-12-31|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1589|947|981|2025-12-31|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1590|951|981|2025-12-31|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1591|959|981|2025-12-31|1|Hola user_0981, saludo unidireccional desde user_0959.
+1592|961|981|2025-12-31|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1593|973|981|2025-12-31|1|Hola user_0981, como vas con el Desafio 2 de C++?
+1594|993|981|2026-01-01|0|Todo excelente user_0981! Probando listas enlazadas y grafos.
+1595|998|981|2026-05-20|0|Todo excelente user_0981! Probando listas enlazadas y grafos.
+1596|941|982|2024-02-29|0|Hola user_0982, saludo unidireccional desde user_0941.
+1597|945|982|2024-02-29|0|Hola user_0982, saludo unidireccional desde user_0945.
+1598|958|982|2024-02-29|1|Hola user_0982, saludo unidireccional desde user_0958.
+1599|957|982|2025-01-15|1|Hola user_0982, como vas con el Desafio 2 de C++?
+1600|973|982|2025-01-15|1|Hola user_0982, como vas con el Desafio 2 de C++?
+1601|961|982|2025-06-30|1|Hola user_0982, como vas con el Desafio 2 de C++?
+1602|969|982|2025-12-31|0|Hola user_0982, saludo unidireccional desde user_0969.
+1603|955|982|2026-05-20|0|Hola user_0982, saludo unidireccional desde user_0955.
+1604|991|982|2026-05-20|0|Todo excelente user_0982! Probando listas enlazadas y grafos.
+1605|983|982|2026-10-10|0|Todo excelente user_0982! Probando listas enlazadas y grafos.
+1606|999|982|2026-10-10|0|Todo excelente user_0982! Probando listas enlazadas y grafos.
+1607|953|982|2026-10-14|0|Hola user_0982, saludo unidireccional desde user_0953.
+1608|715|983|2024-02-29|1|Hola user_0983, como vas con el Desafio 2 de C++?
+1609|966|983|2024-02-29|1|Hola user_0983, saludo unidireccional desde user_0966.
+1610|973|983|2024-02-29|1|Hola user_0983, como vas con el Desafio 2 de C++?
+1611|982|983|2025-06-30|1|Hola user_0983, como vas con el Desafio 2 de C++?
+1612|979|983|2025-12-31|1|Hola user_0983, saludo unidireccional desde user_0979.
+1613|993|983|2026-01-01|0|Todo excelente user_0983! Probando listas enlazadas y grafos.
+1614|987|983|2026-05-20|0|Todo excelente user_0983! Probando listas enlazadas y grafos.
+1615|822|983|2026-10-10|1|Hola user_0983, saludo unidireccional desde user_0822.
+1616|995|983|2026-10-10|0|Todo excelente user_0983! Probando listas enlazadas y grafos.
+1617|998|983|2026-10-10|0|Todo excelente user_0983! Probando listas enlazadas y grafos.
+1618|974|983|2026-10-14|0|Hola user_0983, saludo unidireccional desde user_0974.
+1619|951|985|2024-02-29|1|Hola user_0985, como vas con el Desafio 2 de C++?
+1620|978|985|2024-02-29|1|Hola user_0985, como vas con el Desafio 2 de C++?
+1621|865|985|2025-06-30|1|Hola user_0985, saludo unidireccional desde user_0865.
+1622|967|985|2025-06-30|1|Hola user_0985, saludo unidireccional desde user_0967.
+1623|334|985|2026-01-01|1|Hola user_0985, saludo unidireccional desde user_0334.
+1624|990|985|2026-01-01|0|Todo excelente user_0985! Probando listas enlazadas y grafos.
+1625|941|985|2026-05-20|1|Hola user_0985, saludo unidireccional desde user_0941.
+1626|981|985|2026-05-20|1|Hola user_0985, saludo unidireccional desde user_0981.
+1627|974|985|2026-10-10|1|Hola user_0985, saludo unidireccional desde user_0974.
+1628|982|985|2026-10-10|1|Hola user_0985, saludo unidireccional desde user_0982.
+1629|962|986|2025-01-15|1|Hola user_0986, saludo unidireccional desde user_0962.
+1630|966|986|2025-01-15|0|Hola user_0986, saludo unidireccional desde user_0966.
+1631|975|986|2025-01-15|1|Hola user_0986, como vas con el Desafio 2 de C++?
+1632|89|986|2025-06-30|1|Hola user_0986, como vas con el Desafio 2 de C++?
+1633|946|986|2025-06-30|1|Hola user_0986, como vas con el Desafio 2 de C++?
+1634|970|986|2025-06-30|0|Hola user_0986, saludo unidireccional desde user_0970.
+1635|982|986|2025-06-30|0|Hola user_0986, saludo unidireccional desde user_0982.
+1636|977|986|2025-12-31|1|Hola user_0986, saludo unidireccional desde user_0977.
+1637|978|986|2025-12-31|1|Hola user_0986, como vas con el Desafio 2 de C++?
+1638|994|986|2026-01-01|0|Todo excelente user_0986! Probando listas enlazadas y grafos.
+1639|953|986|2026-05-20|0|Hola user_0986, saludo unidireccional desde user_0953.
+1640|690|986|2026-10-14|1|Hola user_0986, saludo unidireccional desde user_0690.
+1641|997|986|2026-10-14|0|Todo excelente user_0986! Probando listas enlazadas y grafos.
+1642|953|987|2024-02-29|0|Hola user_0987, saludo unidireccional desde user_0953.
+1643|975|987|2024-02-29|0|Hola user_0987, saludo unidireccional desde user_0975.
+1644|982|987|2024-02-29|0|Hola user_0987, saludo unidireccional desde user_0982.
+1645|941|987|2025-01-15|1|Hola user_0987, como vas con el Desafio 2 de C++?
+1646|942|987|2025-01-15|1|Hola user_0987, como vas con el Desafio 2 de C++?
+1647|958|987|2025-01-15|1|Hola user_0987, como vas con el Desafio 2 de C++?
+1648|945|987|2025-12-31|1|Hola user_0987, como vas con el Desafio 2 de C++?
+1649|967|987|2025-12-31|0|Hola user_0987, saludo unidireccional desde user_0967.
+1650|983|987|2025-12-31|1|Hola user_0987, como vas con el Desafio 2 de C++?
+1651|990|987|2026-01-01|0|Todo excelente user_0987! Probando listas enlazadas y grafos.
+1652|991|987|2026-01-01|0|Todo excelente user_0987! Probando listas enlazadas y grafos.
+1653|507|987|2026-10-10|0|Hola user_0987, saludo unidireccional desde user_0507.
+1654|971|987|2026-10-10|0|Hola user_0987, saludo unidireccional desde user_0971.
+1655|997|987|2026-10-14|0|Todo excelente user_0987! Probando listas enlazadas y grafos.
+1656|950|989|2024-02-29|1|Hola user_0989, como vas con el Desafio 2 de C++?
+1657|977|989|2024-02-29|1|Hola user_0989, como vas con el Desafio 2 de C++?
+1658|941|989|2025-01-15|0|Hola user_0989, saludo unidireccional desde user_0941.
+1659|958|989|2025-01-15|1|Hola user_0989, como vas con el Desafio 2 de C++?
+1660|975|989|2025-01-15|1|Hola user_0989, saludo unidireccional desde user_0975.
+1661|987|989|2025-01-15|1|Hola user_0989, saludo unidireccional desde user_0987.
+1662|954|989|2025-12-31|1|Hola user_0989, como vas con el Desafio 2 de C++?
+1663|947|989|2026-01-01|0|Hola user_0989, saludo unidireccional desde user_0947.
+1664|994|989|2026-01-01|0|Todo excelente user_0989! Probando listas enlazadas y grafos.
+1665|997|989|2026-05-20|0|Todo excelente user_0989! Probando listas enlazadas y grafos.
+1666|949|989|2026-10-10|1|Hola user_0989, saludo unidireccional desde user_0949.
+1667|962|989|2026-10-10|0|Hola user_0989, saludo unidireccional desde user_0962.
+1668|986|989|2026-10-10|0|Hola user_0989, saludo unidireccional desde user_0986.
+1669|946|989|2026-10-14|1|Hola user_0989, saludo unidireccional desde user_0946.
+1670|981|989|2026-10-14|0|Hola user_0989, saludo unidireccional desde user_0981.
+1671|991|990|2024-02-29|0|A
+1672|906|990|2024-02-29|1|Hola user_0990, saludo unidireccional desde user_0906.
+1673|911|990|2024-02-29|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1674|915|990|2024-02-29|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1675|937|990|2024-02-29|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1676|966|990|2024-02-29|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1677|971|990|2024-02-29|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1678|903|990|2025-01-15|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1679|918|990|2025-01-15|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1680|919|990|2025-01-15|1|Hola user_0990, saludo unidireccional desde user_0919.
+1681|963|990|2025-01-15|0|Hola user_0990, saludo unidireccional desde user_0963.
+1682|985|990|2025-01-15|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1683|991|990|2025-06-30|0|Mensaje con separador | embebido | multiple | para validar hastaElFinal=true
+1684|370|990|2025-06-30|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1685|905|990|2025-06-30|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1686|910|990|2025-06-30|1|Hola user_0990, saludo unidireccional desde user_0910.
+1687|926|990|2025-06-30|1|Hola user_0990, saludo unidireccional desde user_0926.
+1688|927|990|2025-06-30|0|Hola user_0990, saludo unidireccional desde user_0927.
+1689|953|990|2025-06-30|0|Hola user_0990, saludo unidireccional desde user_0953.
+1690|958|990|2025-06-30|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1691|973|990|2025-06-30|1|Hola user_0990, saludo unidireccional desde user_0973.
+1692|974|990|2025-06-30|0|Hola user_0990, saludo unidireccional desde user_0974.
+1693|987|990|2025-06-30|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1694|907|990|2025-12-31|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1695|917|990|2025-12-31|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1696|921|990|2025-12-31|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1697|922|990|2025-12-31|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1698|930|990|2025-12-31|0|Hola user_0990, saludo unidireccional desde user_0930.
+1699|933|990|2025-12-31|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1700|934|990|2025-12-31|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1701|935|990|2025-12-31|0|Hola user_0990, saludo unidireccional desde user_0935.
+1702|954|990|2025-12-31|1|Hola user_0990, como vas con el Desafio 2 de C++?
+1703|945|990|2026-01-01|0|Hola user_0990, saludo unidireccional desde user_0945.
+1704|993|990|2026-01-01|0|Todo excelente user_0990! Probando listas enlazadas y grafos.
+1705|901|990|2026-05-20|0|Hola user_0990, saludo unidireccional desde user_0901.
+1706|931|990|2026-05-20|1|Hola user_0990, saludo unidireccional desde user_0931.
+1707|942|990|2026-05-20|1|Hola user_0990, saludo unidireccional desde user_0942.
+1708|962|990|2026-05-20|1|Hola user_0990, saludo unidireccional desde user_0962.
+1709|967|990|2026-05-20|1|Hola user_0990, saludo unidireccional desde user_0967.
+1710|970|990|2026-05-20|1|Hola user_0990, saludo unidireccional desde user_0970.
+1711|983|990|2026-05-20|1|Hola user_0990, saludo unidireccional desde user_0983.
+1712|943|990|2026-10-10|0|Hola user_0990, saludo unidireccional desde user_0943.
+1713|982|990|2026-10-10|1|Hola user_0990, saludo unidireccional desde user_0982.
+1714|991|990|2026-10-14|0|[CASO_LIMITE_512_CHARS] Mensaje de prueba en el borde exacto de Mensaje::LONGITUD_MAXIMA (512 bytes): XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+1715|914|990|2026-10-14|1|Hola user_0990, saludo unidireccional desde user_0914.
+1716|965|990|2026-10-14|1|Hola user_0990, saludo unidireccional desde user_0965.
+1717|997|990|2026-10-14|0|Todo excelente user_0990! Probando listas enlazadas y grafos.
+1718|515|991|2024-02-29|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1719|901|991|2024-02-29|0|Hola user_0991, saludo unidireccional desde user_0901.
+1720|910|991|2024-02-29|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1721|919|991|2024-02-29|0|Hola user_0991, saludo unidireccional desde user_0919.
+1722|931|991|2024-02-29|0|Hola user_0991, saludo unidireccional desde user_0931.
+1723|982|991|2024-02-29|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1724|110|991|2025-01-15|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1725|905|991|2025-01-15|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1726|922|991|2025-01-15|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1727|930|991|2025-01-15|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1728|950|991|2025-01-15|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1729|953|991|2025-01-15|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1730|978|991|2025-01-15|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1731|979|991|2025-01-15|1|Hola user_0991, saludo unidireccional desde user_0979.
+1732|987|991|2025-01-15|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1733|903|991|2025-06-30|1|Hola user_0991, saludo unidireccional desde user_0903.
+1734|909|991|2025-06-30|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1735|918|991|2025-06-30|0|Hola user_0991, saludo unidireccional desde user_0918.
+1736|934|991|2025-06-30|0|Hola user_0991, saludo unidireccional desde user_0934.
+1737|949|991|2025-06-30|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1738|961|991|2025-06-30|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1739|970|991|2025-06-30|1|Hola user_0991, saludo unidireccional desde user_0970.
+1740|911|991|2025-12-31|1|Hola user_0991, saludo unidireccional desde user_0911.
+1741|913|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1742|915|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1743|917|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1744|925|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1745|929|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1746|938|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1747|946|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1748|959|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1749|962|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1750|963|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1751|965|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1752|969|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1753|974|991|2025-12-31|1|Hola user_0991, como vas con el Desafio 2 de C++?
+1754|986|991|2025-12-31|1|Hola user_0991, saludo unidireccional desde user_0986.
+1755|902|991|2026-01-01|0|Hola user_0991, saludo unidireccional desde user_0902.
+1756|923|991|2026-05-20|0|Hola user_0991, saludo unidireccional desde user_0923.
+1757|985|991|2026-05-20|0|Hola user_0991, saludo unidireccional desde user_0985.
+1758|958|991|2026-10-10|0|Hola user_0991, saludo unidireccional desde user_0958.
+1759|977|991|2026-10-10|0|Hola user_0991, saludo unidireccional desde user_0977.
+1760|990|991|2026-10-14|1|Respuesta bidireccional leida correctamente.
+1761|218|991|2026-10-14|1|Hola user_0991, saludo unidireccional desde user_0218.
+1762|622|991|2026-10-14|0|Hola user_0991, saludo unidireccional desde user_0622.
+1763|907|991|2026-10-14|0|Hola user_0991, saludo unidireccional desde user_0907.
+1764|951|991|2026-10-14|1|Hola user_0991, saludo unidireccional desde user_0951.
+1765|999|991|2026-10-14|0|Todo excelente user_0991! Probando listas enlazadas y grafos.
+1766|886|993|2024-02-29|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1767|903|993|2024-02-29|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1768|907|993|2024-02-29|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1769|911|993|2024-02-29|1|Hola user_0993, saludo unidireccional desde user_0911.
+1770|923|993|2024-02-29|1|Hola user_0993, saludo unidireccional desde user_0923.
+1771|938|993|2024-02-29|1|Hola user_0993, saludo unidireccional desde user_0938.
+1772|953|993|2024-02-29|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1773|970|993|2024-02-29|1|Hola user_0993, saludo unidireccional desde user_0970.
+1774|173|993|2025-01-15|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1775|918|993|2025-01-15|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1776|921|993|2025-01-15|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1777|941|993|2025-01-15|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1778|949|993|2025-01-15|0|Hola user_0993, saludo unidireccional desde user_0949.
+1779|957|993|2025-01-15|1|Hola user_0993, saludo unidireccional desde user_0957.
+1780|958|993|2025-01-15|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1781|977|993|2025-01-15|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1782|979|993|2025-01-15|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1783|58|993|2025-06-30|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1784|902|993|2025-06-30|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1785|910|993|2025-06-30|0|Hola user_0993, saludo unidireccional desde user_0910.
+1786|914|993|2025-06-30|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1787|919|993|2025-06-30|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1788|925|993|2025-06-30|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1789|937|993|2025-06-30|0|Hola user_0993, saludo unidireccional desde user_0937.
+1790|946|993|2025-06-30|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1791|969|993|2025-06-30|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1792|974|993|2025-06-30|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1793|981|993|2025-06-30|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1794|989|993|2025-06-30|0|Hola user_0993, saludo unidireccional desde user_0989.
+1795|906|993|2025-12-31|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1796|929|993|2025-12-31|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1797|955|993|2025-12-31|0|Hola user_0993, saludo unidireccional desde user_0955.
+1798|962|993|2025-12-31|0|Hola user_0993, saludo unidireccional desde user_0962.
+1799|975|993|2025-12-31|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1800|983|993|2025-12-31|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1801|990|993|2025-12-31|1|Hola user_0993, como vas con el Desafio 2 de C++?
+1802|909|993|2026-01-01|1|Hola user_0993, saludo unidireccional desde user_0909.
+1803|954|993|2026-01-01|0|Hola user_0993, saludo unidireccional desde user_0954.
+1804|913|993|2026-05-20|0|Hola user_0993, saludo unidireccional desde user_0913.
+1805|943|993|2026-05-20|0|Hola user_0993, saludo unidireccional desde user_0943.
+1806|959|993|2026-05-20|0|Hola user_0993, saludo unidireccional desde user_0959.
+1807|987|993|2026-05-20|0|Hola user_0993, saludo unidireccional desde user_0987.
+1808|999|993|2026-05-20|0|Todo excelente user_0993! Probando listas enlazadas y grafos.
+1809|935|993|2026-10-10|1|Hola user_0993, saludo unidireccional desde user_0935.
+1810|961|993|2026-10-14|1|Hola user_0993, saludo unidireccional desde user_0961.
+1811|971|993|2026-10-14|1|Hola user_0993, saludo unidireccional desde user_0971.
+1812|917|994|2024-02-29|1|Hola user_0994, saludo unidireccional desde user_0917.
+1813|922|994|2024-02-29|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1814|925|994|2024-02-29|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1815|935|994|2024-02-29|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1816|942|994|2024-02-29|0|Hola user_0994, saludo unidireccional desde user_0942.
+1817|957|994|2024-02-29|0|Hola user_0994, saludo unidireccional desde user_0957.
+1818|982|994|2024-02-29|0|Hola user_0994, saludo unidireccional desde user_0982.
+1819|991|994|2024-02-29|0|Hola user_0994, saludo unidireccional desde user_0991.
+1820|993|994|2024-02-29|0|Hola user_0994, saludo unidireccional desde user_0993.
+1821|837|994|2025-01-15|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1822|907|994|2025-01-15|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1823|918|994|2025-01-15|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1824|930|994|2025-01-15|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1825|965|994|2025-01-15|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1826|981|994|2025-01-15|0|Hola user_0994, saludo unidireccional desde user_0981.
+1827|989|994|2025-01-15|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1828|339|994|2025-06-30|0|Hola user_0994, saludo unidireccional desde user_0339.
+1829|903|994|2025-06-30|1|Hola user_0994, saludo unidireccional desde user_0903.
+1830|911|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1831|914|994|2025-06-30|1|Hola user_0994, saludo unidireccional desde user_0914.
+1832|919|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1833|933|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1834|946|994|2025-06-30|0|Hola user_0994, saludo unidireccional desde user_0946.
+1835|949|994|2025-06-30|0|Hola user_0994, saludo unidireccional desde user_0949.
+1836|950|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1837|955|994|2025-06-30|0|Hola user_0994, saludo unidireccional desde user_0955.
+1838|961|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1839|962|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1840|963|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1841|969|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1842|971|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1843|978|994|2025-06-30|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1844|985|994|2025-06-30|0|Hola user_0994, saludo unidireccional desde user_0985.
+1845|906|994|2025-12-31|1|Hola user_0994, saludo unidireccional desde user_0906.
+1846|909|994|2025-12-31|1|Hola user_0994, saludo unidireccional desde user_0909.
+1847|926|994|2025-12-31|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1848|934|994|2025-12-31|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1849|938|994|2025-12-31|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1850|958|994|2025-12-31|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1851|966|994|2025-12-31|1|Hola user_0994, saludo unidireccional desde user_0966.
+1852|974|994|2025-12-31|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1853|986|994|2025-12-31|1|Hola user_0994, como vas con el Desafio 2 de C++?
+1854|901|994|2026-01-01|0|Hola user_0994, saludo unidireccional desde user_0901.
+1855|910|994|2026-01-01|0|Hola user_0994, saludo unidireccional desde user_0910.
+1856|929|994|2026-01-01|0|Hola user_0994, saludo unidireccional desde user_0929.
+1857|905|994|2026-05-20|0|Hola user_0994, saludo unidireccional desde user_0905.
+1858|923|994|2026-05-20|1|Hola user_0994, saludo unidireccional desde user_0923.
+1859|927|994|2026-05-20|1|Hola user_0994, saludo unidireccional desde user_0927.
+1860|987|994|2026-05-20|0|Hola user_0994, saludo unidireccional desde user_0987.
+1861|937|994|2026-10-10|1|Hola user_0994, saludo unidireccional desde user_0937.
+1862|977|994|2026-10-10|1|Hola user_0994, saludo unidireccional desde user_0977.
+1863|915|994|2026-10-14|0|Hola user_0994, saludo unidireccional desde user_0915.
+1864|970|994|2026-10-14|0|Hola user_0994, saludo unidireccional desde user_0970.
+1865|973|994|2026-10-14|0|Hola user_0994, saludo unidireccional desde user_0973.
+1866|353|995|2024-02-29|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1867|922|995|2024-02-29|1|Hola user_0995, saludo unidireccional desde user_0922.
+1868|929|995|2024-02-29|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1869|983|995|2024-02-29|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1870|910|995|2025-01-15|0|Hola user_0995, saludo unidireccional desde user_0910.
+1871|914|995|2025-01-15|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1872|917|995|2025-01-15|1|Hola user_0995, saludo unidireccional desde user_0917.
+1873|925|995|2025-01-15|0|Hola user_0995, saludo unidireccional desde user_0925.
+1874|926|995|2025-01-15|0|Hola user_0995, saludo unidireccional desde user_0926.
+1875|930|995|2025-01-15|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1876|933|995|2025-01-15|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1877|934|995|2025-01-15|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1878|938|995|2025-01-15|0|Hola user_0995, saludo unidireccional desde user_0938.
+1879|942|995|2025-01-15|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1880|945|995|2025-01-15|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1881|957|995|2025-01-15|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1882|962|995|2025-01-15|1|Hola user_0995, saludo unidireccional desde user_0962.
+1883|970|995|2025-01-15|0|Hola user_0995, saludo unidireccional desde user_0970.
+1884|973|995|2025-01-15|0|Hola user_0995, saludo unidireccional desde user_0973.
+1885|977|995|2025-01-15|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1886|903|995|2025-06-30|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1887|907|995|2025-06-30|0|Hola user_0995, saludo unidireccional desde user_0907.
+1888|921|995|2025-06-30|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1889|927|995|2025-06-30|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1890|941|995|2025-06-30|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1891|946|995|2025-06-30|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1892|950|995|2025-06-30|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1893|958|995|2025-06-30|1|Hola user_0995, saludo unidireccional desde user_0958.
+1894|966|995|2025-06-30|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1895|989|995|2025-06-30|1|Hola user_0995, saludo unidireccional desde user_0989.
+1896|993|995|2025-06-30|0|Hola user_0995, saludo unidireccional desde user_0993.
+1897|849|995|2025-12-31|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1898|861|995|2025-12-31|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1899|919|995|2025-12-31|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1900|951|995|2025-12-31|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1901|974|995|2025-12-31|1|Hola user_0995, saludo unidireccional desde user_0974.
+1902|975|995|2025-12-31|1|Hola user_0995, como vas con el Desafio 2 de C++?
+1903|963|995|2026-01-01|0|Hola user_0995, saludo unidireccional desde user_0963.
+1904|965|995|2026-01-01|0|Hola user_0995, saludo unidireccional desde user_0965.
+1905|978|995|2026-01-01|1|Hola user_0995, saludo unidireccional desde user_0978.
+1906|987|995|2026-01-01|1|Hola user_0995, saludo unidireccional desde user_0987.
+1907|947|995|2026-05-20|1|Hola user_0995, saludo unidireccional desde user_0947.
+1908|967|995|2026-05-20|0|Hola user_0995, saludo unidireccional desde user_0967.
+1909|982|995|2026-05-20|0|Hola user_0995, saludo unidireccional desde user_0982.
+1910|986|995|2026-05-20|0|Hola user_0995, saludo unidireccional desde user_0986.
+1911|991|995|2026-05-20|0|Hola user_0995, saludo unidireccional desde user_0991.
+1912|911|995|2026-10-10|0|Hola user_0995, saludo unidireccional desde user_0911.
+1913|990|995|2026-10-10|1|Hola user_0995, saludo unidireccional desde user_0990.
+1914|998|995|2026-10-10|0|Todo excelente user_0995! Probando listas enlazadas y grafos.
+1915|901|995|2026-10-14|0|Hola user_0995, saludo unidireccional desde user_0901.
+1916|997|995|2026-10-14|0|Todo excelente user_0995! Probando listas enlazadas y grafos.
+1917|914|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1918|921|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1919|922|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1920|942|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1921|965|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1922|975|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1923|977|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1924|989|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1925|990|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1926|994|997|2024-02-29|1|Hola user_0997, saludo unidireccional desde user_0994.
+1927|995|997|2024-02-29|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1928|906|997|2025-01-15|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1929|931|997|2025-01-15|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1930|934|997|2025-01-15|1|Hola user_0997, saludo unidireccional desde user_0934.
+1931|943|997|2025-01-15|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1932|961|997|2025-01-15|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1933|962|997|2025-01-15|1|Hola user_0997, saludo unidireccional desde user_0962.
+1934|974|997|2025-01-15|1|Hola user_0997, saludo unidireccional desde user_0974.
+1935|982|997|2025-01-15|0|Hola user_0997, saludo unidireccional desde user_0982.
+1936|987|997|2025-01-15|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1937|902|997|2025-06-30|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1938|915|997|2025-06-30|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1939|925|997|2025-06-30|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1940|949|997|2025-06-30|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1941|985|997|2025-06-30|0|Hola user_0997, saludo unidireccional desde user_0985.
+1942|986|997|2025-06-30|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1943|991|997|2025-06-30|0|Hola user_0997, saludo unidireccional desde user_0991.
+1944|658|997|2025-12-31|0|Hola user_0997, saludo unidireccional desde user_0658.
+1945|910|997|2025-12-31|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1946|911|997|2025-12-31|0|Hola user_0997, saludo unidireccional desde user_0911.
+1947|935|997|2025-12-31|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1948|941|997|2025-12-31|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1949|953|997|2025-12-31|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1950|963|997|2025-12-31|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1951|966|997|2025-12-31|1|Hola user_0997, como vas con el Desafio 2 de C++?
+1952|969|997|2025-12-31|0|Hola user_0997, saludo unidireccional desde user_0969.
+1953|973|997|2025-12-31|0|Hola user_0997, saludo unidireccional desde user_0973.
+1954|223|997|2026-01-01|0|Hola user_0997, saludo unidireccional desde user_0223.
+1955|918|997|2026-01-01|1|Hola user_0997, saludo unidireccional desde user_0918.
+1956|926|997|2026-01-01|0|Hola user_0997, saludo unidireccional desde user_0926.
+1957|993|997|2026-01-01|1|Hola user_0997, saludo unidireccional desde user_0993.
+1958|901|997|2026-05-20|0|Hola user_0997, saludo unidireccional desde user_0901.
+1959|971|997|2026-05-20|1|Hola user_0997, saludo unidireccional desde user_0971.
+1960|909|997|2026-10-10|0|Hola user_0997, saludo unidireccional desde user_0909.
+1961|927|997|2026-10-10|1|Hola user_0997, saludo unidireccional desde user_0927.
+1962|950|997|2026-10-10|1|Hola user_0997, saludo unidireccional desde user_0950.
+1963|958|997|2026-10-10|0|Hola user_0997, saludo unidireccional desde user_0958.
+1964|967|997|2026-10-10|1|Hola user_0997, saludo unidireccional desde user_0967.
+1965|998|997|2026-10-10|0|Todo excelente user_0997! Probando listas enlazadas y grafos.
+1966|306|997|2026-10-14|0|Hola user_0997, saludo unidireccional desde user_0306.
+1967|913|997|2026-10-14|1|Hola user_0997, saludo unidireccional desde user_0913.
+1968|933|997|2026-10-14|0|Hola user_0997, saludo unidireccional desde user_0933.
+1969|939|997|2026-10-14|1|Hola user_0997, saludo unidireccional desde user_0939.
+1970|946|997|2026-10-14|1|Hola user_0997, saludo unidireccional desde user_0946.
+1971|954|997|2026-10-14|0|Hola user_0997, saludo unidireccional desde user_0954.
+1972|955|997|2026-10-14|1|Hola user_0997, saludo unidireccional desde user_0955.
+1973|970|997|2026-10-14|1|Hola user_0997, saludo unidireccional desde user_0970.
+1974|979|997|2026-10-14|1|Hola user_0997, saludo unidireccional desde user_0979.
+1975|902|998|2024-02-29|0|Hola user_0998, saludo unidireccional desde user_0902.
+1976|945|998|2024-02-29|1|Hola user_0998, saludo unidireccional desde user_0945.
+1977|981|998|2024-02-29|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1978|989|998|2024-02-29|0|Hola user_0998, saludo unidireccional desde user_0989.
+1979|993|998|2024-02-29|0|Hola user_0998, saludo unidireccional desde user_0993.
+1980|935|998|2025-01-15|1|Hola user_0998, saludo unidireccional desde user_0935.
+1981|950|998|2025-01-15|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1982|955|998|2025-01-15|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1983|971|998|2025-01-15|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1984|983|998|2025-01-15|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1985|997|998|2025-01-15|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1986|874|998|2025-06-30|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1987|901|998|2025-06-30|1|Hola user_0998, saludo unidireccional desde user_0901.
+1988|903|998|2025-06-30|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1989|905|998|2025-06-30|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1990|922|998|2025-06-30|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1991|934|998|2025-06-30|0|Hola user_0998, saludo unidireccional desde user_0934.
+1992|938|998|2025-06-30|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1993|942|998|2025-06-30|1|Hola user_0998, saludo unidireccional desde user_0942.
+1994|947|998|2025-06-30|1|Hola user_0998, saludo unidireccional desde user_0947.
+1995|954|998|2025-06-30|0|Hola user_0998, saludo unidireccional desde user_0954.
+1996|910|998|2025-12-31|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1997|918|998|2025-12-31|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1998|929|998|2025-12-31|1|Hola user_0998, como vas con el Desafio 2 de C++?
+1999|933|998|2025-12-31|0|Hola user_0998, saludo unidireccional desde user_0933.
+2000|937|998|2025-12-31|0|Hola user_0998, saludo unidireccional desde user_0937.
+2001|957|998|2025-12-31|1|Hola user_0998, saludo unidireccional desde user_0957.
+2002|961|998|2025-12-31|1|Hola user_0998, como vas con el Desafio 2 de C++?
+2003|970|998|2025-12-31|0|Hola user_0998, saludo unidireccional desde user_0970.
+2004|974|998|2025-12-31|0|Hola user_0998, saludo unidireccional desde user_0974.
+2005|995|998|2025-12-31|1|Hola user_0998, como vas con el Desafio 2 de C++?
+2006|913|998|2026-01-01|0|Hola user_0998, saludo unidireccional desde user_0913.
+2007|921|998|2026-01-01|1|Hola user_0998, saludo unidireccional desde user_0921.
+2008|939|998|2026-01-01|1|Hola user_0998, saludo unidireccional desde user_0939.
+2009|949|998|2026-01-01|0|Hola user_0998, saludo unidireccional desde user_0949.
+2010|962|998|2026-01-01|0|Hola user_0998, saludo unidireccional desde user_0962.
+2011|979|998|2026-01-01|1|Hola user_0998, saludo unidireccional desde user_0979.
+2012|927|998|2026-05-20|1|Hola user_0998, saludo unidireccional desde user_0927.
+2013|967|998|2026-05-20|0|Hola user_0998, saludo unidireccional desde user_0967.
+2014|978|998|2026-05-20|1|Hola user_0998, saludo unidireccional desde user_0978.
+2015|999|998|2026-05-20|0|Todo excelente user_0998! Probando listas enlazadas y grafos.
+2016|911|998|2026-10-10|0|Hola user_0998, saludo unidireccional desde user_0911.
+2017|917|998|2026-10-10|0|Hola user_0998, saludo unidireccional desde user_0917.
+2018|977|998|2026-10-10|0|Hola user_0998, saludo unidireccional desde user_0977.
+2019|994|998|2026-10-10|1|Hola user_0998, saludo unidireccional desde user_0994.
+2020|943|998|2026-10-14|0|Hola user_0998, saludo unidireccional desde user_0943.
+2021|959|998|2026-10-14|0|Hola user_0998, saludo unidireccional desde user_0959.
+2022|963|998|2026-10-14|0|Hola user_0998, saludo unidireccional desde user_0963.
+2023|975|998|2026-10-14|1|Hola user_0998, saludo unidireccional desde user_0975.
+2024|917|999|2024-02-29|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2025|918|999|2024-02-29|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2026|925|999|2024-02-29|0|Hola user_0999, saludo unidireccional desde user_0925.
+2027|931|999|2024-02-29|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2028|939|999|2024-02-29|1|Hola user_0999, saludo unidireccional desde user_0939.
+2029|967|999|2024-02-29|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2030|977|999|2024-02-29|1|Hola user_0999, saludo unidireccional desde user_0977.
+2031|521|999|2025-01-15|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2032|901|999|2025-01-15|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2033|905|999|2025-01-15|1|Hola user_0999, saludo unidireccional desde user_0905.
+2034|930|999|2025-01-15|0|Hola user_0999, saludo unidireccional desde user_0930.
+2035|953|999|2025-01-15|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2036|954|999|2025-01-15|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2037|993|999|2025-01-15|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2038|903|999|2025-06-30|0|Hola user_0999, saludo unidireccional desde user_0903.
+2039|910|999|2025-06-30|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2040|962|999|2025-06-30|1|Hola user_0999, saludo unidireccional desde user_0962.
+2041|966|999|2025-06-30|1|Hola user_0999, saludo unidireccional desde user_0966.
+2042|970|999|2025-06-30|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2043|979|999|2025-06-30|0|Hola user_0999, saludo unidireccional desde user_0979.
+2044|991|999|2025-06-30|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2045|937|999|2025-12-31|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2046|950|999|2025-12-31|0|Hola user_0999, saludo unidireccional desde user_0950.
+2047|955|999|2025-12-31|0|Hola user_0999, saludo unidireccional desde user_0955.
+2048|961|999|2025-12-31|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2049|963|999|2025-12-31|0|Hola user_0999, saludo unidireccional desde user_0963.
+2050|971|999|2025-12-31|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2051|973|999|2025-12-31|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2052|982|999|2025-12-31|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2053|989|999|2025-12-31|1|Hola user_0999, saludo unidireccional desde user_0989.
+2054|998|999|2025-12-31|1|Hola user_0999, como vas con el Desafio 2 de C++?
+2055|186|999|2026-01-01|1|Hola user_0999, saludo unidireccional desde user_0186.
+2056|902|999|2026-01-01|1|Hola user_0999, saludo unidireccional desde user_0902.
+2057|913|999|2026-01-01|0|Hola user_0999, saludo unidireccional desde user_0913.
+2058|914|999|2026-01-01|0|Hola user_0999, saludo unidireccional desde user_0914.
+2059|922|999|2026-01-01|0|Hola user_0999, saludo unidireccional desde user_0922.
+2060|911|999|2026-05-20|1|Hola user_0999, saludo unidireccional desde user_0911.
+2061|997|999|2026-05-20|0|Hola user_0999, saludo unidireccional desde user_0997.
+2062|935|999|2026-10-10|0|Hola user_0999, saludo unidireccional desde user_0935.
+2063|951|999|2026-10-10|1|Hola user_0999, saludo unidireccional desde user_0951.
+2064|957|999|2026-10-10|1|Hola user_0999, saludo unidireccional desde user_0957.
+2065|975|999|2026-10-10|1|Hola user_0999, saludo unidireccional desde user_0975.
+2066|981|999|2026-10-14|0|Hola user_0999, saludo unidireccional desde user_0981.
+2067|985|999|2026-10-14|1|Hola user_0999, saludo unidireccional desde user_0985.
+2068|990|999|2026-10-14|1|Hola user_0999, saludo unidireccional desde user_0990.
