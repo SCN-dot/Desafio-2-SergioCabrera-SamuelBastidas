@@ -85,7 +85,7 @@ static void mostrarMejoresAmigos(RedSocial& red, Usuario* u, bool alternar) {
             cout << "Aun no tienes amigos para mostrar." << endl;
         }
     } else {
-        cout << "\n=== Tus mejores amigos ===" << endl;
+        cout << "\nTus mejores amigos" << endl;
         for (int i = 0; i < n; i++) {
             cout << "  " << (i + 1) << ". " << rutas[i] << endl;
         }
@@ -146,7 +146,7 @@ static void enviarSolicitud(RedSocial& red, Usuario* u) {
 static void verSolicitudes(RedSocial& red, Usuario* u) {
     monitorGlobal.reiniciarIteraciones();
     int pendientes = 0;
-    cout << "\n=== Solicitudes recibidas pendientes ===" << endl;
+    cout << "\nSolicitudes recibidas pendientes" << endl;
     for (Nodo<SolicitudAmistad*>* n = u->obtenerSolicitudes().obtenerCabeza(); n != nullptr; n = n->obtenerSiguiente()) {
         monitorGlobal.registrarIteraciones(1);
         const SolicitudAmistad* s = n->obtenerDato();
@@ -192,7 +192,7 @@ static void verSolicitudes(RedSocial& red, Usuario* u) {
 
 static void menuAmistades(RedSocial& red, Usuario* u) {
     while (!entradaCerrada) {
-        cout << "\n--- Administrar amistades ---" << endl;
+        cout << "\nAdministrar amistades" << endl;
         cout << "1. Enviar solicitud de amistad" << endl;
         cout << "2. Ver solicitudes recibidas (aceptar/rechazar)" << endl;
         cout << "0. Volver" << endl;
@@ -246,7 +246,7 @@ static void visitarPerfil(RedSocial& red, Usuario* u) {
     }
 
     int visibles = 0;
-    cout << "\n=== Albumes de " << amigo->obtenerUsername() << " ===" << endl;
+    cout << "\nAlbumes de " << amigo->obtenerUsername() << endl;
     for (Nodo<Album*>* n = amigo->obtenerAlbumes().obtenerCabeza(); n != nullptr; n = n->obtenerSiguiente()) {
         monitorGlobal.registrarIteraciones(1);
         const Album* a = n->obtenerDato();
@@ -302,7 +302,7 @@ static void verSugerencias(RedSocial& red, Usuario* u) {
     red.obtenerSugerencias(u, (int)k, sugeridos);
     int cantidad = sugeridos.obtenerTamano();
 
-    cout << "\n=== Sugerencias de amistad ===" << endl;
+    cout << "\nSugerencias de amistad" << endl;
     if (cantidad == 0) {
         cout << "  No hay sugerencias disponibles." << endl;
     }
@@ -361,7 +361,7 @@ static void leerNuevos(RedSocial& red, Usuario* u) {
     monitorGlobal.reiniciarIteraciones();
     Lista<Mensaje*> nuevos;
     red.leerMensajesNuevos(u, nuevos);
-    cout << "\n=== Mensajes nuevos ===" << endl;
+    cout << "\nMensajes nuevos" << endl;
     if (nuevos.estaVacia()) {
         cout << "  No tienes mensajes nuevos." << endl;
     }
@@ -394,7 +394,7 @@ static void buscarPorRango(RedSocial& red, Usuario* u) {
 
     Lista<Mensaje*> encontrados;
     u->buscarMensajesPorRango(inicio, fin, encontrados);
-    cout << "\n=== Mensajes recibidos entre " << t1 << " y " << t2 << " ===" << endl;
+    cout << "\nMensajes recibidos entre " << t1 << " y " << t2 << endl;
     if (encontrados.estaVacia()) {
         cout << "  No hay mensajes en ese rango." << endl;
     }
@@ -408,7 +408,7 @@ static void buscarPorRango(RedSocial& red, Usuario* u) {
 
 static void menuMensajes(RedSocial& red, Usuario* u) {
     while (!entradaCerrada) {
-        cout << "\n--- Administrar mensajes ---" << endl;
+        cout << "\nAdministrar mensajes" << endl;
         cout << "1. Enviar mensaje" << endl;
         cout << "2. Leer nuevos mensajes" << endl;
         cout << "3. Buscar mensajes por rango de fecha" << endl;
@@ -427,7 +427,7 @@ static void sesion(RedSocial& red, Usuario* u) {
     mostrarMejoresAmigos(red, u, false);
 
     while (!entradaCerrada) {
-        cout << "\n===== Ude@Book - Menu principal =====" << endl;
+        cout << "\nUde@Book - Menu principal" << endl;
         cout << "1. Actualizar fotos de mejores amigos (una sola vez)" << endl;
         cout << "2. Administrar amistades" << endl;
         cout << "3. Visitar perfil de un amigo" << endl;
@@ -464,7 +464,7 @@ int main() {
     mostrarMetricas(0);
 
     while (!entradaCerrada) {
-        cout << "\n===== Ude@Book =====" << endl;
+        cout << "\nUde@Book" << endl;
         cout << "1. Iniciar sesion" << endl;
         cout << "0. Salir" << endl;
         long op = leerNumero("Opcion: ");
