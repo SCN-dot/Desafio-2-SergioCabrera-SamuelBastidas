@@ -12,7 +12,7 @@ private:
     char* nombre;
     char* rutaAlmacenamiento;
     int privacidad;
-    Lista<Foto*> fotos
+    Lista<Foto*> fotos;
 
     void liberarFotos();
 
